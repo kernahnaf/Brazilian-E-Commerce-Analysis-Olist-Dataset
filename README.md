@@ -3,6 +3,8 @@
 ![Dashboard 1](Dashboard_1.png)
 ![Dashboard 2](Dashboard_2.png)
 
+Data Visualization Tableau: https://public.tableau.com/views/VisualisasiBrazilE-Commerce/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## 🔍 Project Overview
 An end-to-end analysis of Olist's Brazilian e-commerce marketplace, covering:
 - Data extraction and cleaning with **MySQL**
