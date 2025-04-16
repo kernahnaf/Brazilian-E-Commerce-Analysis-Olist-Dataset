@@ -1,0 +1,6662 @@
+"order_year";"city";"total_order"
+2016;"sao paulo";31
+2016;"rio de janeiro";27
+2016;"belo horizonte";10
+2016;"brasilia";6
+2016;"campinas";6
+2016;"curitiba";6
+2016;"goiania";4
+2016;"londrina";4
+2016;"fortaleza";4
+2016;"recife";4
+2016;"sao bernardo do campo";3
+2016;"taubate";3
+2016;"sao goncalo";3
+2016;"santo andre";3
+2016;"maua";2
+2016;"limeira";2
+2016;"praia grande";2
+2016;"santos";2
+2016;"porto alegre";2
+2016;"varginha";2
+2016;"caxias do sul";2
+2016;"juiz de fora";2
+2016;"pocos de caldas";2
+2016;"suzano";2
+2016;"sao carlos";2
+2016;"santo angelo";2
+2016;"uberlandia";2
+2016;"sao jose";2
+2016;"natal";2
+2016;"campos do jordao";1
+2016;"hortolandia";1
+2016;"osasco";1
+2016;"xanxere";1
+2016;"bayeux";1
+2016;"cuiaba";1
+2016;"salto veloso";1
+2016;"sobral";1
+2016;"caratinga";1
+2016;"ipatinga";1
+2016;"petropolis";1
+2016;"sao joaquim da barra";1
+2016;"ferraz de vasconcelos";1
+2016;"nanuque";1
+2016;"santarem";1
+2016;"apuarema";1
+2016;"cianorte";1
+2016;"sao lourenco";1
+2016;"campo mourao";1
+2016;"guarulhos";1
+2016;"novo progresso";1
+2016;"vila velha";1
+2016;"barueri";1
+2016;"cotia";1
+2016;"maringa";1
+2016;"salto";1
+2016;"siqueira campos";1
+2016;"capivari";1
+2016;"indaiatuba";1
+2016;"pauliceia";1
+2016;"sao joao da boa vista";1
+2016;"boa vista";1
+2016;"faxinal dos guedes";1
+2016;"mozarlandia";1
+2016;"santa rosa";1
+2016;"tatui";1
+2016;"aparecida de goiania";1
+2016;"charqueada";1
+2016;"leme";1
+2016;"sao jose dos pinhais";1
+2016;"guapimirim";1
+2016;"novo hamburgo";1
+2016;"santo antonio do sudoeste";1
+2016;"barreirinhas";1
+2016;"coronel fabriciano";1
+2016;"marica";1
+2016;"rondon do para";1
+2016;"sertaozinho";1
+2016;"capinopolis";1
+2016;"igarassu";1
+2016;"parobe";1
+2016;"benedito novo";1
+2016;"eunapolis";1
+2016;"montes claros";1
+2016;"santa isabel";1
+2016;"tapejara";1
+2016;"sao jose dos campos";1
+2016;"ananindeua";1
+2016;"cambe";1
+2016;"gravatal";1
+2016;"nova esperanca";1
+2016;"santo antonio de padua";1
+2016;"vargem";1
+2016;"balneario barra do sul";1
+2016;"coromandel";1
+2016;"maceio";1
+2016;"serra negra";1
+2016;"capim branco";1
+2016;"ibirite";1
+2016;"parnamirim";1
+2016;"sao francisco";1
+2016;"duque de caxias";1
+2016;"mongagua";1
+2016;"santa ines";1
+2016;"casa branca";1
+2016;"jacarei";1
+2016;"poa";1
+2016;"sao jose do rio pardo";1
+2016;"alem paraiba";1
+2016;"caetanopolis";1
+2016;"nossa senhora da gloria";1
+2016;"santo antonio da patrulha";1
+2016;"valinhos";1
+2016;"bage";1
+2016;"contagem";1
+2016;"macae";1
+2016;"rio branco do sul";1
+2016;"senador canedo";1
+2016;"cantagalo";1
+2016;"ibimirim";1
+2016;"panambi";1
+2016;"bela cruz";1
+2016;"diadema";1
+2016;"mogi-guacu";1
+2016;"santa cruz do sul";1
+2016;"sorocaba";1
+2016;"carmo da mata";1
+2016;"ituiutaba";1
+2016;"pirassununga";1
+2016;"sao jose de ribamar";1
+2016;"cachoeiro de itapemirim";1
+2016;"gaspar";1
+2016;"niteroi";1
+2016;"bacaxa";1
+2016;"condor";1
+2016;"ribeirao preto";1
+2016;"canoas";1
+2016;"iacu";1
+2016;"ouro preto";1
+2016;"sao caetano do sul";1
+2016;"bebedouro";1
+2016;"mesquita";1
+2016;"santa cruz";1
+2016;"soledade de minas";1
+2016;"cariacica";1
+2016;"itaquaquecetuba";1
+2016;"piracicaba";1
+2016;"cachoeira do sul";1
+2016;"teresina";1
+2016;"aracaju";1
+2016;"cidade gaucha";1
+2016;"lins";1
+2016;"sao luis";1
+2017;"sao paulo";6123
+2017;"rio de janeiro";3198
+2017;"belo horizonte";1160
+2017;"brasilia";872
+2017;"porto alegre";675
+2017;"curitiba";632
+2017;"campinas";599
+2017;"salvador";539
+2017;"guarulhos";470
+2017;"sao bernardo do campo";382
+2017;"niteroi";339
+2017;"santo andre";333
+2017;"osasco";311
+2017;"fortaleza";303
+2017;"santos";288
+2017;"goiania";264
+2017;"sao jose dos campos";264
+2017;"sorocaba";261
+2017;"recife";255
+2017;"florianopolis";247
+2017;"jundiai";235
+2017;"ribeirao preto";224
+2017;"belem";212
+2017;"sao goncalo";205
+2017;"nova iguacu";194
+2017;"juiz de fora";185
+2017;"mogi das cruzes";181
+2017;"uberlandia";179
+2017;"vitoria";178
+2017;"contagem";168
+2017;"sao luis";158
+2017;"barueri";157
+2017;"vila velha";146
+2017;"duque de caxias";146
+2017;"piracicaba";142
+2017;"sao jose do rio preto";140
+2017;"serra";130
+2017;"campo grande";128
+2017;"joinville";126
+2017;"carapicuiba";126
+2017;"maringa";124
+2017;"indaiatuba";124
+2017;"praia grande";121
+2017;"taubate";119
+2017;"bauru";119
+2017;"londrina";118
+2017;"aracaju";117
+2017;"guaruja";113
+2017;"teresina";113
+2017;"sao caetano do sul";112
+2017;"montes claros";111
+2017;"campos dos goytacazes";110
+2017;"diadema";109
+2017;"volta redonda";109
+2017;"caxias do sul";108
+2017;"taboao da serra";108
+2017;"joao pessoa";107
+2017;"sao carlos";105
+2017;"cotia";105
+2017;"maua";103
+2017;"suzano";102
+2017;"canoas";101
+2017;"maceio";99
+2017;"petropolis";98
+2017;"natal";98
+2017;"macae";95
+2017;"cuiaba";95
+2017;"americana";94
+2017;"santa maria";91
+2017;"feira de santana";90
+2017;"betim";83
+2017;"marilia";82
+2017;"blumenau";82
+2017;"sumare";81
+2017;"jacarei";79
+2017;"pelotas";79
+2017;"uberaba";78
+2017;"ipatinga";78
+2017;"limeira";77
+2017;"valinhos";77
+2017;"atibaia";73
+2017;"divinopolis";72
+2017;"manaus";71
+2017;"rio claro";70
+2017;"franca";70
+2017;"sao vicente";69
+2017;"ponta grossa";68
+2017;"marica";68
+2017;"rio das ostras";68
+2017;"nova friburgo";67
+2017;"sao jose";67
+2017;"hortolandia";66
+2017;"araraquara";65
+2017;"cariacica";65
+2017;"itapevi";65
+2017;"cascavel";65
+2017;"sao joao de meriti";64
+2017;"aracatuba";64
+2017;"itaquaquecetuba";64
+2017;"santana de parnaiba";64
+2017;"belford roxo";61
+2017;"rio grande";59
+2017;"porto velho";58
+2017;"barra mansa";58
+2017;"braganca paulista";57
+2017;"gravatai";57
+2017;"presidente prudente";57
+2017;"resende";57
+2017;"passo fundo";56
+2017;"governador valadares";56
+2017;"cabo frio";55
+2017;"embu das artes";55
+2017;"pouso alegre";54
+2017;"sete lagoas";54
+2017;"paulinia";54
+2017;"anapolis";52
+2017;"nilopolis";52
+2017;"pocos de caldas";52
+2017;"teresopolis";52
+2017;"ribeirao pires";51
+2017;"franco da rocha";51
+2017;"palmas";51
+2017;"sao leopoldo";51
+2017;"jaboatao dos guararapes";50
+2017;"cajamar";49
+2017;"itajai";49
+2017;"aparecida de goiania";49
+2017;"patos de minas";49
+2017;"itu";48
+2017;"jaragua do sul";48
+2017;"angra dos reis";48
+2017;"cachoeiro de itapemirim";48
+2017;"mage";47
+2017;"vinhedo";47
+2017;"novo hamburgo";47
+2017;"sao jose dos pinhais";46
+2017;"rio branco";46
+2017;"ribeirao das neves";46
+2017;"santa barbara d'oeste";45
+2017;"chapeco";45
+2017;"botucatu";44
+2017;"santa luzia";44
+2017;"ananindeua";44
+2017;"olinda";44
+2017;"sao joao da boa vista";44
+2017;"araruama";43
+2017;"palhoca";43
+2017;"lavras";43
+2017;"ferraz de vasconcelos";43
+2017;"caieiras";43
+2017;"vicosa";42
+2017;"cubatao";42
+2017;"itapecerica da serra";41
+2017;"ourinhos";41
+2017;"guaratingueta";41
+2017;"vitoria da conquista";41
+2017;"barbacena";40
+2017;"itatiba";40
+2017;"pindamonhangaba";40
+2017;"araxa";40
+2017;"francisco morato";40
+2017;"lages";39
+2017;"teofilo otoni";39
+2017;"lorena";39
+2017;"jandira";38
+2017;"itajuba";38
+2017;"votorantim";38
+2017;"varzea paulista";37
+2017;"foz do iguacu";37
+2017;"varginha";37
+2017;"assis";37
+2017;"guarapari";37
+2017;"lauro de freitas";36
+2017;"caraguatatuba";36
+2017;"santa cruz do sul";36
+2017;"brusque";36
+2017;"poa";36
+2017;"petrolina";36
+2017;"nova lima";36
+2017;"pirassununga";35
+2017;"ilheus";35
+2017;"conselheiro lafaiete";35
+2017;"mogi mirim";35
+2017;"colatina";35
+2017;"cachoeirinha";35
+2017;"balneario camboriu";35
+2017;"itanhaem";34
+2017;"araras";34
+2017;"mairipora";34
+2017;"campina grande";34
+2017;"jatai";34
+2017;"itabira";34
+2017;"mogi-guacu";34
+2017;"criciuma";34
+2017;"muriae";33
+2017;"sao sebastiao";33
+2017;"itapetininga";33
+2017;"salto";33
+2017;"bage";33
+2017;"itaborai";32
+2017;"catanduva";32
+2017;"manhuacu";32
+2017;"jau";31
+2017;"toledo";31
+2017;"ubatuba";31
+2017;"tubarao";31
+2017;"birigui";30
+2017;"barretos";30
+2017;"sao roque";30
+2017;"aruja";30
+2017;"sao joao del rei";30
+2017;"guarapuava";30
+2017;"cruzeiro";30
+2017;"jaguariuna";30
+2017;"linhares";29
+2017;"viamao";29
+2017;"rio verde";29
+2017;"mesquita";29
+2017;"bento goncalves";29
+2017;"unai";29
+2017;"alvorada";28
+2017;"sao pedro da aldeia";28
+2017;"amparo";28
+2017;"caratinga";28
+2017;"tatui";28
+2017;"pinhais";27
+2017;"queimados";27
+2017;"apucarana";27
+2017;"cacapava";27
+2017;"araguari";27
+2017;"valenca";27
+2017;"lagoa santa";27
+2017;"itapeva";27
+2017;"votuporanga";27
+2017;"barreiras";27
+2017;"ouro preto";27
+2017;"itabuna";27
+2017;"rondonopolis";27
+2017;"nova serrana";27
+2017;"uba";26
+2017;"timoteo";26
+2017;"avare";26
+2017;"jaboticabal";26
+2017;"curvelo";26
+2017;"erechim";26
+2017;"paracatu";26
+2017;"colombo";26
+2017;"paranagua";26
+2017;"sao mateus";25
+2017;"concordia";25
+2017;"santo angelo";25
+2017;"joao monlevade";25
+2017;"santarem";25
+2017;"ituiutaba";25
+2017;"porto seguro";25
+2017;"lins";25
+2017;"campo mourao";25
+2017;"itauna";25
+2017;"ijui";24
+2017;"itaguai";24
+2017;"barra do pirai";24
+2017;"imperatriz";24
+2017;"bom despacho";24
+2017;"fernandopolis";24
+2017;"camacari";24
+2017;"tupa";24
+2017;"sertaozinho";24
+2017;"itapira";24
+2017;"tres rios";24
+2017;"peruibe";24
+2017;"sapucaia do sul";23
+2017;"videira";23
+2017;"francisco beltrao";23
+2017;"bertioga";23
+2017;"capao da canoa";23
+2017;"caruaru";23
+2017;"matao";23
+2017;"leme";22
+2017;"sao bento do sul";22
+2017;"boituva";22
+2017;"campo limpo paulista";22
+2017;"sabara";22
+2017;"bebedouro";22
+2017;"passos";22
+2017;"pirapora";22
+2017;"patrocinio";22
+2017;"paracambi";22
+2017;"saquarema";21
+2017;"catalao";21
+2017;"mongagua";21
+2017;"aracruz";21
+2017;"ponte nova";21
+2017;"santa cruz do rio pardo";21
+2017;"caldas novas";21
+2017;"embu-guacu";21
+2017;"lajeado";21
+2017;"parnamirim";21
+2017;"juazeiro";21
+2017;"para de minas";20
+2017;"caucaia";20
+2017;"sao miguel do oeste";20
+2017;"itupeva";20
+2017;"louveira";20
+2017;"eunapolis";20
+2017;"arapiraca";20
+2017;"sinop";20
+2017;"sao jose do rio pardo";20
+2017;"alfenas";19
+2017;"montenegro";19
+2017;"paulo afonso";19
+2017;"registro";19
+2017;"miguel pereira";19
+2017;"itaperuna";19
+2017;"extrema";19
+2017;"arcos";19
+2017;"pato branco";19
+2017;"paulista";19
+2017;"esteio";19
+2017;"formosa";19
+2017;"vargem grande paulista";19
+2017;"tres lagoas";19
+2017;"almirante tamandare";19
+2017;"paranavai";19
+2017;"garanhuns";19
+2017;"araucaria";19
+2017;"tremembe";18
+2017;"ibirite";18
+2017;"boa vista";18
+2017;"ouro branco";18
+2017;"promissao";18
+2017;"andradina";18
+2017;"camboriu";18
+2017;"cataguases";18
+2017;"telemaco borba";18
+2017;"uniao da vitoria";18
+2017;"vassouras";18
+2017;"santa fe do sul";18
+2017;"macapa";18
+2017;"lencois paulista";18
+2017;"mirassol";18
+2017;"olimpia";18
+2017;"capivari";18
+2017;"mococa";18
+2017;"tiete";17
+2017;"uruguaiana";17
+2017;"santo antonio de padua";17
+2017;"gramado";17
+2017;"coronel fabriciano";17
+2017;"tres coracoes";17
+2017;"rio do sul";17
+2017;"dourados";17
+2017;"penapolis";17
+2017;"cambe";17
+2017;"itapema";17
+2017;"alagoinhas";17
+2017;"pedro leopoldo";17
+2017;"formiga";17
+2017;"parauapebas";17
+2017;"jequie";16
+2017;"guaiba";16
+2017;"umuarama";16
+2017;"dracena";16
+2017;"varzea grande";16
+2017;"congonhas";16
+2017;"monte alto";16
+2017;"cosmopolis";16
+2017;"canoinhas";16
+2017;"luis eduardo magalhaes";16
+2017;"mariana";16
+2017;"sao lourenco";16
+2017;"vespasiano";16
+2017;"guaxupe";16
+2017;"mossoro";16
+2017;"luziania";16
+2017;"sobral";16
+2017;"juazeiro do norte";16
+2017;"guaira";16
+2017;"tijucas";16
+2017;"cianorte";16
+2017;"presidente venceslau";15
+2017;"itabirito";15
+2017;"sao sebastiao do paraiso";15
+2017;"santa barbara";15
+2017;"garopaba";15
+2017;"cacador";15
+2017;"seropedica";15
+2017;"trindade";15
+2017;"piumhii";15
+2017;"valparaiso de goias";15
+2017;"caceres";15
+2017;"capao bonito";15
+2017;"xanxere";15
+2017;"januaria";15
+2017;"alegrete";15
+2017;"rio bonito";15
+2017;"anchieta";15
+2017;"parnaiba";14
+2017;"porto feliz";14
+2017;"barra bonita";14
+2017;"piedade";14
+2017;"mineiros";14
+2017;"nanuque";14
+2017;"adamantina";14
+2017;"casimiro de abreu";14
+2017;"ilhabela";14
+2017;"navegantes";14
+2017;"nova venecia";14
+2017;"dois vizinhos";14
+2017;"tramandai";14
+2017;"barra do garcas";14
+2017;"joacaba";14
+2017;"santa isabel";14
+2017;"cachoeira do sul";14
+2017;"coromandel";14
+2017;"itumbiara";14
+2017;"japeri";14
+2017;"castro";14
+2017;"indaial";14
+2017;"artur nogueira";14
+2017;"primavera do leste";14
+2017;"monte mor";14
+2017;"taquaritinga";14
+2017;"santa rita do sapucai";14
+2017;"porto ferreira";14
+2017;"parati";13
+2017;"ibiuna";13
+2017;"batatais";13
+2017;"machado";13
+2017;"osorio";13
+2017;"jales";13
+2017;"marechal candido rondon";13
+2017;"cruz alta";13
+2017;"arapongas";13
+2017;"dias d'avila";13
+2017;"castanhal";13
+2017;"alem paraiba";13
+2017;"santo anastacio";13
+2017;"pinhalzinho";13
+2017;"gaspar";13
+2017;"icara";13
+2017;"arraial do cabo";13
+2017;"cravinhos";13
+2017;"aparecida";13
+2017;"teixeira de freitas";13
+2017;"gurupi";13
+2017;"pedreira";13
+2017;"nova odessa";12
+2017;"itarare";12
+2017;"veranopolis";12
+2017;"redencao";12
+2017;"pereira barreto";12
+2017;"piracaia";12
+2017;"cerquilho";12
+2017;"cachoeira paulista";12
+2017;"guanambi";12
+2017;"iracemapolis";12
+2017;"santo antonio de jesus";12
+2017;"campo largo";12
+2017;"floriano";12
+2017;"campo bom";12
+2017;"guapimirim";12
+2017;"espera feliz";12
+2017;"brumado";12
+2017;"vitoria de santo antao";12
+2017;"campos do jordao";12
+2017;"santa rosa";12
+2017;"agua boa";12
+2017;"jacobina";12
+2017;"sarandi";12
+2017;"balsas";12
+2017;"itapetinga";12
+2017;"guapore";12
+2017;"imbituba";12
+2017;"santo antonio de posse";11
+2017;"crato";11
+2017;"nova granada";11
+2017;"embu";11
+2017;"cantagalo";11
+2017;"diamantina";11
+2017;"rolandia";11
+2017;"venancio aires";11
+2017;"lucas do rio verde";11
+2017;"guararapes";11
+2017;"pitangueiras";11
+2017;"oliveira";11
+2017;"sao gabriel";11
+2017;"fazenda rio grande";11
+2017;"capelinha";11
+2017;"ilha solteira";11
+2017;"biguacu";11
+2017;"vilhena";11
+2017;"rancharia";11
+2017;"paragominas";11
+2017;"pirai";11
+2017;"sao joaquim da barra";11
+2017;"claudio";11
+2017;"mairinque";11
+2017;"maracanau";11
+2017;"simoes filho";11
+2017;"sapiranga";11
+2017;"araguaina";11
+2017;"sao simao";11
+2017;"bom jardim";11
+2017;"juquitiba";11
+2017;"frutal";11
+2017;"ituverava";11
+2017;"carangola";11
+2017;"palmital";11
+2017;"cambui";10
+2017;"tangara da serra";10
+2017;"jacutinga";10
+2017;"medianeira";10
+2017;"nossa senhora do socorro";10
+2017;"estrela";10
+2017;"sao fidelis";10
+2017;"tres pontas";10
+2017;"cornelio procopio";10
+2017;"iguatu";10
+2017;"sorriso";10
+2017;"cruz das almas";10
+2017;"rio grande da serra";10
+2017;"cordeiro";10
+2017;"senhor do bonfim";10
+2017;"itabaiana";10
+2017;"monte carmelo";10
+2017;"cabo de santo agostinho";10
+2017;"visconde do rio branco";10
+2017;"aracati";10
+2017;"mafra";10
+2017;"goianesia";10
+2017;"miracema";10
+2017;"presidente dutra";10
+2017;"santa vitoria";10
+2017;"sao gotardo";10
+2017;"altamira";10
+2017;"janauba";10
+2017;"ariquemes";10
+2017;"caete";10
+2017;"ji-parana";10
+2017;"marituba";10
+2017;"santo antonio do monte";10
+2017;"ouro fino";10
+2017;"novo gama";10
+2017;"camaragibe";10
+2017;"candido mota";10
+2017;"vacaria";10
+2017;"barrinha";9
+2017;"caxambu";9
+2017;"frederico westphalen";9
+2017;"miguelopolis";9
+2017;"guanhaes";9
+2017;"itaocara";9
+2017;"patos";9
+2017;"bom jesus do itabapoana";9
+2017;"paraguacu paulista";9
+2017;"carazinho";9
+2017;"penha";9
+2017;"pitangui";9
+2017;"pojuca";9
+2017;"maraba";9
+2017;"charqueadas";9
+2017;"quixada";9
+2017;"bonito";9
+2017;"cesario lange";9
+2017;"rio negro";9
+2017;"uruacu";9
+2017;"conselheiro pena";9
+2017;"corumba";9
+2017;"canela";9
+2017;"cerqueira cesar";9
+2017;"lagoa vermelha";9
+2017;"irati";9
+2017;"jaguariaiva";9
+2017;"pinheiral";9
+2017;"nova era";9
+2017;"timbo";9
+2017;"carlos barbosa";9
+2017;"rosario do sul";9
+2017;"taquara";9
+2017;"barao de cocais";9
+2017;"morrinhos";9
+2017;"santiago";9
+2017;"monte siao";9
+2017;"ipojuca";9
+2017;"orlandia";9
+2017;"estancia velha";9
+2017;"campo belo";9
+2017;"novo horizonte";9
+2017;"salinas";9
+2017;"brumadinho";9
+2017;"americo brasiliense";9
+2017;"ibitinga";9
+2017;"holambra";9
+2017;"quatro barras";9
+2017;"araquari";9
+2017;"tupaciguara";9
+2017;"sao lourenco do sul";9
+2017;"sao luiz gonzaga";9
+2017;"ibiruba";9
+2017;"pederneiras";9
+2017;"itapolis";9
+2017;"matinhos";9
+2017;"aguas de lindoia";9
+2017;"posse";8
+2017;"santa rita do passa quatro";8
+2017;"serrana";8
+2017;"cachoeiras de macacu";8
+2017;"ipameri";8
+2017;"cordeiropolis";8
+2017;"santana do paraiso";8
+2017;"eldorado do sul";8
+2017;"antonina";8
+2017;"santa helena";8
+2017;"ipero";8
+2017;"santana";8
+2017;"tabapua";8
+2017;"osvaldo cruz";8
+2017;"lagarto";8
+2017;"santos dumont";8
+2017;"curitibanos";8
+2017;"sarzedo";8
+2017;"barra velha";8
+2017;"papucaia";8
+2017;"tucurui";8
+2017;"timon";8
+2017;"aguas lindas de goias";8
+2017;"laranjeiras do sul";8
+2017;"corinto";8
+2017;"sao borja";8
+2017;"santo amaro";8
+2017;"junqueiropolis";8
+2017;"coronel vivida";8
+2017;"juina";8
+2017;"laranjal paulista";8
+2017;"ararangua";8
+2017;"armacao dos buzios";8
+2017;"varzea da palma";8
+2017;"campo novo do parecis";8
+2017;"jaguare";8
+2017;"sao pedro";8
+2017;"sacramento";8
+2017;"serrinha";8
+2017;"candeias";8
+2017;"farroupilha";8
+2017;"tapiratiba";8
+2017;"conchal";8
+2017;"garca";8
+2017;"piuma";8
+2017;"bambui";8
+2017;"paraisopolis";8
+2017;"jarinu";8
+2017;"andira";8
+2017;"marau";8
+2017;"paranaiba";8
+2017;"agudos";8
+2017;"cunha";8
+2017;"paraiba do sul";8
+2017;"bombinhas";8
+2017;"sobradinho";8
+2017;"sao mateus do sul";8
+2017;"almenara";8
+2017;"matozinhos";8
+2017;"alegre";8
+2017;"iguaba grande";8
+2017;"marataizes";8
+2017;"itapoa";7
+2017;"carmo do rio claro";7
+2017;"piraju";7
+2017;"carandai";7
+2017;"joao pinheiro";7
+2017;"viana";7
+2017;"camaqua";7
+2017;"itapipoca";7
+2017;"raposos";7
+2017;"piraquara";7
+2017;"sao goncalo do amarante";7
+2017;"alto do rodrigues";7
+2017;"pires do rio";7
+2017;"buritizeiro";7
+2017;"santa gertrudes";7
+2017;"nova andradina";7
+2017;"conceicao do mato dentro";7
+2017;"panambi";7
+2017;"vera cruz";7
+2017;"natividade";7
+2017;"buri";7
+2017;"conceicao de macabu";7
+2017;"macatuba";7
+2017;"torres";7
+2017;"afonso claudio";7
+2017;"leopoldina";7
+2017;"mendes";7
+2017;"coribe";7
+2017;"guacui";7
+2017;"cafelandia";7
+2017;"assis chateaubriand";7
+2017;"palotina";7
+2017;"boa esperanca";7
+2017;"goiatuba";7
+2017;"mar de espanha";7
+2017;"itatiaia";7
+2017;"braco do norte";7
+2017;"pompeia";7
+2017;"santana do livramento";7
+2017;"auriflama";7
+2017;"ibirama";7
+2017;"tambau";7
+2017;"santa ines";7
+2017;"forquilhinha";7
+2017;"abaete";7
+2017;"sao manuel";7
+2017;"parobe";7
+2017;"pomerode";7
+2017;"quissama";7
+2017;"ibipora";7
+2017;"estancia";7
+2017;"sao sebastiao do cai";7
+2017;"vila valerio";7
+2017;"santo antonio da platina";7
+2017;"querencia";7
+2017;"planalto";7
+2017;"nova prata";7
+2017;"palmeira das missoes";7
+2017;"capinzal";7
+2017;"bastos";7
+2017;"cajati";7
+2017;"santo antonio da patrulha";7
+2017;"mangueirinha";7
+2017;"bocaiuva";7
+2017;"sao francisco";7
+2017;"alta floresta";7
+2017;"pilar do sul";7
+2017;"venda nova do imigrante";7
+2017;"santa maria de jetiba";6
+2017;"ivoti";6
+2017;"sao jose da lapa";6
+2017;"paco do lumiar";6
+2017;"cangucu";6
+2017;"matias barbosa";6
+2017;"nova ponte";6
+2017;"taruma";6
+2017;"capinopolis";6
+2017;"tres de maio";6
+2017;"ponta pora";6
+2017;"porto nacional";6
+2017;"bandeirantes";6
+2017;"iturama";6
+2017;"igrejinha";6
+2017;"aperibe";6
+2017;"aracuai";6
+2017;"prata";6
+2017;"castelo";6
+2017;"lucelia";6
+2017;"crateus";6
+2017;"itamonte";6
+2017;"triunfo";6
+2017;"carmo do paranaiba";6
+2017;"barroso";6
+2017;"bom jesus";6
+2017;"braganca";6
+2017;"lagoa da prata";6
+2017;"perdoes";6
+2017;"teotonio vilela";6
+2017;"ituporanga";6
+2017;"sao lourenco da serra";6
+2017;"itamaraju";6
+2017;"nova santa rita";6
+2017;"piquete";6
+2017;"limoeiro do norte";6
+2017;"presidente epitacio";6
+2017;"pirapozinho";6
+2017;"feliz";6
+2017;"porangatu";6
+2017;"goioere";6
+2017;"guariba";6
+2017;"bom jardim de minas";6
+2017;"eusebio";6
+2017;"ipora";6
+2017;"gravata";6
+2017;"minacu";6
+2017;"aracoiaba da serra";6
+2017;"urussanga";6
+2017;"mostardas";6
+2017;"sao francisco do sul";6
+2017;"sao miguel do iguacu";6
+2017;"espirito santo do pinhal";6
+2017;"araripina";6
+2017;"conchas";6
+2017;"taquarituba";6
+2017;"sao jose de ribamar";6
+2017;"salto de pirapora";6
+2017;"camocim";6
+2017;"mandaguari";6
+2017;"mimoso do sul";6
+2017;"morada nova";6
+2017;"bonfim paulista";6
+2017;"cerro largo";6
+2017;"mirassol d'oeste";6
+2017;"bicas";6
+2017;"ecoporanga";6
+2017;"sao miguel arcanjo";6
+2017;"iguape";6
+2017;"caetite";6
+2017;"maravilha";6
+2017;"bom jesus dos perdoes";6
+2017;"potiragua";6
+2017;"coroata";6
+2017;"teutonia";6
+2017;"guaratuba";6
+2017;"aluminio";6
+2017;"inhumas";6
+2017;"marialva";6
+2017;"portao";6
+2017;"maracaju";6
+2017;"timbauba";6
+2017;"palmeira dos indios";6
+2017;"cajazeiras";6
+2017;"ortigueira";6
+2017;"petrolandia";6
+2017;"salgueiro";6
+2017;"itaberaba";6
+2017;"itapiranga";6
+2017;"ouroeste";6
+2017;"santa adelia";6
+2017;"virginopolis";6
+2017;"santa cruz do capibaribe";6
+2017;"sidrolandia";6
+2017;"quirinopolis";6
+2017;"taguai";6
+2017;"paraiso do tocantins";6
+2017;"bezerros";6
+2017;"goiana";6
+2017;"brotas";6
+2017;"correia pinto";6
+2017;"santo cristo";6
+2017;"carmo";6
+2017;"faxinal";6
+2017;"pirapetinga";6
+2017;"raul soares";5
+2017;"guaicara";5
+2017;"mirai";5
+2017;"rolante";5
+2017;"piracanjuba";5
+2017;"sousa";5
+2017;"campo maior";5
+2017;"irece";5
+2017;"sao domingos";5
+2017;"canapolis";5
+2017;"monte aprazivel";5
+2017;"bom jesus da lapa";5
+2017;"cedral";5
+2017;"novo cruzeiro";5
+2017;"lapa";5
+2017;"butia";5
+2017;"julio de castilhos";5
+2017;"viradouro";5
+2017;"itaiopolis";5
+2017;"sao joao batista";5
+2017;"ribeira do pombal";5
+2017;"botelhos";5
+2017;"sao gabriel da palha";5
+2017;"descalvado";5
+2017;"sao joao dos patos";5
+2017;"senador canedo";5
+2017;"goitacazes";5
+2017;"picos";5
+2017;"itaguacu";5
+2017;"tapejara";5
+2017;"fervedouro";5
+2017;"camapua";5
+2017;"cristalina";5
+2017;"rio acima";5
+2017;"tres passos";5
+2017;"imbe";5
+2017;"cachoeira alta";5
+2017;"itai";5
+2017;"itapecerica";5
+2017;"coxim";5
+2017;"niquelandia";5
+2017;"tanabi";5
+2017;"astolfo dutra";5
+2017;"boa esperanca do sul";5
+2017;"eloi mendes";5
+2017;"paty do alferes";5
+2017;"serra negra";5
+2017;"bariri";5
+2017;"planaltina";5
+2017;"pompeu";5
+2017;"orleans";5
+2017;"campo verde";5
+2017;"rio das pedras";5
+2017;"igarassu";5
+2017;"juruaia";5
+2017;"buritis";5
+2017;"colorado";5
+2017;"santa rita";5
+2017;"caconde";5
+2017;"socorro";5
+2017;"arceburgo";5
+2017;"italva";5
+2017;"camanducaia";5
+2017;"taio";5
+2017;"quedas do iguacu";5
+2017;"regente feijo";5
+2017;"abreu e lima";5
+2017;"santa vitoria do palmar";5
+2017;"porto uniao";5
+2017;"matupa";5
+2017;"domingos martins";5
+2017;"santa rita do araguaia";5
+2017;"getulio vargas";5
+2017;"pacaja";5
+2017;"herval d'oeste";5
+2017;"sao jose do vale do rio preto";5
+2017;"feira nova";5
+2017;"colina";5
+2017;"potirendaba";5
+2017;"garibaldi";5
+2017;"bacabal";5
+2017;"divino";5
+2017;"turvo";5
+2017;"sao marcos";5
+2017;"loanda";5
+2017;"itaporanga";5
+2017;"encantado";5
+2017;"camamu";5
+2017;"pradopolis";5
+2017;"taua";5
+2017;"abre campo";5
+2017;"urupes";5
+2017;"esmeraldas";5
+2017;"manhumirim";5
+2017;"ivaipora";5
+2017;"jaru";5
+2017;"porto belo";5
+2017;"campo formoso";5
+2017;"tocantinopolis";5
+2017;"guarabira";5
+2017;"mata verde";5
+2017;"aimores";5
+2017;"russas";5
+2017;"santa albertina";5
+2017;"taquaritinga do norte";5
+2017;"goias";5
+2017;"caxias";5
+2017;"floresta";5
+2017;"resplendor";5
+2017;"dom eliseu";5
+2017;"alto araguaia";5
+2017;"brejo santo";5
+2017;"fraiburgo";5
+2017;"taguatinga";5
+2017;"jequitinhonha";5
+2017;"monte azul paulista";5
+2017;"cocal";5
+2017;"belo jardim";5
+2017;"serafina correa";5
+2017;"comendador levy gasparian";5
+2017;"ubirata";5
+2017;"castilho";5
+2017;"imbituva";5
+2017;"lagoa formosa";5
+2017;"xangri-la";5
+2017;"sao joao da barra";5
+2017;"cardoso";5
+2017;"uruara";5
+2017;"chapadao do sul";5
+2017;"flores da cunha";5
+2017;"guaramirim";5
+2017;"sao joao nepomuceno";5
+2017;"panorama";5
+2017;"igarapava";5
+2017;"piratininga";5
+2017;"laguna";5
+2017;"currais novos";5
+2017;"icapui";5
+2017;"escada";5
+2017;"piedade de caratinga";5
+2017;"ipanema";5
+2017;"pontal";5
+2017;"tapes";5
+2017;"paraty";5
+2017;"pesqueira";5
+2017;"paulo de faria";5
+2017;"mutum";5
+2017;"poco fundo";5
+2017;"dois corregos";5
+2017;"cachoeira de minas";4
+2017;"itaipava";4
+2017;"gandu";4
+2017;"taquari";4
+2017;"terra rica";4
+2017;"palmares";4
+2017;"carbonita";4
+2017;"casa branca";4
+2017;"pecanha";4
+2017;"sideropolis";4
+2017;"girua";4
+2017;"sao gabriel do oeste";4
+2017;"juquia";4
+2017;"pedro de toledo";4
+2017;"ampere";4
+2017;"fernando prestes";4
+2017;"camacan";4
+2017;"arroio dos ratos";4
+2017;"ocaucu";4
+2017;"jacare";4
+2017;"rondon do para";4
+2017;"santa fe";4
+2017;"cacapava do sul";4
+2017;"arapoti";4
+2017;"conceicao do araguaia";4
+2017;"macaubas";4
+2017;"itapura";4
+2017;"itamarandiba";4
+2017;"santo augusto";4
+2017;"mata de sao joao";4
+2017;"acailandia";4
+2017;"alpinopolis";4
+2017;"mozarlandia";4
+2017;"chui";4
+2017;"conceicao do rio verde";4
+2017;"cajuru";4
+2017;"campos novos";4
+2017;"pariquera-acu";4
+2017;"chapadao do ceu";4
+2017;"lindoia";4
+2017;"santo amaro da imperatriz";4
+2017;"pedro canario";4
+2017;"santa barbara d oeste";4
+2017;"santa isabel do para";4
+2017;"serra talhada";4
+2017;"santa maria madalena";4
+2017;"xinguara";4
+2017;"itajobi";4
+2017;"nova petropolis";4
+2017;"california da barra";4
+2017;"quata";4
+2017;"medeiros neto";4
+2017;"paraiso";4
+2017;"aguas belas";4
+2017;"santa teresa";4
+2017;"macau";4
+2017;"sao bento do sapucai";4
+2017;"dom pedrito";4
+2017;"santa cecilia";4
+2017;"lambari";4
+2017;"cacu";4
+2017;"taiobeiras";4
+2017;"bilac";4
+2017;"castelandia";4
+2017;"icem";4
+2017;"guadalupe";4
+2017;"sao joao";4
+2017;"montanha";4
+2017;"alto parnaiba";4
+2017;"sapucaia";4
+2017;"penedo";4
+2017;"jacunda";4
+2017;"paranapanema";4
+2017;"carmo do cajuru";4
+2017;"bom repouso";4
+2017;"xaxim";4
+2017;"arroio do sal";4
+2017;"itaperucu";4
+2017;"palmeira";4
+2017;"aguai";4
+2017;"lagoa da confusao";4
+2017;"charqueada";4
+2017;"santa rosa de viterbo";4
+2017;"cruzeiro do oeste";4
+2017;"sao joaquim de bicas";4
+2017;"encruzilhada do sul";4
+2017;"joao neiva";4
+2017;"catende";4
+2017;"senges";4
+2017;"porteirinha";4
+2017;"barra de sao francisco";4
+2017;"parambu";4
+2017;"edeia";4
+2017;"fartura";4
+2017;"ipaussu";4
+2017;"codo";4
+2017;"sao jose da barra";4
+2017;"inhambupe";4
+2017;"nova trento";4
+2017;"balneario pinhal";4
+2017;"candiota";4
+2017;"tocantins";4
+2017;"iepe";4
+2017;"bom principio";4
+2017;"cidade ocidental";4
+2017;"iraquara";4
+2017;"sirinhaem";4
+2017;"sao cristovao";4
+2017;"ourilandia do norte";4
+2017;"tiangua";4
+2017;"abaetetuba";4
+2017;"tres cachoeiras";4
+2017;"ibate";4
+2017;"jeceaba";4
+2017;"passa quatro";4
+2017;"perdigao";4
+2017;"silvania";4
+2017;"padre bernardo";4
+2017;"afogados da ingazeira";4
+2017;"alto boa vista";4
+2017;"pinhao";4
+2017;"santa branca";4
+2017;"nova russas";4
+2017;"conceicao do coite";4
+2017;"cajobi";4
+2017;"itaqui";4
+2017;"palestina";4
+2017;"trajano de moraes";4
+2017;"vargem grande do sul";4
+2017;"muzambinho";4
+2017;"ipiau";4
+2017;"firminopolis";4
+2017;"itaberai";4
+2017;"sombrio";4
+2017;"balneario picarras";4
+2017;"treze tilias";4
+2017;"bayeux";4
+2017;"monte santo de minas";4
+2017;"marmeleiro";4
+2017;"ibaiti";4
+2017;"guaranesia";4
+2017;"sao joaquim";4
+2017;"rio das flores";4
+2017;"tucano";4
+2017;"valparaiso";4
+2017;"claudia";4
+2017;"irineopolis";4
+2017;"sao domingos do prata";4
+2017;"itatinga";4
+2017;"guapiacu";4
+2017;"abelardo luz";4
+2017;"amambai";4
+2017;"chavantes";4
+2017;"pontal do parana";4
+2017;"sao goncalo do sapucai";4
+2017;"capanema";4
+2017;"dianopolis";4
+2017;"carapebus";4
+2017;"sapezal";4
+2017;"santa cruz";4
+2017;"areal";4
+2017;"cambara";4
+2017;"assai";4
+2017;"corrente";4
+2017;"teixeiras";4
+2017;"sao francisco de itabapoana";4
+2017;"renascenca";4
+2017;"guara";4
+2017;"sao joao do paraiso";4
+2017;"rio pardo";4
+2017;"tabira";4
+2017;"barbalha";4
+2017;"casa nova";4
+2017;"santo amaro de campos";4
+2017;"nova xavantina";4
+2017;"tangua";4
+2017;"teodoro sampaio";4
+2017;"caninde";4
+2017;"bela vista de goias";4
+2017;"pinhalao";4
+2017;"cerro azul";4
+2017;"cristais paulista";4
+2017;"sao jose do cedro";4
+2017;"rio largo";4
+2017;"morungaba";4
+2017;"jari";4
+2017;"rodeio";4
+2017;"engenheiro coelho";4
+2017;"catu";4
+2017;"acarau";4
+2017;"rio paranaiba";4
+2017;"rubiataba";4
+2017;"ico";4
+2017;"centenario do sul";4
+2017;"santa helena de goias";4
+2017;"turmalina";3
+2017;"iapu";3
+2017;"jose bonifacio";3
+2017;"nao-me-toque";3
+2017;"conceicao da barra";3
+2017;"caibi";3
+2017;"sao benedito";3
+2017;"cruz machado";3
+2017;"guarai";3
+2017;"barra do ribeiro";3
+2017;"hidrolandia";3
+2017;"sabino";3
+2017;"igaracu do tiete";3
+2017;"espumoso";3
+2017;"santa mariana";3
+2017;"nova canaa do norte";3
+2017;"porecatu";3
+2017;"condado";3
+2017;"baependi";3
+2017;"paraiso do norte";3
+2017;"aguas da prata";3
+2017;"ibia";3
+2017;"cassia";3
+2017;"ibotirama";3
+2017;"salto do lontra";3
+2017;"navirai";3
+2017;"sume";3
+2017;"arinos";3
+2017;"costa rica";3
+2017;"campos belos";3
+2017;"marilandia";3
+2017;"sao goncalo do rio abaixo";3
+2017;"paicandu";3
+2017;"jaguaribe";3
+2017;"sao lourenco do oeste";3
+2017;"bocaina";3
+2017;"salesopolis";3
+2017;"vargem bonita";3
+2017;"pinheiro machado";3
+2017;"pejucara";3
+2017;"indianopolis";3
+2017;"mutuipe";3
+2017;"figueira";3
+2017;"nova esperanca";3
+2017;"soledade";3
+2017;"taiuva";3
+2017;"cristina";3
+2017;"guapo";3
+2017;"rio azul";3
+2017;"mendonca";3
+2017;"rio novo do sul";3
+2017;"esperantina";3
+2017;"sangao";3
+2017;"piranguinho";3
+2017;"nova mutum";3
+2017;"campina verde";3
+2017;"manoel viana";3
+2017;"capao do leao";3
+2017;"dores de campos";3
+2017;"santa cruz de minas";3
+2017;"bueno brandao";3
+2017;"araguatins";3
+2017;"conceicao da aparecida";3
+2017;"pacatuba";3
+2017;"mateus leme";3
+2017;"rio brilhante";3
+2017;"esplanada";3
+2017;"munhoz de melo";3
+2017;"porciuncula";3
+2017;"garrafao do norte";3
+2017;"campo alegre";3
+2017;"bady bassitt";3
+2017;"cananeia";3
+2017;"recreio";3
+2017;"martinopolis";3
+2017;"capim grosso";3
+2017;"juara";3
+2017;"alvinopolis";3
+2017;"pirai do sul";3
+2017;"ipaba";3
+2017;"campos altos";3
+2017;"cruzeiro do sul";3
+2017;"catigua";3
+2017;"estiva gerbi";3
+2017;"pinheiro";3
+2017;"colorado do oeste";3
+2017;"queimadas";3
+2017;"maragogi";3
+2017;"balneario arroio do silva";3
+2017;"barra de sao joao";3
+2017;"paramirim";3
+2017;"jesuania";3
+2017;"sanclerlandia";3
+2017;"pirangi";3
+2017;"anta gorda";3
+2017;"goianesia do para";3
+2017;"campos gerais";3
+2017;"ivinhema";3
+2017;"jatoba";3
+2017;"sao raimundo nonato";3
+2017;"morro agudo";3
+2017;"borda da mata";3
+2017;"ipira";3
+2017;"mambore";3
+2017;"itapitanga";3
+2017;"guaraci";3
+2017;"jaragua";3
+2017;"antonio prado";3
+2017;"cidreira";3
+2017;"campinorte";3
+2017;"canaa dos carajas";3
+2017;"mirandopolis";3
+2017;"joviania";3
+2017;"alvares machado";3
+2017;"fronteira";3
+2017;"sao bento";3
+2017;"quixabeira";3
+2017;"riachao do jacuipe";3
+2017;"sao lourenco da mata";3
+2017;"paraopeba";3
+2017;"clementina";3
+2017;"ita";3
+2017;"francisco badaro";3
+2017;"tres marias";3
+2017;"batalha";3
+2017;"sao jose do norte";3
+2017;"rio negrinho";3
+2017;"sananduva";3
+2017;"saudade do iguacu";3
+2017;"apodi";3
+2017;"itapaje";3
+2017;"aurora";3
+2017;"oscar bressane";3
+2017;"terra boa";3
+2017;"sao jeronimo";3
+2017;"jaiba";3
+2017;"iacanga";3
+2017;"sao luis de montes belos";3
+2017;"sapucai-mirim";3
+2017;"andradas";3
+2017;"limoeiro";3
+2017;"itambe";3
+2017;"grajau";3
+2017;"cruz";3
+2017;"itiuba";3
+2017;"paranaita";3
+2017;"ruy barbosa";3
+2017;"ceres";3
+2017;"brazopolis";3
+2017;"aracariguama";3
+2017;"nova olinda do maranhao";3
+2017;"tabocas do brejo velho";3
+2017;"santo antonio do descoberto";3
+2017;"guajara-mirim";3
+2017;"jandaia do sul";3
+2017;"paraibuna";3
+2017;"conceicao das pedras";3
+2017;"itacare";3
+2017;"sud mennucci";3
+2017;"bananal";3
+2017;"holambra ii";3
+2017;"colonia vitoria";3
+2017;"confresa";3
+2017;"itajuipe";3
+2017;"tailandia";3
+2017;"baixo guandu";3
+2017;"regeneracao";3
+2017;"carlopolis";3
+2017;"nazare paulista";3
+2017;"apiuna";3
+2017;"ipumirim";3
+2017;"ariranha";3
+2017;"santo antonio das missoes";3
+2017;"primeiro de maio";3
+2017;"rafard";3
+2017;"paracuru";3
+2017;"urania";3
+2017;"engenheiro paulo de frontin";3
+2017;"morretes";3
+2017;"juti";3
+2017;"nhandeara";3
+2017;"nova europa";3
+2017;"jacui";3
+2017;"palmitos";3
+2017;"carmo da mata";3
+2017;"rio pardo de minas";3
+2017;"espinosa";3
+2017;"lagoa grande";3
+2017;"nova bassano";3
+2017;"siqueira campos";3
+2017;"madre de deus";3
+2017;"prudentopolis";3
+2017;"itariri";3
+2017;"ouricuri";3
+2017;"barro alto";3
+2017;"cardoso moreira";3
+2017;"dourado";3
+2017;"jauru";3
+2017;"alfredo vasconcelos";3
+2017;"urubici";3
+2017;"eugenopolis";3
+2017;"serra dos aimores";3
+2017;"santa juliana";3
+2017;"livramento de nossa senhora";3
+2017;"nova hartz";3
+2017;"frei inocencio";3
+2017;"cameta";3
+2017;"orizona";3
+2017;"matipo";3
+2017;"jaguarao";3
+2017;"pantano grande";3
+2017;"joao lisboa";3
+2017;"igarape";3
+2017;"verissimo";3
+2017;"muqui";3
+2017;"ze doca";3
+2017;"araujos";3
+2017;"prado";3
+2017;"gouveia";3
+2017;"canavieiras";3
+2017;"curuca";3
+2017;"jacarezinho";3
+2017;"medina";3
+2017;"bataguassu";3
+2017;"sao jose do cerrito";3
+2017;"cassilandia";3
+2017;"roque gonzales";3
+2017;"piedade do rio grande";3
+2017;"pirajui";3
+2017;"anita garibaldi";3
+2017;"apiai";3
+2017;"simao dias";3
+2017;"campos de julio";3
+2017;"jaguaruana";3
+2017;"carpina";3
+2017;"joaquim nabuco";3
+2017;"piripiri";3
+2017;"neropolis";3
+2017;"sete barras";3
+2017;"itambacuri";3
+2017;"presidente bernardes";3
+2017;"tiros";3
+2017;"delmiro gouveia";3
+2017;"capivari de baixo";3
+2017;"dois irmaos";3
+2017;"sao miguel do guama";3
+2017;"bom jesus do tocantins";3
+2017;"espigao do oeste";3
+2017;"pimenta bueno";3
+2017;"sao sepe";3
+2017;"mucuri";3
+2017;"cicero dantas";3
+2017;"lauro muller";3
+2017;"luis antonio";3
+2017;"itaipulandia";3
+2017;"itapejara d'oeste";3
+2017;"campinapolis";3
+2017;"goianira";3
+2017;"mantena";3
+2017;"otacilio costa";3
+2017;"palmares do sul";3
+2017;"ribeirao bonito";3
+2017;"maurilandia";3
+2017;"barro";3
+2017;"rolim de moura";3
+2017;"monte alegre de minas";3
+2017;"altos";3
+2017;"varre-sai";3
+2017;"lago da pedra";3
+2017;"serra do ramalho";3
+2017;"pombal";3
+2017;"caico";3
+2017;"areiopolis";3
+2017;"itanhandu";3
+2017;"cambuquira";3
+2017;"orindiuva";3
+2017;"sao geraldo";3
+2017;"adolfo";3
+2017;"milagres";3
+2017;"boa vista da aparecida";3
+2017;"catanduvas";3
+2017;"serranopolis";3
+2017;"araci";3
+2017;"maracai";3
+2017;"barra da estiva";3
+2017;"guaruja do sul";3
+2017;"monte azul";3
+2017;"anicuns";3
+2017;"araputanga";3
+2017;"sumidouro";3
+2017;"macedonia";3
+2017;"aripuana";3
+2017;"primavera";3
+2017;"itapuranga";3
+2017;"quixeramobim";3
+2017;"barras";3
+2017;"diamantino";3
+2017;"moreno";3
+2017;"pinheiros";3
+2017;"jussara";3
+2017;"apiaca";3
+2017;"nepomuceno";3
+2017;"lima duarte";3
+2017;"areado";3
+2017;"conquista";3
+2017;"olho d'agua das flores";3
+2017;"crixas";3
+2017;"japuiba";3
+2017;"jumirim";3
+2017;"ipiabas";3
+2017;"xambioa";2
+2017;"pontes e lacerda";2
+2017;"sinimbu";2
+2017;"formoso do araguaia";2
+2017;"conceicao do tocantins";2
+2017;"santana da vargem";2
+2017;"caldas";2
+2017;"arraial d'ajuda";2
+2017;"itapecuru mirim";2
+2017;"novo oriente";2
+2017;"goianinha";2
+2017;"avelar";2
+2017;"sao bras do suacui";2
+2017;"sao joao d'alianca";2
+2017;"dionisio cerqueira";2
+2017;"jambeiro";2
+2017;"bom conselho";2
+2017;"piata";2
+2017;"altonia";2
+2017;"saltinho";2
+2017;"morro da fumaca";2
+2017;"euclides da cunha";2
+2017;"pentecoste";2
+2017;"angatuba";2
+2017;"santa cruz de monte castelo";2
+2017;"buenopolis";2
+2017;"serra de sao bento";2
+2017;"cabo verde";2
+2017;"flores";2
+2017;"areias";2
+2017;"oriente";2
+2017;"quintana";2
+2017;"marechal floriano";2
+2017;"balsamo";2
+2017;"ituacu";2
+2017;"descoberto";2
+2017;"sao joao evangelista";2
+2017;"bela vista";2
+2017;"dom basilio";2
+2017;"paranapua";2
+2017;"joao alfredo";2
+2017;"alto alegre";2
+2017;"valentim gentil";2
+2017;"bom sucesso";2
+2017;"sao tome";2
+2017;"senador guiomard";2
+2017;"colombia";2
+2017;"taciba";2
+2017;"santo antonio do jardim";2
+2017;"quatigua";2
+2017;"curiuva";2
+2017;"palmeira d'oeste";2
+2017;"abatia";2
+2017;"divinolandia de minas";2
+2017;"cariri do tocantins";2
+2017;"duartina";2
+2017;"juatuba";2
+2017;"coaraci";2
+2017;"lontras";2
+2017;"fruta de leite";2
+2017;"santo antonio da alegria";2
+2017;"campanha";2
+2017;"mangaratiba";2
+2017;"augusto correa";2
+2017;"gravatal";2
+2017;"guaranta do norte";2
+2017;"jardinopolis";2
+2017;"carneirinho";2
+2017;"upanema";2
+2017;"monnerat";2
+2017;"alto horizonte";2
+2017;"catole do rocha";2
+2017;"sertania";2
+2017;"liberdade";2
+2017;"cacule";2
+2017;"arcoverde";2
+2017;"congonhinhas";2
+2017;"nova santa rosa";2
+2017;"arvorezinha";2
+2017;"campo do meio";2
+2017;"governador lindenberg";2
+2017;"itaueira";2
+2017;"paranacity";2
+2017;"aguas vermelhas";2
+2017;"sao miguel do araguaia";2
+2017;"jesuitas";2
+2017;"monte formoso";2
+2017;"amelia rodrigues";2
+2017;"fatima do sul";2
+2017;"laurentino";2
+2017;"irai";2
+2017;"porto xavier";2
+2017;"gameleiras";2
+2017;"itarantim";2
+2017;"terra nova do norte";2
+2017;"maripa";2
+2017;"travessao";2
+2017;"guararema";2
+2017;"tupi paulista";2
+2017;"alexania";2
+2017;"carvalhopolis";2
+2017;"uruana";2
+2017;"entre rios de minas";2
+2017;"alto rio doce";2
+2017;"andrelandia";2
+2017;"inhapim";2
+2017;"serra azul de minas";2
+2017;"ipiranga";2
+2017;"floreal";2
+2017;"macaiba";2
+2017;"nova veneza";2
+2017;"cambuci";2
+2017;"presidente getulio";2
+2017;"astorga";2
+2017;"corumba de goias";2
+2017;"itapiuna";2
+2017;"reserva";2
+2017;"tomazina";2
+2017;"guaraciaba do norte";2
+2017;"jacupiranga";2
+2017;"hidreletrica tucurui";2
+2017;"bela cruz";2
+2017;"dom aquino";2
+2017;"rio preto";2
+2017;"ibimirim";2
+2017;"moju";2
+2017;"altinopolis";2
+2017;"valente";2
+2017;"jupi";2
+2017;"brejo da madre de deus";2
+2017;"planaltina de goias";2
+2017;"araruna";2
+2017;"tacaratu";2
+2017;"santo antonio do jacinto";2
+2017;"tarabai";2
+2017;"sao joao de iracema";2
+2017;"jacaraci";2
+2017;"divinolandia";2
+2017;"sao jose do calcado";2
+2017;"uaua";2
+2017;"pedra branca";2
+2017;"ceara-mirim";2
+2017;"salto do jacui";2
+2017;"buritama";2
+2017;"ipu";2
+2017;"arapora";2
+2017;"cosmorama";2
+2017;"itapui";2
+2017;"torrinha";2
+2017;"carambei";2
+2017;"rio de contas";2
+2017;"horizontina";2
+2017;"minas novas";2
+2017;"belem do sao francisco";2
+2017;"parapua";2
+2017;"carnaubal";2
+2017;"ritapolis";2
+2017;"eneas marques";2
+2017;"sales oliveira";2
+2017;"moreilandia";2
+2017;"peixoto de azevedo";2
+2017;"indiana";2
+2017;"aparecida do taboado";2
+2017;"clevelandia";2
+2017;"pocinhos";2
+2017;"nova erechim";2
+2017;"lupercio";2
+2017;"sao felix do xingu";2
+2017;"candido de abreu";2
+2017;"reginopolis";2
+2017;"custodia";2
+2017;"sao jose do ouro";2
+2017;"japira";2
+2017;"carlos chagas";2
+2017;"missal";2
+2017;"roseira";2
+2017;"urutai";2
+2017;"esperanca";2
+2017;"fatima";2
+2017;"saudades";2
+2017;"chopinzinho";2
+2017;"coelho neto";2
+2017;"santaluz";2
+2017;"nova monte verde";2
+2017;"campina grande do sul";2
+2017;"avanhandava";2
+2017;"itarana";2
+2017;"rancho queimado";2
+2017;"terra de areia";2
+2017;"barao de cotegipe";2
+2017;"capao do cipo";2
+2017;"trancoso";2
+2017;"barreiros";2
+2017;"diogo de vasconcelos";2
+2017;"paraguacu";2
+2017;"caravelas";2
+2017;"tuparetama";2
+2017;"carutapera";2
+2017;"rodolfo fernandes";2
+2017;"entre rios";2
+2017;"saloa";2
+2017;"chapada gaucha";2
+2017;"santa cruz de goias";2
+2017;"conceicao";2
+2017;"caiana";2
+2017;"areia branca dos assis";2
+2017;"quilombo";2
+2017;"caputira";2
+2017;"trindade do sul";2
+2017;"miguel calmon";2
+2017;"beberibe";2
+2017;"rio pomba";2
+2017;"mogi-mirim";2
+2017;"igaci";2
+2017;"monte verde";2
+2017;"espirito santo do turvo";2
+2017;"pindare mirim";2
+2017;"sao tiago";2
+2017;"senador amaral";2
+2017;"colinas";2
+2017;"sitio do quinto";2
+2017;"fortuna";2
+2017;"luisburgo";2
+2017;"santo antonio do itambe";2
+2017;"nuporanga";2
+2017;"quarai";2
+2017;"bacuri";2
+2017;"crisopolis";2
+2017;"ribeirao do pinhal";2
+2017;"medeiros";2
+2017;"barrolandia";2
+2017;"jandaira";2
+2017;"paraipaba";2
+2017;"turvolandia";2
+2017;"sao martinho";2
+2017;"alhandra";2
+2017;"roncador";2
+2017;"urucui";2
+2017;"perdizes";2
+2017;"vila nova";2
+2017;"lobato";2
+2017;"itagi";2
+2017;"corbelia";2
+2017;"itaobim";2
+2017;"novo barreiro";2
+2017;"camocim de sao felix";2
+2017;"teolandia";2
+2017;"bananeiras";2
+2017;"papanduva";2
+2017;"carajas";2
+2017;"uniao de minas";2
+2017;"boa vista do gurupi";2
+2017;"morada nova de minas";2
+2017;"lajedo";2
+2017;"serrita";2
+2017;"ferros";2
+2017;"lunardelli";2
+2017;"congonhal";2
+2017;"prados";2
+2017;"ouro verde";2
+2017;"palmeiras de goias";2
+2017;"capitao leonidas marques";2
+2017;"aguas formosas";2
+2017;"ibiam";2
+2017;"mirinzal";2
+2017;"pien";2
+2017;"celina";2
+2017;"imaculada";2
+2017;"lagoa dos gatos";2
+2017;"peritiba";2
+2017;"wanderley";2
+2017;"cachoeira";2
+2017;"manoel ribas";2
+2017;"cuite";2
+2017;"ivate";2
+2017;"barreirinhas";2
+2017;"tupandi";2
+2017;"belo vale";2
+2017;"parelhas";2
+2017;"urbano santos";2
+2017;"bodoquena";2
+2017;"sao pedro dos ferros";2
+2017;"paulo lopes";2
+2017;"iguaracu";2
+2017;"borborema";2
+2017;"estrela do norte";2
+2017;"pendencias";2
+2017;"chapada dos guimaraes";2
+2017;"santa cruz das palmeiras";2
+2017;"ipigua";2
+2017;"comodoro";2
+2017;"nova fatima";2
+2017;"sooretama";2
+2017;"areia branca";2
+2017;"mamanguape";2
+2017;"guaracai";2
+2017;"acu";2
+2017;"rio piracicaba";2
+2017;"ibicoara";2
+2017;"sao thome das letras";2
+2017;"jundiai do sul";2
+2017;"pedrinopolis";2
+2017;"vera";2
+2017;"mundo novo";2
+2017;"fazenda nova";2
+2017;"pirapora do bom jesus";2
+2017;"santana do acarau";2
+2017;"itaja";2
+2017;"madre de deus de minas";2
+2017;"arroio do meio";2
+2017;"itapemirim";2
+2017;"crisolita";2
+2017;"reboucas";2
+2017;"barcarena";2
+2017;"curaca";2
+2017;"guarei";2
+2017;"rio fortuna";2
+2017;"morro do chapeu";2
+2017;"santa cruz do prata";2
+2017;"vila nelita";2
+2017;"serra dourada";2
+2017;"cabrobo";2
+2017;"itanhomi";2
+2017;"presidente olegario";2
+2017;"tanque d'arca";2
+2017;"gloria do goita";2
+2017;"coruripe";2
+2017;"toropi";2
+2017;"guarani";2
+2017;"mato leitao";2
+2017;"dom feliciano";2
+2017;"carmopolis de minas";2
+2017;"catas altas";2
+2017;"aracoiaba";2
+2017;"nova cruz";2
+2017;"cacoal";2
+2017;"aruana";2
+2017;"governador celso ramos";2
+2017;"cristalandia";2
+2017;"ouro preto do oeste";2
+2017;"timbe do sul";2
+2017;"guapiara";2
+2017;"cururupu";2
+2017;"ubaporanga";2
+2017;"rosana";2
+2017;"monte belo";2
+2017;"piedade dos gerais";2
+2017;"sao sebastiao do maranhao";2
+2017;"jucurutu";2
+2017;"ilopolis";2
+2017;"buriticupu";2
+2017;"cocal do sul";2
+2017;"lourdes";2
+2017;"porto trombetas";2
+2017;"machacalis";2
+2017;"corguinho";2
+2017;"itapagipe";2
+2017;"guabiruba";2
+2017;"tupancireta";2
+2017;"miracatu";2
+2017;"carrancas";2
+2017;"rodeiro";2
+2017;"sao pedro do turvo";2
+2017;"paulo jacinto";2
+2017;"alto paraiso de goias";2
+2017;"catuipe";2
+2017;"santa cruz cabralia";2
+2017;"vicentinopolis";2
+2017;"piritiba";2
+2017;"seringueiras";2
+2017;"laranjal do jari";2
+2017;"cabeceira grande";2
+2017;"limeira do oeste";2
+2017;"santa rita de minas";2
+2017;"francisco sa";2
+2017;"itambaraca";2
+2017;"mallet";2
+2017;"correntina";2
+2017;"santo estevao";2
+2017;"tejupa";2
+2017;"sao francisco de paula";2
+2017;"pacaembu";2
+2017;"candido sales";2
+2017;"reriutaba";2
+2017;"barra do corda";2
+2017;"sao joao do piaui";2
+2017;"rio bonito do iguacu";2
+2017;"sao jose do turvo";2
+2017;"jaqueira";2
+2017;"paranaiguara";2
+2017;"ibicare";2
+2017;"sao miguel do guapore";2
+2017;"vale real";2
+2017;"imbuia";2
+2017;"brazabrantes";2
+2017;"lavinia";2
+2017;"colider";2
+2017;"santa maria do para";2
+2017;"irapua";2
+2017;"nova olinda";2
+2017;"novo sao joaquim";2
+2017;"azurita";2
+2017;"camutanga";2
+2017;"realeza";2
+2017;"barbosa ferraz";2
+2017;"cunha pora";2
+2017;"jabora";2
+2017;"ribeirao claro";2
+2017;"paraibano";2
+2017;"rio formoso";2
+2017;"casca";2
+2017;"pedra";2
+2017;"sarapui";2
+2017;"chapadinha";2
+2017;"vila langaro";2
+2017;"ipixuna do para";2
+2017;"cabreuva";2
+2017;"silva jardim";2
+2017;"conceicao das alagoas";2
+2017;"itacarambi";2
+2017;"sucupira do norte";2
+2017;"coracao de jesus";2
+2017;"tanhacu";2
+2017;"ataleia";2
+2017;"itapora";2
+2017;"campo novo";2
+2017;"teofilandia";2
+2017;"grao mogol";2
+2017;"canitar";2
+2017;"toritama";2
+2017;"milha";2
+2017;"montezuma";2
+2017;"sao vendelino";2
+2017;"juranda";2
+2017;"planura";2
+2017;"serranopolis do iguacu";2
+2017;"nova cantu";2
+2017;"santana do jacare";2
+2017;"santo antonio do palma";2
+2017;"redentora";2
+2017;"rio manso";2
+2017;"ubaitaba";2
+2017;"bias fortes";2
+2017;"sao miguel";2
+2017;"pedra preta";2
+2017;"brasil novo";2
+2017;"nova alvorada do sul";2
+2017;"conceicao do castelo";2
+2017;"santa terezinha de itaipu";2
+2017;"itaguara";2
+2017;"surubim";2
+2017;"fundao";2
+2017;"coremas";2
+2017;"goianapolis";2
+2017;"sao bernardo";2
+2017;"cubati";2
+2017;"ivai";2
+2017;"rio do campo";2
+2017;"rodeio bonito";2
+2017;"urandi";2
+2017;"ibiraja";2
+2017;"monsenhor tabosa";2
+2017;"sao pedro do ivai";2
+2017;"alto paraiso";2
+2017;"indiara";2
+2017;"laranjal";2
+2017;"ipiacu";2
+2017;"poco verde";2
+2017;"solonopole";2
+2017;"santanesia";2
+2017;"tamarana";2
+2017;"balneario gaivota";2
+2017;"candido rodrigues";2
+2017;"mata roma";2
+2017;"palmitinho";2
+2017;"acopiara";2
+2017;"japura";2
+2017;"bituruna";2
+2017;"iconha";2
+2017;"junco do serido";2
+2017;"pedreiras";2
+2017;"faxinal dos guedes";2
+2017;"antonio carlos";2
+2017;"irape";2
+2017;"nova bandeirantes";2
+2017;"santo antonio do amparo";2
+2017;"novo progresso";2
+2017;"prudente de morais";2
+2017;"avelino lopes";2
+2017;"terra roxa";2
+2017;"capela";2
+2017;"tres arroios";2
+2017;"turvania";2
+2017;"miranda";2
+2017;"alfredo chaves";2
+2017;"piau";2
+2017;"ilha comprida";2
+2017;"euclides da cunha paulista";2
+2017;"narandiba";2
+2017;"cabralia paulista";2
+2017;"arandu";2
+2017;"presidente medici";2
+2017;"glicerio";2
+2017;"granja";2
+2017;"maria da fe";2
+2017;"itubera";2
+2017;"alagoinha";2
+2017;"carmo do rio verde";2
+2017;"pau dos ferros";2
+2017;"sabinopolis";2
+2017;"sao valentim";2
+2017;"inaja";2
+2017;"zacarias";2
+2017;"portalegre";2
+2017;"luiziania";2
+2017;"poxoreu";2
+2017;"garuva";2
+2017;"arrozal";2
+2017;"oeiras";2
+2017;"quatis";2
+2017;"tarumirim";2
+2017;"sao domingos do norte";2
+2017;"canarana";2
+2017;"tres fronteiras";2
+2017;"janiopolis";2
+2017;"mirante do paranapanema";2
+2017;"dumont";2
+2017;"passo de torres";2
+2017;"bom jesus da penha";2
+2017;"cedro de sao joao";2
+2017;"ilhota";2
+2017;"bras pires";2
+2017;"satuba";2
+2017;"pereiro";2
+2017;"santa fe de goias";2
+2017;"vila rica";2
+2017;"nova alvorada";2
+2017;"silveiras";2
+2017;"santa terezinha";2
+2017;"itaguaje";2
+2017;"porto real";2
+2017;"itapaci";2
+2017;"campestre";2
+2017;"sao bento do una";2
+2017;"oros";2
+2017;"campos borges";2
+2017;"pains";2
+2017;"riacho de santana";2
+2017;"rio do antonio";2
+2017;"humaita";2
+2017;"mineiros do tiete";2
+2017;"dom silverio";2
+2017;"sao pedro de alcantara";2
+2017;"alto jequitiba";2
+2017;"santa clara do sul";2
+2017;"figueiropolis d'oeste";2
+2017;"santa rita de caldas";2
+2017;"itabera";2
+2017;"soledade de minas";2
+2017;"francisco dumont";2
+2017;"itamari";2
+2017;"general carneiro";2
+2017;"malacacheta";2
+2017;"governador portela";2
+2017;"mata grande";2
+2017;"jacinto machado";2
+2017;"rio bananal";2
+2017;"biritiba-mirim";2
+2017;"jesupolis";2
+2017;"bom jesus do norte";2
+2017;"sanharo";2
+2017;"seabra";2
+2017;"antonio cardoso";2
+2017;"virgem da lapa";2
+2017;"aquidaba";1
+2017;"coite do noia";1
+2017;"irai de minas";1
+2017;"nova aurora";1
+2017;"lucianopolis";1
+2017;"arari";1
+2017;"tabatinga";1
+2017;"macuco";1
+2017;"coroaci";1
+2017;"campinacu";1
+2017;"prudencio thomaz";1
+2017;"mansidao";1
+2017;"osvaldo kroeff";1
+2017;"campos sales";1
+2017;"maristela";1
+2017;"cumari";1
+2017;"caparao";1
+2017;"ribeirao";1
+2017;"guaratinga";1
+2017;"maua da serra";1
+2017;"parai";1
+2017;"agua fria de goias";1
+2017;"rio dos indios";1
+2017;"benedito novo";1
+2017;"dores do indaia";1
+2017;"sao luiz do norte";1
+2017;"jaua";1
+2017;"uruana de minas";1
+2017;"monte alegre";1
+2017;"entre-ijuis";1
+2017;"sao roque de minas";1
+2017;"varjota";1
+2017;"chapadao do lageado";1
+2017;"vigia";1
+2017;"inhauma";1
+2017;"pitimbu";1
+2017;"ipiranga de goias";1
+2017;"nobres";1
+2017;"poloni";1
+2017;"arame";1
+2017;"macambara";1
+2017;"santo amaro das brotas";1
+2017;"nova vicosa";1
+2017;"presidente lucena";1
+2017;"mampituba";1
+2017;"atalaia";1
+2017;"corumbaiba";1
+2017;"tenente portela";1
+2017;"grandes rios";1
+2017;"reserva do cabacal";1
+2017;"tombos";1
+2017;"panelas";1
+2017;"adhemar de barros";1
+2017;"trombas";1
+2017;"jaraguari";1
+2017;"alagoa grande";1
+2017;"rio real";1
+2017;"una";1
+2017;"ibipeba";1
+2017;"mojui dos campos";1
+2017;"sao patricio";1
+2017;"pau d'arco";1
+2017;"cerrito";1
+2017;"inaciolandia";1
+2017;"muniz freire";1
+2017;"brejo do cruz";1
+2017;"lagoinha do piaui";1
+2017;"antunes";1
+2017;"ciriaco";1
+2017;"santa isabel do rio preto";1
+2017;"planaltina do parana";1
+2017;"arace";1
+2017;"xique-xique";1
+2017;"sitio novo do tocantins";1
+2017;"foz do jordao";1
+2017;"luiziana";1
+2017;"aratuba";1
+2017;"santana do cariri";1
+2017;"itaju";1
+2017;"pouso redondo";1
+2017;"garruchos";1
+2017;"maioba";1
+2017;"coronel macedo";1
+2017;"itapetim";1
+2017;"campo alegre de goias";1
+2017;"goncalves";1
+2017;"maracacume";1
+2017;"cristais";1
+2017;"itatiba do sul";1
+2017;"martins";1
+2017;"sao jose do campestre";1
+2017;"janduis";1
+2017;"rio grande do piaui";1
+2017;"mirante da serra";1
+2017;"sao mateus do maranhao";1
+2017;"passagem franca";1
+2017;"almas";1
+2017;"ervalia";1
+2017;"sao sebastiao de campos";1
+2017;"pedra lavrada";1
+2017;"morro vermelho";1
+2017;"extremoz";1
+2017;"satiro dias";1
+2017;"lagoa de sao francisco";1
+2017;"anhumas";1
+2017;"charrua";1
+2017;"vila reis";1
+2017;"buriti";1
+2017;"santa luzia do norte";1
+2017;"volta grande";1
+2017;"ipubi";1
+2017;"silveira martins";1
+2017;"florida";1
+2017;"santa tereza do oeste";1
+2017;"nova lacerda";1
+2017;"cajari";1
+2017;"tapera";1
+2017;"goiabeira";1
+2017;"oroco";1
+2017;"quixelo";1
+2017;"cruzilia";1
+2017;"riacho das almas";1
+2017;"tracuateua";1
+2017;"matoes do norte";1
+2017;"barracao";1
+2017;"sao jorge d'oeste";1
+2017;"agrestina";1
+2017;"tunas do parana";1
+2017;"dom pedro";1
+2017;"alcobaca";1
+2017;"riversul";1
+2017;"ibiracu";1
+2017;"engenheiro balduino";1
+2017;"pescador";1
+2017;"sao pedro da uniao";1
+2017;"moreira sales";1
+2017;"bonito de minas";1
+2017;"sape";1
+2017;"juscimeira";1
+2017;"anastacio";1
+2017;"ceu azul";1
+2017;"santa cecilia do pavao";1
+2017;"brodowski";1
+2017;"pires ferreira";1
+2017;"senhora de oliveira";1
+2017;"neopolis";1
+2017;"poco de pedra";1
+2017;"coluna";1
+2017;"santa rita da floresta";1
+2017;"itabela";1
+2017;"porto acre";1
+2017;"francisco dantas";1
+2017;"lupionopolis";1
+2017;"general camara";1
+2017;"major vieira";1
+2017;"corrego do ouro";1
+2017;"olho d'agua das cunhas";1
+2017;"teixeira";1
+2017;"maragogipe";1
+2017;"balneario barra do sul";1
+2017;"ouro verde de minas";1
+2017;"candido mendes";1
+2017;"barra de sao miguel";1
+2017;"david canabarro";1
+2017;"sao joao do manteninha";1
+2017;"jacinto";1
+2017;"palminopolis";1
+2017;"capitolio";1
+2017;"guiricema";1
+2017;"bataypora";1
+2017;"dobrada";1
+2017;"sao jose do rio claro";1
+2017;"japoata";1
+2017;"carmesia";1
+2017;"ibiara";1
+2017;"missao velha";1
+2017;"rubiacea";1
+2017;"utinga";1
+2017;"ichu";1
+2017;"pilar";1
+2017;"sao sebastiao do passe";1
+2017;"pedregulho";1
+2017;"centenario";1
+2017;"venda branca";1
+2017;"imbe de minas";1
+2017;"brasilia de minas";1
+2017;"schroeder";1
+2017;"lagoa dos tres cantos";1
+2017;"perola d'oeste";1
+2017;"coimbra";1
+2017;"santa maria de itabira";1
+2017;"witmarsum";1
+2017;"nova araca";1
+2017;"cachoeira da prata";1
+2017;"ponte serrada";1
+2017;"simplicio mendes";1
+2017;"formoso";1
+2017;"macieira";1
+2017;"arraial d ajuda";1
+2017;"novo mundo";1
+2017;"protasio alves";1
+2017;"taquarana";1
+2017;"sao bras";1
+2017;"barao do triunfo";1
+2017;"cujubim";1
+2017;"ivora";1
+2017;"palma sola";1
+2017;"dionisio";1
+2017;"sao jose da laje";1
+2017;"jamapara";1
+2017;"agua doce do norte";1
+2017;"rio dos cedros";1
+2017;"iacu";1
+2017;"miraguai";1
+2017;"benedito leite";1
+2017;"sao luis do quitunde";1
+2017;"ibirataia";1
+2017;"montanhas";1
+2017;"pianco";1
+2017;"jose boiteux";1
+2017;"peabiru";1
+2017;"cavalcante";1
+2017;"salobro";1
+2017;"varjao de minas";1
+2017;"morro agudo de goias";1
+2017;"estrela velha";1
+2017;"severinia";1
+2017;"santa rita do itueto";1
+2017;"caiaponia";1
+2017;"porto estrela";1
+2017;"frecheirinha";1
+2017;"areial";1
+2017;"conservatoria";1
+2017;"tangara";1
+2017;"girau do ponciano";1
+2017;"mamonas";1
+2017;"oliveira dos brejinhos";1
+2017;"quilometro 14 do mutum";1
+2017;"tenente ananias";1
+2017;"gramado xavier";1
+2017;"marechal deodoro";1
+2017;"balsa nova";1
+2017;"canelinha";1
+2017;"pancas";1
+2017;"caracol";1
+2017;"paranapoema";1
+2017;"alagoa";1
+2017;"boa viagem";1
+2017;"embauba";1
+2017;"sao miguel dos campos";1
+2017;"joanopolis";1
+2017;"pau brasil";1
+2017;"sabaudia";1
+2017;"igapora";1
+2017;"monteiropolis";1
+2017;"bom retiro do sul";1
+2017;"pindoretama";1
+2017;"sao tomas de aquino";1
+2017;"amparo da serra";1
+2017;"vera cruz do oeste";1
+2017;"inacio martins";1
+2017;"fazenda vilanova";1
+2017;"lagoinha";1
+2017;"antonio prado de minas";1
+2017;"cipo-guacu";1
+2017;"vista alegre do alto";1
+2017;"feliz natal";1
+2017;"lavrinhas";1
+2017;"colniza";1
+2017;"iraucuba";1
+2017;"nova canaa";1
+2017;"sitio novo";1
+2017;"luiz alves";1
+2017;"concordia do para";1
+2017;"santana do capivari";1
+2017;"pouso novo";1
+2017;"arroio do tigre";1
+2017;"coronel joao sa";1
+2017;"ocara";1
+2017;"crissiumal";1
+2017;"sao desiderio";1
+2017;"ourizona";1
+2017;"tibau do sul";1
+2017;"barra";1
+2017;"palmeira d oeste";1
+2017;"abare";1
+2017;"tres coroas";1
+2017;"guariroba";1
+2017;"carire";1
+2017;"ibatiba";1
+2017;"miranorte";1
+2017;"bertopolis";1
+2017;"jequia da praia";1
+2017;"passagem";1
+2017;"alianca";1
+2017;"ronda alta";1
+2017;"urucuia";1
+2017;"monte alverne";1
+2017;"erval grande";1
+2017;"sao sebastiao da serra";1
+2017;"morro reuter";1
+2017;"angulo";1
+2017;"vila nova do sul";1
+2017;"vitorinos";1
+2017;"nossa senhora de lourdes";1
+2017;"silveira carvalho";1
+2017;"conceicao do almeida";1
+2017;"nova itaberaba";1
+2017;"porto murtinho";1
+2017;"fronteiras";1
+2017;"aribice";1
+2017;"santo antonio";1
+2017;"itaoca";1
+2017;"novo cabrais";1
+2017;"campanario";1
+2017;"presidente tancredo neves";1
+2017;"godoy moreira";1
+2017;"manga";1
+2017;"augustinopolis";1
+2017;"orobo";1
+2017;"bandeira do sul";1
+2017;"paial";1
+2017;"cansancao";1
+2017;"riacho da cruz";1
+2017;"guaraniacu";1
+2017;"matoes";1
+2017;"diamante do norte";1
+2017;"sao joaquim do monte";1
+2017;"jaguaribara";1
+2017;"agisse";1
+2017;"jardim do serido";1
+2017;"alcinopolis";1
+2017;"uniao dos palmares";1
+2017;"ibiraci";1
+2017;"boca da mata";1
+2017;"paulistana";1
+2017;"vargem";1
+2017;"igaratinga";1
+2017;"sao vitor";1
+2017;"juruena";1
+2017;"mussurepe";1
+2017;"britania";1
+2017;"serro";1
+2017;"leopoldo de bulhoes";1
+2017;"santa rita d'oeste";1
+2017;"portela";1
+2017;"solanea";1
+2017;"santana do mundau";1
+2017;"gaurama";1
+2017;"major porto";1
+2017;"arvoredo";1
+2017;"corrego danta";1
+2017;"santo antonio do taua";1
+2017;"itapicuru";1
+2017;"oleo";1
+2017;"campo do brito";1
+2017;"tavares";1
+2017;"governador eugenio barros";1
+2017;"itauba";1
+2017;"ouro verde de goias";1
+2017;"guapirama";1
+2017;"mata";1
+2017;"sao joao do manhuacu";1
+2017;"jacigua";1
+2017;"palmeirinha";1
+2017;"acaiaca";1
+2017;"capitao poco";1
+2017;"guimarania";1
+2017;"mendes pimentel";1
+2017;"divisa nova";1
+2017;"ibiapina";1
+2017;"eldorado";1
+2017;"sao miguel do anta";1
+2017;"alpercata";1
+2017;"bom jesus do galho";1
+2017;"pilao arcado";1
+2017;"pedras altas";1
+2017;"amargosa";1
+2017;"celso ramos";1
+2017;"motuca";1
+2017;"lagoa dos patos";1
+2017;"perobal";1
+2017;"ipecaeta";1
+2017;"nazario";1
+2017;"apora";1
+2017;"santa maria da vitoria";1
+2017;"werneck";1
+2017;"simonesia";1
+2017;"formosa do oeste";1
+2017;"cajuri";1
+2017;"tabapora";1
+2017;"gameleira";1
+2017;"aroeiras";1
+2017;"novo machado";1
+2017;"taquaracu de minas";1
+2017;"manoel urbano";1
+2017;"cuite velho";1
+2017;"palma";1
+2017;"ribeira do amparo";1
+2017;"matutina";1
+2017;"sao jose da boa vista";1
+2017;"agua comprida";1
+2017;"rio doce";1
+2017;"iaciara";1
+2017;"miradouro";1
+2017;"bemposta";1
+2017;"dona euzebia";1
+2017;"sao luis do paraitinga";1
+2017;"paripueira";1
+2017;"alexandrita";1
+2017;"ibirarema";1
+2017;"bofete";1
+2017;"piacu";1
+2017;"jordania";1
+2017;"pavao";1
+2017;"iguatama";1
+2017;"estrela do sul";1
+2017;"ladainha";1
+2017;"vicosa do ceara";1
+2017;"inhapi";1
+2017;"nantes";1
+2017;"pocrane";1
+2017;"setubinha";1
+2017;"florania";1
+2017;"santa rita do ibitipoca";1
+2017;"itabirinha";1
+2017;"nova floresta";1
+2017;"porto esperidiao";1
+2017;"itamogi";1
+2017;"gilbues";1
+2017;"telha";1
+2017;"balneario rincao";1
+2017;"itobi";1
+2017;"pacajus";1
+2017;"resende costa";1
+2017;"matelandia";1
+2017;"barra do mendes";1
+2017;"deputado irapuan pinheiro";1
+2017;"sao joao do sobrado";1
+2017;"acucena";1
+2017;"rio branco do sul";1
+2017;"herveiras";1
+2017;"sao jose do xingu";1
+2017;"ajapi";1
+2017;"umbauba";1
+2017;"ibicuitinga";1
+2017;"joaima";1
+2017;"alterosa";1
+2017;"valenca do piaui";1
+2017;"pedro afonso";1
+2017;"munhoz";1
+2017;"brejo bonito";1
+2017;"santa isabel do ivai";1
+2017;"lavras da mangabeira";1
+2017;"santa maria do suacui";1
+2017;"nova campina";1
+2017;"cachoeira dourada";1
+2017;"santana do araguaia";1
+2017;"nova palma";1
+2017;"california";1
+2017;"taboquinhas";1
+2017;"taquarivai";1
+2017;"mara rosa";1
+2017;"sao cristovao do sul";1
+2017;"itatiaiucu";1
+2017;"tibagi";1
+2017;"guamare";1
+2017;"martinho campos";1
+2017;"sao joao da urtiga";1
+2017;"abaiara";1
+2017;"divino de sao lourenco";1
+2017;"sao jose do barreiro";1
+2017;"ibateguara";1
+2017;"doverlandia";1
+2017;"jenipapo de minas";1
+2017;"passa tres";1
+2017;"caseiros";1
+2017;"ibitita";1
+2017;"erico cardoso";1
+2017;"picarras";1
+2017;"sao sebastiao da grama";1
+2017;"pedra bela";1
+2017;"caxingo";1
+2017;"salto do itarare";1
+2017;"varzea do poco";1
+2017;"morro redondo";1
+2017;"braco do rio";1
+2017;"pirai do norte";1
+2017;"sarutaia";1
+2017;"anguera";1
+2017;"inubia paulista";1
+2017;"santa lucia";1
+2017;"vitorino freire";1
+2017;"nossa senhora das gracas";1
+2017;"silvano";1
+2017;"nova independencia";1
+2017;"caiua";1
+2017;"porto lucena";1
+2017;"sulina";1
+2017;"arenopolis";1
+2017;"taparuba";1
+2017;"glorinha";1
+2017;"manduri";1
+2017;"atilio vivacqua";1
+2017;"itaporanga d'ajuda";1
+2017;"mariano moro";1
+2017;"sao goncalo do abaete";1
+2017;"padre paraiso";1
+2017;"guarani das missoes";1
+2017;"mato rico";1
+2017;"tucunduva";1
+2017;"horizonte";1
+2017;"dom macedo costa";1
+2017;"jardim de piranhas";1
+2017;"alcantara";1
+2017;"carnauba dos dantas";1
+2017;"riqueza";1
+2017;"ibiracatu";1
+2017;"mondai";1
+2017;"sao pedro da agua branca";1
+2017;"alto caparao";1
+2017;"sales";1
+2017;"vargeao";1
+2017;"bonfinopolis";1
+2017;"sao vicente ferrer";1
+2017;"peixe";1
+2017;"cerro negro";1
+2017;"santa brigida";1
+2017;"vespasiano correa";1
+2017;"independencia";1
+2017;"murucupi";1
+2017;"breu branco";1
+2017;"pirenopolis";1
+2017;"aparecida de sao manuel";1
+2017;"pocao";1
+2017;"santana do manhuacu";1
+2017;"nova santa barbara";1
+2017;"gaucha do norte";1
+2017;"santo antonio do planalto";1
+2017;"olaria";1
+2017;"governador dix-sept rosado";1
+2017;"maracas";1
+2017;"baldim";1
+2017;"cristalia";1
+2017;"sao felix do coribe";1
+2017;"itau de minas";1
+2017;"candeias do jamari";1
+2017;"massaranduba";1
+2017;"sao joao do ivai";1
+2017;"jaciara";1
+2017;"rinopolis";1
+2017;"guidoval";1
+2017;"divisa alegre";1
+2017;"japi";1
+2017;"sao miguel das matas";1
+2017;"jerico";1
+2017;"passos maia";1
+2017;"almirante tamandare do sul";1
+2017;"castanheiras";1
+2017;"icatu";1
+2017;"monte carlo";1
+2017;"bom jesus do araguaia";1
+2017;"sao sebastiao do paraiba";1
+2017;"pedrao";1
+2017;"amarante";1
+2017;"vazante";1
+2017;"brasileia";1
+2017;"piranga";1
+2017;"anta";1
+2017;"chiapetta";1
+2017;"santa filomena";1
+2017;"nazareno";1
+2017;"santa maria da serra";1
+2017;"ipupiara";1
+2017;"nova america da colina";1
+2017;"pontao";1
+2017;"simolandia";1
+2017;"conceicao do jacuipe";1
+2017;"itaguaru";1
+2017;"nova mamore";1
+2017;"cajueiro";1
+2017;"galinhos";1
+2017;"machadinho";1
+2017;"santo antonio das queimadas";1
+2017;"novo lino";1
+2017;"princesa isabel";1
+2017;"coxilha";1
+2017;"sao bonifacio";1
+2017;"itaquitinga";1
+2017;"mariluz";1
+2017;"ribeira";1
+2017;"guarara";1
+2017;"agua clara";1
+2017;"alexandria";1
+2017;"rodelas";1
+2017;"ibirapua";1
+2017;"montalvania";1
+2017;"entre folhas";1
+2017;"alto parana";1
+2017;"caturama";1
+2017;"salmourao";1
+2017;"pio xii";1
+2017;"juvenilia";1
+2017;"nacip raydan";1
+2017;"pirpirituba";1
+2017;"cabedelo";1
+2017;"flor da serra do sul";1
+2017;"araguapaz";1
+2017;"porto calvo";1
+2017;"francisco santos";1
+2017;"luzilandia";1
+2017;"cambiasca";1
+2017;"tamboara";1
+2017;"cortes";1
+2017;"santo expedito";1
+2017;"itapissuma";1
+2017;"olindina";1
+2017;"quijingue";1
+2017;"marco";1
+2017;"deodapolis";1
+2017;"sao joao do sabugi";1
+2017;"jacuipe";1
+2017;"capoeiras";1
+2017;"messias targino";1
+2017;"dois riachos";1
+2017;"jaquirana";1
+2017;"aiuruoca";1
+2017;"carmo de minas";1
+2017;"uirauna";1
+2017;"elisio medrado";1
+2017;"patu";1
+2017;"altaneira";1
+2017;"castro alves";1
+2017;"amontada";1
+2017;"santa amelia";1
+2017;"imigrante";1
+2017;"segredo";1
+2017;"antonio pereira";1
+2017;"visconde de maua";1
+2017;"santa maria do salto";1
+2017;"xapuri";1
+2017;"nova brasilandia d'oeste";1
+2017;"populina";1
+2017;"caldeirao grande";1
+2017;"nucleo residencial pilar";1
+2017;"campinas do sul";1
+2017;"pureza";1
+2017;"canaa";1
+2017;"marques de souza";1
+2017;"sao joao da mata";1
+2017;"jaboti";1
+2017;"capela do alto";1
+2017;"maximiliano de almeida";1
+2017;"barrocas";1
+2017;"agua santa";1
+2017;"careacu";1
+2017;"mirandiba";1
+2017;"berizal";1
+2017;"alfredo wagner";1
+2017;"romelandia";1
+2017;"uruburetama";1
+2017;"ibitira";1
+2017;"monte alegre do sul";1
+2017;"bom jardim de goias";1
+2017;"picarra";1
+2017;"sao sebastiao da boa vista";1
+2017;"joselandia";1
+2017;"pedra azul";1
+2017;"alvares florence";1
+2017;"ilha grande";1
+2017;"sardoa";1
+2017;"lagoa da canoa";1
+2017;"inocencia";1
+2017;"natercia";1
+2017;"bugre";1
+2017;"santa leopoldina";1
+2017;"nossa senhora das dores";1
+2017;"floresta do araguaia";1
+2017;"araponga";1
+2017;"santa rosa de lima";1
+2017;"cairu";1
+2017;"porto grande";1
+2017;"frei martinho";1
+2017;"macaparana";1
+2017;"arenapolis";1
+2017;"coracao de maria";1
+2017;"novo alegre";1
+2017;"sao bentinho";1
+2017;"quitandinha";1
+2017;"grao para";1
+2017;"cruzeiro do iguacu";1
+2017;"retirolandia";1
+2017;"barra longa";1
+2017;"dezesseis de novembro";1
+2017;"papagaios";1
+2017;"caraibas";1
+2017;"tucuma";1
+2017;"bela vista do paraiso";1
+2017;"jardim alegre";1
+2017;"paranhos";1
+2017;"alambari";1
+2017;"ibira";1
+2017;"moncoes";1
+2017;"boa vista do burica";1
+2017;"igarape-acu";1
+2017;"jurema";1
+2017;"pedro osorio";1
+2017;"ananas";1
+2017;"brejolandia";1
+2017;"pirauba";1
+2017;"senador modestino goncalves";1
+2017;"lajeado grande";1
+2017;"leoberto leal";1
+2017;"santa quiteria";1
+2017;"zortea";1
+2017;"irupi";1
+2017;"porteiras";1
+2017;"sobralia";1
+2017;"luminarias";1
+2017;"gastao vidigal";1
+2017;"coronel sapucaia";1
+2017;"santo antonio do pinhal";1
+2017;"oiapoque";1
+2017;"quatro bocas";1
+2017;"sao felipe";1
+2017;"itau";1
+2017;"massape";1
+2017;"barra de santo antonio";1
+2017;"jaci";1
+2017;"palmeiras";1
+2017;"capitao eneas";1
+2017;"ribeiropolis";1
+2017;"meleiro";1
+2017;"bataipora";1
+2017;"divinopolis do tocantins";1
+2017;"sao jose do egito";1
+2017;"paraju";1
+2017;"aguas de sao pedro";1
+2017;"rio maria";1
+2017;"ibiajara";1
+2017;"jeremoabo";1
+2017;"icaraima";1
+2017;"bom jesus das selvas";1
+2017;"pedralva";1
+2017;"amapa do maranhao";1
+2017;"ceilandia";1
+2017;"sambaiba";1
+2017;"brasilandia";1
+2017;"pirambu";1
+2017;"saubara";1
+2017;"lagoa do piaui";1
+2017;"periquito";1
+2017;"anitapolis";1
+2017;"chaveslandia";1
+2017;"ipaumirim";1
+2017;"nova america";1
+2017;"pontalinda";1
+2017;"formigueiro";1
+2017;"arara";1
+2017;"itaguari";1
+2017;"nova londrina";1
+2017;"suzanapolis";1
+2017;"galia";1
+2017;"campestre do maranhao";1
+2017;"goiandira";1
+2017;"couto de magalhaes";1
+2017;"termas de ibira";1
+2017;"barao ataliba nogueira";1
+2017;"rianapolis";1
+2017;"matriz de camaragibe";1
+2017;"dias d avila";1
+2017;"jaguaruna";1
+2017;"agua branca";1
+2017;"rio do pires";1
+2017;"humildes";1
+2017;"belo oriente";1
+2017;"domiciano ribeiro";1
+2017;"pareci novo";1
+2017;"montadas";1
+2017;"bodoco";1
+2017;"joaquim pires";1
+2017;"boraceia";1
+2017;"estrela do indaia";1
+2017;"pintadas";1
+2017;"andorinha";1
+2017;"chacara";1
+2017;"indiaroba";1
+2017;"pocoes";1
+2017;"sete de setembro";1
+2017;"comercinho";1
+2017;"arealva";1
+2017;"conrado";1
+2017;"nova timboteua";1
+2017;"presidente castello branco";1
+2017;"getulina";1
+2017;"itapirapua";1
+2017;"quevedos";1
+2017;"graccho cardoso";1
+2017;"crominia";1
+2017;"itirucu";1
+2017;"denise";1
+2017;"acreuna";1
+2017;"capivari do sul";1
+2017;"herval";1
+2017;"dois irmaos do buriti";1
+2017;"uibai";1
+2017;"elisiario";1
+2017;"jijoca de jericoacoara";1
+2017;"patrocinio paulista";1
+2017;"ielmo marinho";1
+2017;"pindai";1
+2017;"pedrinhas paulista";1
+2017;"cerejeiras";1
+2017;"venturosa";1
+2017;"mucurici";1
+2017;"faxinalzinho";1
+2017;"seberi";1
+2017;"antonio goncalves";1
+2017;"cidade gaucha";1
+2017;"virgolandia";1
+2017;"cachoeira do campo";1
+2017;"ponto dos volantes";1
+2017;"luis correia";1
+2017;"araripe";1
+2017;"santana de pirapama";1
+2017;"itaitinga";1
+2017;"arraias";1
+2017;"santo antonio do caiua";1
+2017;"mantenopolis";1
+2017;"guaiuba";1
+2017;"palmares paulista";1
+2017;"capela de santana";1
+2017;"tres barras";1
+2017;"mauriti";1
+2017;"divinesia";1
+2017;"sao jose de mipibu";1
+2017;"agua preta";1
+2017;"turvelandia";1
+2017;"miranda do norte";1
+2017;"romaria";1
+2017;"monte alegre de sergipe";1
+2017;"erebango";1
+2017;"picada cafe";1
+2017;"jose de freitas";1
+2017;"salto da divisa";1
+2017;"varzea alegre";1
+2017;"ilha de itamaraca";1
+2017;"morro de sao paulo";1
+2017;"botuvera";1
+2017;"piracuruca";1
+2017;"lago verde";1
+2017;"pequizeiro";1
+2017;"angicos";1
+2017;"santa cruz do piaui";1
+2017;"buerarema";1
+2017;"vitoria das missoes";1
+2017;"nossa senhora da gloria";1
+2017;"porto firme";1
+2017;"arembepe";1
+2017;"itanhanga";1
+2017;"novais";1
+2017;"presidente nereu";1
+2017;"gloria de dourados";1
+2017;"mandaguacu";1
+2017;"corupa";1
+2017;"sao benedito do sul";1
+2017;"cruzeiro da fortaleza";1
+2017;"sao geraldo do baguari";1
+2017;"pacuja";1
+2017;"barra dos coqueiros";1
+2017;"desterro do melo";1
+2017;"adrianopolis";1
+2017;"caraiba";1
+2017;"bela vista de minas";1
+2017;"jardim abc de goias";1
+2017;"carmolandia";1
+2017;"rio tinto";1
+2017;"uniao da serra";1
+2017;"mombuca";1
+2017;"boa vista das missoes";1
+2017;"sao paulo das missoes";1
+2017;"paudalho";1
+2017;"catarina";1
+2017;"sacra familia do tingua";1
+2017;"bonfim";1
+2017;"analandia";1
+2017;"cerro grande";1
+2017;"santa barbara do sul";1
+2017;"piratuba";1
+2017;"senador la rocque";1
+2017;"aparecida d'oeste";1
+2017;"fernao";1
+2017;"aracitaba";1
+2017;"colonia leopoldina";1
+2017;"santa monica";1
+2017;"luizlandia do oeste";1
+2017;"condor";1
+2017;"nova roma";1
+2017;"camacho";1
+2017;"mairi";1
+2017;"coronel murta";1
+2017;"oeiras do para";1
+2017;"campo azul";1
+2017;"baianopolis";1
+2017;"cristal";1
+2017;"mascote";1
+2017;"barra de guabiraba";1
+2017;"sao joao de pirabas";1
+2017;"capinzal do norte";1
+2017;"ribeiraozinho";1
+2017;"tres irmaos";1
+2017;"divinopolis de goias";1
+2017;"aguas de santa barbara";1
+2017;"carlinda";1
+2017;"ibiai";1
+2017;"almino afonso";1
+2017;"urupa";1
+2017;"bom jesus da serra";1
+2017;"esmeralda";1
+2017;"cedro do abaete";1
+2017;"varzelandia";1
+2017;"ilicinea";1
+2017;"mossamedes";1
+2017;"farol";1
+2017;"satubinha";1
+2017;"lagoa do mato";1
+2017;"peri mirim";1
+2017;"santa fe de minas";1
+2017;"nazare da mata";1
+2017;"buriti dos lopes";1
+2017;"santa margarida";1
+2017;"ipuiuna";1
+2017;"cacequi";1
+2017;"loreto";1
+2017;"itapage";1
+2017;"campestre da serra";1
+2017;"tapinas";1
+2017;"aurea";1
+2017;"quixere";1
+2017;"terezinha";1
+2017;"grupiara";1
+2017;"marilena";1
+2017;"barao";1
+2017;"paiva";1
+2017;"riacho dos machados";1
+2017;"traipu";1
+2017;"guarapua";1
+2017;"matrincha";1
+2017;"barreira";1
+2017;"sao jorge do oeste";1
+2017;"humberto de campos";1
+2017;"mira estrela";1
+2017;"dom vicoso";1
+2017;"bodo";1
+2017;"engenheiro navarro";1
+2017;"paulo frontin";1
+2017;"catu de abrantes";1
+2017;"vargem grande do soturno";1
+2017;"iguai";1
+2017;"morpara";1
+2017;"boquira";1
+2017;"estrela d'oeste";1
+2017;"pinhotiba";1
+2017;"jussiape";1
+2017;"penaforte";1
+2017;"cha grande";1
+2017;"vicentina";1
+2017;"mutum parana";1
+2017;"brotas de macaubas";1
+2017;"cabaceiras do paraguacu";1
+2017;"filadelfia";1
+2017;"araguacu";1
+2017;"santa rita de jacutinga";1
+2017;"nova esperanca do sul";1
+2017;"porto amazonas";1
+2017;"luz";1
+2017;"conquista d'oeste";1
+2017;"nova soure";1
+2017;"general salgado";1
+2017;"malhador";1
+2017;"santo eduardo";1
+2017;"campo ere";1
+2017;"croata";1
+2017;"itinga";1
+2017;"barra do choca";1
+2017;"treviso";1
+2017;"heliopolis";1
+2017;"meruoca";1
+2017;"carmo da cachoeira";1
+2017;"ibicarai";1
+2017;"eliseu martins";1
+2017;"alta floresta d'oeste";1
+2017;"rubim";1
+2017;"vale do sol";1
+2017;"americano do brasil";1
+2017;"central";1
+2017;"ventania";1
+2017;"braunas";1
+2017;"pirapo";1
+2017;"seara";1
+2017;"santa helena de minas";1
+2017;"aquiraz";1
+2017;"santa maria do herval";1
+2017;"cachoeira do brumado";1
+2017;"pontes gestal";1
+2017;"forquilha";1
+2017;"ararica";1
+2017;"conceicao dos ouros";1
+2017;"nova olimpia";1
+2017;"caldas do jorro";1
+2017;"pote";1
+2017;"madalena";1
+2017;"coroados";1
+2017;"itarema";1
+2017;"campos verdes";1
+2017;"ravena";1
+2017;"abadia dos dourados";1
+2017;"diorama";1
+2017;"sao jose da tapera";1
+2017;"jampruca";1
+2017;"agua nova";1
+2017;"rio espera";1
+2017;"iaras";1
+2017;"bento de abreu";1
+2017;"dores do rio preto";1
+2017;"jaupaci";1
+2017;"epitaciolandia";1
+2017;"sao roque do canaa";1
+2017;"jose da penha";1
+2017;"caxambu do sul";1
+2017;"morro da garca";1
+2017;"botupora";1
+2017;"pequi";1
+2017;"angelina";1
+2017;"vila flores";1
+2017;"inhuma";1
+2017;"buenos aires";1
+2017;"pium";1
+2017;"ipiranga do norte";1
+2017;"nortelandia";1
+2017;"conceicao da feira";1
+2017;"nova guarita";1
+2017;"sucesso";1
+2017;"frei gaspar";1
+2017;"macambira";1
+2017;"coqueiro baixo";1
+2017;"atalanta";1
+2017;"corumbatai";1
+2017;"sao benedito do rio preto";1
+2017;"pacoti";1
+2017;"reserva do iguacu";1
+2017;"tome-acu";1
+2017;"barra do rio azul";1
+2017;"desterro";1
+2017;"jaguaracu";1
+2017;"carai";1
+2017;"rio das antas";1
+2017;"hidrolina";1
+2017;"dom cavati";1
+2017;"sao jose dos quatro marcos";1
+2017;"jardim";1
+2017;"paranatinga";1
+2017;"rio rufino";1
+2017;"ibipitanga";1
+2017;"mombaca";1
+2017;"joao camara";1
+2017;"alto alegre do pindare";1
+2017;"estacao";1
+2017;"pedro gomes";1
+2017;"anage";1
+2017;"santa barbara do para";1
+2017;"vere";1
+2017;"muquem do sao francisco";1
+2017;"brejo dos santos";1
+2017;"senador jose porfirio";1
+2017;"claraval";1
+2017;"santa izabel do oeste";1
+2017;"lencois";1
+2017;"santa mercedes";1
+2017;"iretama";1
+2017;"nova canaa paulista";1
+2017;"fragosos";1
+2017;"condeuba";1
+2017;"santana do deserto";1
+2017;"itaju do colonia";1
+2017;"maiquinique";1
+2017;"coronel martins";1
+2017;"campo alegre de lourdes";1
+2017;"goncalves dias";1
+2017;"itatim";1
+2017;"redencao da serra";1
+2017;"guape";1
+2017;"martins soares";1
+2017;"sao joao de petropolis";1
+2017;"abdon batista";1
+2017;"ribeirao vermelho";1
+2017;"medicilandia";1
+2017;"caririacu";1
+2017;"ubaira";1
+2017;"ibiaca";1
+2017;"jequitiba";1
+2017;"cassia dos coqueiros";1
+2017;"uruoca";1
+2017;"sao sebastiao do alto";1
+2017;"pedra menina";1
+2017;"alvorada do norte";1
+2017;"salto veloso";1
+2017;"varzedo";1
+2017;"fagundes";1
+2017;"pirajuba";1
+2017;"lagoa de velhos";1
+2017;"chaval";1
+2017;"nazare";1
+2017;"buriti do tocantins";1
+2017;"cocais";1
+2017;"santa luzia do parua";1
+2017;"ipueiras";1
+2017;"cacaulandia";1
+2017;"fontoura xavier";1
+2017;"conceicao do caninde";1
+2017;"nova laranjeiras";1
+2017;"cordeiros";1
+2017;"augusto pestana";1
+2017;"cotegipe";1
+2017;"groairas";1
+2017;"marilandia do sul";1
+2017;"bandeirantes do tocantins";1
+2017;"sao goncalo do rio das pedras";1
+2017;"canto do buriti";1
+2017;"tracunhaem";1
+2017;"sao jorge do ivai";1
+2017;"agronomica";1
+2017;"sao lourenco do piaui";1
+2017;"carolina";1
+2017;"urai";1
+2017;"ibiraiaras";1
+2017;"monsenhor paulo";1
+2017;"joao ramalho";1
+2017;"salgado filho";1
+2017;"vargem grande do rio pardo";1
+2017;"boqueirao do leao";1
+2017;"estrela d oeste";1
+2017;"sapeacu";1
+2017;"cha de alegria";1
+2017;"vicencia";1
+2017;"indiapora";1
+2017;"piripa";1
+2017;"senhora dos remedios";1
+2017;"laranja da terra";1
+2017;"caarapo";1
+2017;"aragarcas";1
+2017;"combinado";1
+2017;"nova esperanca do sudoeste";1
+2017;"caetanopolis";1
+2017;"lutecia";1
+2017;"santana do sobrado";1
+2017;"pratapolis";1
+2017;"tamandare";1
+2017;"ascurra";1
+2017;"campo do tenente";1
+2017;"queluz";1
+2017;"ouro verde do oeste";1
+2017;"remanso";1
+2017;"tiradentes";1
+2017;"barra do bugres";1
+2017;"delfinopolis";1
+2017;"sao joao do oriente";1
+2017;"mercedes";1
+2017;"baturite";1
+2017;"agudo";1
+2017;"ubirajara";1
+2017;"ibiassuce";1
+2017;"elias fausto";1
+2017;"sao miguel do gostoso";1
+2017;"castelo do piaui";1
+2017;"monte gordo";1
+2017;"espigao alto do iguacu";1
+2017;"sao sebastiao do rio verde";1
+2017;"mucambo";1
+2017;"brasopolis";1
+2017;"lagoa dourada";1
+2018;"sao paulo";8891
+2018;"rio de janeiro";3376
+2018;"belo horizonte";1527
+2018;"brasilia";1193
+2018;"curitiba";851
+2018;"campinas";801
+2018;"guarulhos";673
+2018;"porto alegre";665
+2018;"salvador";649
+2018;"sao bernardo do campo";526
+2018;"niteroi";485
+2018;"santo andre";442
+2018;"osasco";412
+2018;"santos";410
+2018;"sao jose dos campos";402
+2018;"goiania";392
+2018;"sorocaba";347
+2018;"recife";334
+2018;"jundiai";314
+2018;"fortaleza";311
+2018;"florianopolis";309
+2018;"ribeirao preto";274
+2018;"barueri";261
+2018;"contagem";246
+2018;"juiz de fora";236
+2018;"nova iguacu";229
+2018;"belem";219
+2018;"piracicaba";213
+2018;"maua";212
+2018;"vitoria";196
+2018;"mogi das cruzes";193
+2018;"carapicuiba";190
+2018;"sao jose do rio preto";189
+2018;"uberlandia";186
+2018;"campo grande";184
+2018;"vila velha";179
+2018;"praia grande";178
+2018;"sao goncalo";177
+2018;"taboao da serra";176
+2018;"sao luis";176
+2018;"londrina";176
+2018;"diadema";166
+2018;"sao caetano do sul";159
+2018;"teresina";157
+2018;"indaiatuba";149
+2018;"serra";148
+2018;"cuiaba";147
+2018;"bauru";144
+2018;"joao pessoa";138
+2018;"taubate";138
+2018;"cotia";136
+2018;"maceio";136
+2018;"maringa";135
+2018;"petropolis";135
+2018;"macae";132
+2018;"joinville";131
+2018;"sao carlos";129
+2018;"suzano";126
+2018;"americana";122
+2018;"campos dos goytacazes";122
+2018;"volta redonda";118
+2018;"santana de parnaiba";114
+2018;"betim";113
+2018;"marilia";112
+2018;"caxias do sul";110
+2018;"jacarei";109
+2018;"uberaba";108
+2018;"limeira";107
+2018;"itapevi";105
+2018;"santa maria";105
+2018;"pelotas";104
+2018;"guaruja";104
+2018;"valinhos";103
+2018;"duque de caxias";103
+2018;"itaquaquecetuba";103
+2018;"natal";103
+2018;"canoas";103
+2018;"embu das artes";102
+2018;"presidente prudente";100
+2018;"blumenau";99
+2018;"sao jose";98
+2018;"sumare";97
+2018;"montes claros";95
+2018;"aracaju";95
+2018;"feira de santana";91
+2018;"sao vicente";90
+2018;"ipatinga";90
+2018;"braganca paulista";87
+2018;"cascavel";86
+2018;"araraquara";85
+2018;"franca";84
+2018;"rio claro";84
+2018;"sao jose dos pinhais";83
+2018;"jaboatao dos guararapes";81
+2018;"atibaia";81
+2018;"itu";81
+2018;"governador valadares";78
+2018;"hortolandia";75
+2018;"nova friburgo";75
+2018;"aracatuba";74
+2018;"pouso alegre";74
+2018;"santa barbara d'oeste";73
+2018;"novo hamburgo";73
+2018;"paulinia";73
+2018;"ponta grossa";73
+2018;"sete lagoas";72
+2018;"cachoeiro de itapemirim";72
+2018;"itajai";70
+2018;"cariacica";69
+2018;"teresopolis";67
+2018;"manaus";66
+2018;"ferraz de vasconcelos";65
+2018;"marica";64
+2018;"rio das ostras";62
+2018;"pocos de caldas";62
+2018;"balneario camboriu";62
+2018;"rio grande";62
+2018;"barra mansa";61
+2018;"nova lima";60
+2018;"divinopolis";60
+2018;"sao joao de meriti";60
+2018;"anapolis";59
+2018;"araras";59
+2018;"mage";59
+2018;"cabo frio";58
+2018;"resende";58
+2018;"pindamonhangaba";58
+2018;"criciuma";57
+2018;"franco da rocha";57
+2018;"itatiba";57
+2018;"passo fundo";56
+2018;"botucatu";56
+2018;"chapeco";56
+2018;"palmas";56
+2018;"ribeirao pires";56
+2018;"guaratingueta";55
+2018;"salto";55
+2018;"aparecida de goiania";55
+2018;"itajuba";54
+2018;"caieiras";54
+2018;"mogi-guacu";54
+2018;"gravatai";54
+2018;"francisco morato";54
+2018;"santa luzia";52
+2018;"sao leopoldo";52
+2018;"itapecerica da serra";52
+2018;"ribeirao das neves";52
+2018;"nilopolis";51
+2018;"patos de minas";50
+2018;"porto velho";50
+2018;"varginha";49
+2018;"foz do iguacu";49
+2018;"birigui";48
+2018;"poa";48
+2018;"cajamar";48
+2018;"vitoria da conquista";47
+2018;"palhoca";47
+2018;"assis";47
+2018;"vicosa";47
+2018;"conselheiro lafaiete";47
+2018;"caraguatatuba";47
+2018;"jandira";46
+2018;"votorantim";46
+2018;"dourados";46
+2018;"mesquita";46
+2018;"cacapava";45
+2018;"olinda";45
+2018;"lages";45
+2018;"sao roque";45
+2018;"itapetininga";44
+2018;"vinhedo";43
+2018;"itabira";43
+2018;"belford roxo";43
+2018;"lorena";43
+2018;"tatui";43
+2018;"jau";42
+2018;"viamao";41
+2018;"mairipora";41
+2018;"ubatuba";41
+2018;"ananindeua";40
+2018;"itanhaem";40
+2018;"catanduva";40
+2018;"caruaru";40
+2018;"mogi mirim";40
+2018;"jaragua do sul";40
+2018;"barbacena";39
+2018;"parnamirim";39
+2018;"pinhais";39
+2018;"barretos";39
+2018;"toledo";39
+2018;"varzea paulista";38
+2018;"aruja";38
+2018;"cachoeirinha";37
+2018;"avare";37
+2018;"lavras";37
+2018;"cubatao";37
+2018;"rondonopolis";37
+2018;"sertaozinho";36
+2018;"ourinhos";36
+2018;"sao joao del rei";36
+2018;"paracatu";36
+2018;"camacari";36
+2018;"votuporanga";36
+2018;"lauro de freitas";36
+2018;"teofilo otoni";36
+2018;"amparo";35
+2018;"araxa";35
+2018;"rio verde";35
+2018;"araucaria";35
+2018;"sao joao da boa vista";35
+2018;"linhares";35
+2018;"angra dos reis";35
+2018;"valenca";35
+2018;"macapa";35
+2018;"pato branco";34
+2018;"cosmopolis";34
+2018;"ilheus";34
+2018;"colombo";34
+2018;"itabuna";33
+2018;"caratinga";33
+2018;"campina grande";33
+2018;"pirassununga";33
+2018;"guarapuava";32
+2018;"paranagua";32
+2018;"manhuacu";32
+2018;"araruama";31
+2018;"itauna";31
+2018;"lagoa santa";31
+2018;"itapeva";30
+2018;"jaguariuna";30
+2018;"campo mourao";30
+2018;"muriae";30
+2018;"uruguaiana";30
+2018;"lajeado";30
+2018;"ilhabela";30
+2018;"erechim";30
+2018;"guarapari";29
+2018;"tubarao";29
+2018;"ibirite";28
+2018;"bage";28
+2018;"tupa";28
+2018;"lins";28
+2018;"alvorada";28
+2018;"ijui";28
+2018;"itapira";28
+2018;"matao";28
+2018;"fernandopolis";28
+2018;"bebedouro";28
+2018;"colatina";28
+2018;"uba";27
+2018;"francisco beltrao";27
+2018;"araguaina";27
+2018;"ituiutaba";27
+2018;"ouro preto";27
+2018;"araguari";27
+2018;"guaira";27
+2018;"leme";27
+2018;"itaperuna";27
+2018;"itapema";27
+2018;"queimados";26
+2018;"timoteo";26
+2018;"registro";26
+2018;"artur nogueira";26
+2018;"rio branco";26
+2018;"cruzeiro";26
+2018;"petrolina";26
+2018;"paranavai";26
+2018;"unai";25
+2018;"nova odessa";25
+2018;"joao monlevade";25
+2018;"cacador";25
+2018;"vespasiano";25
+2018;"barra do pirai";25
+2018;"lencois paulista";25
+2018;"campo limpo paulista";25
+2018;"embu-guacu";25
+2018;"santa cruz do sul";25
+2018;"boituva";25
+2018;"alfenas";24
+2018;"bertioga";24
+2018;"louveira";24
+2018;"barreiras";24
+2018;"apucarana";24
+2018;"itaborai";24
+2018;"umuarama";24
+2018;"sao sebastiao";24
+2018;"saquarema";24
+2018;"monte mor";24
+2018;"brusque";24
+2018;"vargem grande paulista";24
+2018;"bento goncalves";24
+2018;"campo largo";24
+2018;"guanambi";24
+2018;"tres coracoes";24
+2018;"jaboticabal";24
+2018;"alagoinhas";23
+2018;"paulista";23
+2018;"tres lagoas";23
+2018;"pedro leopoldo";23
+2018;"sinop";23
+2018;"pedreira";23
+2018;"camaragibe";23
+2018;"extrema";23
+2018;"sao jose do rio pardo";23
+2018;"ouro branco";23
+2018;"patrocinio";23
+2018;"campo bom";23
+2018;"cianorte";22
+2018;"itupeva";22
+2018;"andradina";22
+2018;"osorio";22
+2018;"sao joaquim da barra";22
+2018;"sao bento do sul";22
+2018;"coronel fabriciano";22
+2018;"varzea grande";22
+2018;"concordia";22
+2018;"sao mateus";22
+2018;"valparaiso de goias";22
+2018;"nova serrana";22
+2018;"itaguai";22
+2018;"passos";21
+2018;"juazeiro";21
+2018;"itumbiara";21
+2018;"videira";21
+2018;"adamantina";21
+2018;"boa vista";21
+2018;"guaxupe";21
+2018;"santa rita do sapucai";21
+2018;"penapolis";20
+2018;"alegrete";20
+2018;"luis eduardo magalhaes";20
+2018;"sao sebastiao do paraiso";20
+2018;"jatai";20
+2018;"armacao dos buzios";20
+2018;"pirapora";20
+2018;"maracanau";20
+2018;"tremembe";20
+2018;"paulo afonso";20
+2018;"japeri";20
+2018;"sabara";20
+2018;"esteio";20
+2018;"arapongas";19
+2018;"mossoro";19
+2018;"viana";19
+2018;"farroupilha";19
+2018;"mongagua";19
+2018;"imbituba";19
+2018;"itapolis";19
+2018;"santa rosa";19
+2018;"sao miguel do oeste";19
+2018;"orlandia";19
+2018;"aracruz";19
+2018;"garca";19
+2018;"taquaritinga";19
+2018;"peruibe";19
+2018;"santo angelo";18
+2018;"jequie";18
+2018;"ibiuna";18
+2018;"fazenda rio grande";18
+2018;"rio do sul";18
+2018;"tiete";18
+2018;"seropedica";18
+2018;"corumba";18
+2018;"olimpia";18
+2018;"sao pedro da aldeia";18
+2018;"ponte nova";18
+2018;"matinhos";18
+2018;"cerquilho";18
+2018;"vassouras";18
+2018;"santarem";17
+2018;"navegantes";17
+2018;"ituverava";17
+2018;"santo antonio de jesus";17
+2018;"presidente epitacio";17
+2018;"marechal candido rondon";17
+2018;"para de minas";17
+2018;"mariana";17
+2018;"caete";17
+2018;"luziania";17
+2018;"brumadinho";17
+2018;"cruz alta";17
+2018;"santiago";17
+2018;"curvelo";16
+2018;"monte alto";16
+2018;"santa fe do sul";16
+2018;"almirante tamandare";16
+2018;"sobral";16
+2018;"telemaco borba";16
+2018;"aguas lindas de goias";16
+2018;"itarare";16
+2018;"sapucaia do sul";16
+2018;"imperatriz";16
+2018;"diamantina";16
+2018;"teixeira de freitas";15
+2018;"eunapolis";15
+2018;"sao lourenco";15
+2018;"formosa";15
+2018;"altamira";15
+2018;"mococa";15
+2018;"gaspar";15
+2018;"mafra";15
+2018;"jales";15
+2018;"venancio aires";15
+2018;"caldas novas";15
+2018;"formiga";15
+2018;"capao da canoa";15
+2018;"cachoeira do sul";15
+2018;"rio grande da serra";15
+2018;"arraial do cabo";15
+2018;"guaiba";15
+2018;"caucaia";15
+2018;"juazeiro do norte";15
+2018;"carazinho";14
+2018;"santos dumont";14
+2018;"paraty";14
+2018;"socorro";14
+2018;"tijucas";14
+2018;"cordeiro";14
+2018;"porto seguro";14
+2018;"congonhas";14
+2018;"cornelio procopio";14
+2018;"pirapora do bom jesus";14
+2018;"batatais";14
+2018;"dois irmaos";14
+2018;"marau";14
+2018;"primavera do leste";14
+2018;"tres rios";14
+2018;"bom despacho";14
+2018;"monte azul paulista";14
+2018;"barra bonita";14
+2018;"vera cruz";14
+2018;"holambra";14
+2018;"alem paraiba";14
+2018;"cataguases";14
+2018;"carangola";14
+2018;"braco do norte";13
+2018;"rolandia";13
+2018;"jacarezinho";13
+2018;"candeias";13
+2018;"dois vizinhos";13
+2018;"santa cruz do rio pardo";13
+2018;"promissao";13
+2018;"tangara da serra";13
+2018;"frutal";13
+2018;"sao manuel";13
+2018;"capivari";13
+2018;"santa isabel";13
+2018;"santana do livramento";13
+2018;"trindade";13
+2018;"boa esperanca";13
+2018;"maraba";13
+2018;"xanxere";13
+2018;"cachoeira paulista";13
+2018;"aguas de lindoia";13
+2018;"salinas";13
+2018;"piumhii";13
+2018;"paracambi";13
+2018;"itabirito";13
+2018;"irati";13
+2018;"mairinque";13
+2018;"ibitinga";13
+2018;"montenegro";13
+2018;"capao bonito";13
+2018;"ilha solteira";13
+2018;"pitangui";13
+2018;"viradouro";13
+2018;"monte carmelo";13
+2018;"sao fidelis";13
+2018;"campo belo";12
+2018;"lucas do rio verde";12
+2018;"campos do jordao";12
+2018;"curitibanos";12
+2018;"porto ferreira";12
+2018;"santo antonio de padua";12
+2018;"cafelandia";12
+2018;"cachoeiras de macacu";12
+2018;"pederneiras";12
+2018;"joacaba";12
+2018;"sapiranga";12
+2018;"taquara";12
+2018;"sao gabriel";12
+2018;"tambau";12
+2018;"ponta pora";12
+2018;"santa maria da vitoria";12
+2018;"cambui";12
+2018;"bonfim paulista";12
+2018;"castelo";12
+2018;"catalao";12
+2018;"rio bonito";12
+2018;"espirito santo do pinhal";12
+2018;"mandaguari";12
+2018;"gramado";12
+2018;"picos";12
+2018;"indaial";12
+2018;"aparecida";12
+2018;"laranjeiras do sul";11
+2018;"garanhuns";11
+2018;"monte siao";11
+2018;"jacobina";11
+2018;"ipora";11
+2018;"pariquera-acu";11
+2018;"vacaria";11
+2018;"iguaba grande";11
+2018;"tramandai";11
+2018;"bom jesus do itabapoana";11
+2018;"mineiros";11
+2018;"palmeira";11
+2018;"itatiaia";11
+2018;"cabo de santo agostinho";11
+2018;"dracena";11
+2018;"igrejinha";11
+2018;"mirassol";11
+2018;"biguacu";11
+2018;"caxias";11
+2018;"aracati";11
+2018;"salgueiro";11
+2018;"medianeira";11
+2018;"sao francisco de itabapoana";11
+2018;"manhumirim";11
+2018;"cravinhos";11
+2018;"bom jesus dos perdoes";11
+2018;"timbo";11
+2018;"paraguacu paulista";11
+2018;"canoinhas";11
+2018;"conchal";11
+2018;"uniao da vitoria";11
+2018;"gurupi";11
+2018;"jardinopolis";11
+2018;"oliveira";11
+2018;"ibiruba";11
+2018;"barra do garcas";11
+2018;"estancia velha";11
+2018;"torres";10
+2018;"nanuque";10
+2018;"bariri";10
+2018;"mangaratiba";10
+2018;"sorriso";10
+2018;"tres marias";10
+2018;"pompeia";10
+2018;"inhumas";10
+2018;"ararangua";10
+2018;"carlos barbosa";10
+2018;"rio negrinho";10
+2018;"carmo do paranaiba";10
+2018;"sarzedo";10
+2018;"itanhandu";10
+2018;"senador canedo";10
+2018;"leopoldina";10
+2018;"sarandi";10
+2018;"paraiba do sul";10
+2018;"ipero";10
+2018;"dias d'avila";10
+2018;"sao borja";10
+2018;"sao gotardo";10
+2018;"sao francisco do sul";10
+2018;"coromandel";10
+2018;"sao joao da barra";10
+2018;"piraju";10
+2018;"campos novos";10
+2018;"bambui";10
+2018;"bastos";10
+2018;"buritis";10
+2018;"cacoal";10
+2018;"jarinu";10
+2018;"caceres";10
+2018;"barra de sao joao";10
+2018;"simoes filho";10
+2018;"paraguacu";10
+2018;"rancharia";10
+2018;"mirandopolis";10
+2018;"sao francisco";10
+2018;"marialva";10
+2018;"santa barbara";10
+2018;"parauapebas";10
+2018;"juquitiba";10
+2018;"santa rita do passa quatro";10
+2018;"porto uniao";9
+2018;"guacui";9
+2018;"barao de cocais";9
+2018;"teodoro sampaio";9
+2018;"cambe";9
+2018;"esmeraldas";9
+2018;"santa maria de jetiba";9
+2018;"itaporanga";9
+2018;"andradas";9
+2018;"laranjal paulista";9
+2018;"santa adelia";9
+2018;"jacutinga";9
+2018;"juina";9
+2018;"santa rosa de viterbo";9
+2018;"alegre";9
+2018;"lapa";9
+2018;"panambi";9
+2018;"cantagalo";9
+2018;"pirajui";9
+2018;"sao joao nepomuceno";9
+2018;"arapiraca";9
+2018;"morrinhos";9
+2018;"canarana";9
+2018;"natividade";9
+2018;"cajati";9
+2018;"taquarituba";9
+2018;"laguna";9
+2018;"barrinha";9
+2018;"miguel pereira";9
+2018;"guanhaes";9
+2018;"piracaia";9
+2018;"piuma";9
+2018;"ituporanga";9
+2018;"tres pontas";9
+2018;"chapadao do sul";9
+2018;"brumado";9
+2018;"santo antonio da patrulha";9
+2018;"taiobeiras";9
+2018;"claudio";9
+2018;"guararema";9
+2018;"camboriu";9
+2018;"joao pinheiro";9
+2018;"nova prata";9
+2018;"quatro barras";9
+2018;"taio";9
+2018;"jose bonifacio";9
+2018;"cerqueira cesar";9
+2018;"palmeira das missoes";9
+2018;"santo antonio de posse";9
+2018;"costa rica";9
+2018;"tucurui";8
+2018;"loanda";8
+2018;"novo horizonte";8
+2018;"engenheiro coelho";8
+2018;"sao lourenco da mata";8
+2018;"ibatiba";8
+2018;"castanhal";8
+2018;"agudos";8
+2018;"charqueadas";8
+2018;"rio brilhante";8
+2018;"castro";8
+2018;"feliz";8
+2018;"duartina";8
+2018;"irece";8
+2018;"palmital";8
+2018;"pirapozinho";8
+2018;"brodowski";8
+2018;"mirassol d'oeste";8
+2018;"sao joao";8
+2018;"guapimirim";8
+2018;"capelinha";8
+2018;"senhor do bonfim";8
+2018;"mantena";8
+2018;"quirinopolis";8
+2018;"paty do alferes";8
+2018;"sao gabriel da palha";8
+2018;"pinhalzinho";8
+2018;"casa branca";8
+2018;"venda nova do imigrante";8
+2018;"niquelandia";8
+2018;"uruacu";8
+2018;"fraiburgo";8
+2018;"ibate";8
+2018;"jaguariaiva";8
+2018;"schroeder";8
+2018;"quata";8
+2018;"piedade";8
+2018;"americo brasiliense";8
+2018;"machado";8
+2018;"faxinal dos guedes";8
+2018;"iturama";8
+2018;"alvinopolis";8
+2018;"marataizes";8
+2018;"itapecerica";8
+2018;"petrolandia";8
+2018;"guaramirim";8
+2018;"imbe";8
+2018;"bandeirantes";8
+2018;"teutonia";8
+2018;"cruz das almas";8
+2018;"santana do paraiso";8
+2018;"divino";8
+2018;"canela";8
+2018;"nova granada";8
+2018;"vargem grande do sul";8
+2018;"parnaiba";8
+2018;"guariba";8
+2018;"icara";8
+2018;"nova londrina";8
+2018;"iguape";8
+2018;"osvaldo cruz";8
+2018;"bonito";8
+2018;"biritiba-mirim";8
+2018;"visconde do rio branco";8
+2018;"brasilia de minas";8
+2018;"triunfo";8
+2018;"capanema";8
+2018;"chavantes";8
+2018;"descalvado";8
+2018;"espera feliz";7
+2018;"campo novo do parecis";7
+2018;"piraquara";7
+2018;"paraibuna";7
+2018;"raul soares";7
+2018;"alto paraiso de goias";7
+2018;"taquari";7
+2018;"pau dos ferros";7
+2018;"santa vitoria do palmar";7
+2018;"flores da cunha";7
+2018;"paraisopolis";7
+2018;"paicandu";7
+2018;"sao jose do vale do rio preto";7
+2018;"bom jesus";7
+2018;"patos";7
+2018;"januaria";7
+2018;"pontes e lacerda";7
+2018;"sumidouro";7
+2018;"junqueiropolis";7
+2018;"sao mateus do sul";7
+2018;"porto feliz";7
+2018;"santa vitoria";7
+2018;"sao jose de ribamar";7
+2018;"porangatu";7
+2018;"campina verde";7
+2018;"pontal";7
+2018;"aluminio";7
+2018;"santa ines";7
+2018;"caico";7
+2018;"valente";7
+2018;"treze tilias";7
+2018;"arroio do meio";7
+2018;"campina grande do sul";7
+2018;"buritama";7
+2018;"goianesia";7
+2018;"aguas da prata";7
+2018;"simonesia";7
+2018;"itaocara";7
+2018;"posse";7
+2018;"barra velha";7
+2018;"ivoti";7
+2018;"garopaba";7
+2018;"miracema";7
+2018;"nucleo residencial pilar";7
+2018;"caxambu";7
+2018;"santo amaro da imperatriz";7
+2018;"ibaiti";7
+2018;"ji-parana";7
+2018;"crato";7
+2018;"eldorado do sul";7
+2018;"mata de sao joao";7
+2018;"salesopolis";7
+2018;"bombinhas";7
+2018;"maracaju";7
+2018;"santa cruz das palmeiras";7
+2018;"presidente venceslau";7
+2018;"matias barbosa";7
+2018;"paranapanema";7
+2018;"italva";7
+2018;"serra negra";7
+2018;"guararapes";7
+2018;"sao miguel arcanjo";7
+2018;"carpina";7
+2018;"vila muriqui";7
+2018;"eusebio";7
+2018;"abaetetuba";7
+2018;"paragominas";7
+2018;"cordeiropolis";7
+2018;"rio negro";6
+2018;"coxim";6
+2018;"aperibe";6
+2018;"brotas";6
+2018;"sao joao batista";6
+2018;"nova era";6
+2018;"dourado";6
+2018;"serrinha";6
+2018;"ceu azul";6
+2018;"sao felix do xingu";6
+2018;"canaa dos carajas";6
+2018;"fartura";6
+2018;"pereira barreto";6
+2018;"agua boa";6
+2018;"parapua";6
+2018;"goitacazes";6
+2018;"salto de pirapora";6
+2018;"borborema";6
+2018;"itobi";6
+2018;"queimadas";6
+2018;"tanabi";6
+2018;"nepomuceno";6
+2018;"dom pedrito";6
+2018;"igarape";6
+2018;"ipojuca";6
+2018;"forquilhinha";6
+2018;"floriano";6
+2018;"paranaiba";6
+2018;"almenara";6
+2018;"carmo do cajuru";6
+2018;"itajobi";6
+2018;"itapetinga";6
+2018;"morro agudo";6
+2018;"veranopolis";6
+2018;"paraopeba";6
+2018;"angatuba";6
+2018;"catu";6
+2018;"candido mota";6
+2018;"pinheiros";6
+2018;"ervalia";6
+2018;"perdizes";6
+2018;"cangucu";6
+2018;"sao luiz gonzaga";6
+2018;"encantado";6
+2018;"palestina";6
+2018;"dois corregos";6
+2018;"casimiro de abreu";6
+2018;"conselheiro pena";6
+2018;"cansancao";6
+2018;"ibirama";6
+2018;"bocaiuva";6
+2018;"girua";6
+2018;"campo ere";6
+2018;"acreuna";6
+2018;"ouro fino";6
+2018;"sombrio";6
+2018;"cambuci";6
+2018;"tres de maio";6
+2018;"jequitinhonha";6
+2018;"nova prata do iguacu";6
+2018;"primavera";6
+2018;"belo jardim";6
+2018;"dores do indaia";6
+2018;"serra talhada";6
+2018;"iracemapolis";6
+2018;"colider";6
+2018;"sao lourenco do oeste";6
+2018;"arcos";6
+2018;"bacabal";6
+2018;"floresta";6
+2018;"goiana";6
+2018;"penha";6
+2018;"turmalina";6
+2018;"nova xavantina";6
+2018;"cicero dantas";6
+2018;"xaxim";6
+2018;"abreu e lima";6
+2018;"tres passos";6
+2018;"cunha";6
+2018;"santa teresa";6
+2018;"montanha";6
+2018;"guapore";6
+2018;"sao lourenco da serra";6
+2018;"lucelia";6
+2018;"papanduva";6
+2018;"caetanopolis";6
+2018;"pompeu";6
+2018;"irapuru";6
+2018;"astolfo dutra";6
+2018;"piranguinho";6
+2018;"carmo";6
+2018;"boa esperanca do sul";6
+2018;"porecatu";6
+2018;"ipora do oeste";6
+2018;"janauba";6
+2018;"arroio dos ratos";5
+2018;"campinas do sul";5
+2018;"cananeia";5
+2018;"barroso";5
+2018;"pitangueiras";5
+2018;"casca";5
+2018;"itapui";5
+2018;"mateus leme";5
+2018;"jaguarao";5
+2018;"goianira";5
+2018;"julio de castilhos";5
+2018;"hidrolandia";5
+2018;"ibira";5
+2018;"sao romao";5
+2018;"malacacheta";5
+2018;"estrela";5
+2018;"prata";5
+2018;"mendes";5
+2018;"arinos";5
+2018;"morro do chapeu";5
+2018;"navirai";5
+2018;"planaltina";5
+2018;"sidrolandia";5
+2018;"resplendor";5
+2018;"joanopolis";5
+2018;"juquia";5
+2018;"lagoa vermelha";5
+2018;"pinhao";5
+2018;"cajuru";5
+2018;"abaete";5
+2018;"barra do corda";5
+2018;"nova venecia";5
+2018;"eloi mendes";5
+2018;"porciuncula";5
+2018;"muzambinho";5
+2018;"rosario do sul";5
+2018;"vilhena";5
+2018;"rio das pedras";5
+2018;"ibipora";5
+2018;"aparecida do taboado";5
+2018;"siqueira campos";5
+2018;"passa quatro";5
+2018;"general salgado";5
+2018;"morro da fumaca";5
+2018;"santa cruz do capibaribe";5
+2018;"pacajus";5
+2018;"monte santo de minas";5
+2018;"horizontina";5
+2018;"limoeiro do norte";5
+2018;"itapiranga";5
+2018;"maravilha";5
+2018;"charqueada";5
+2018;"frederico westphalen";5
+2018;"monte alegre do sul";5
+2018;"assis chateaubriand";5
+2018;"campo formoso";5
+2018;"sacramento";5
+2018;"nova europa";5
+2018;"vargem alta";5
+2018;"castilho";5
+2018;"sao goncalo do amarante";5
+2018;"baependi";5
+2018;"sao joaquim";5
+2018;"escada";5
+2018;"araripina";5
+2018;"sao francisco de paula";5
+2018;"guarani";5
+2018;"crixas";5
+2018;"itaqui";5
+2018;"comodoro";5
+2018;"goioere";5
+2018;"avanhandava";5
+2018;"ronda alta";5
+2018;"entre rios de minas";5
+2018;"mambore";5
+2018;"inhapim";5
+2018;"ouricuri";5
+2018;"martins soares";5
+2018;"passo de torres";5
+2018;"cajazeiras";5
+2018;"conceicao de macabu";5
+2018;"cambara";5
+2018;"divinolandia";5
+2018;"bom jardim";5
+2018;"porto real";5
+2018;"ipaba";5
+2018;"tapejara";5
+2018;"miguelopolis";5
+2018;"jeremoabo";5
+2018;"guaranesia";5
+2018;"conceicao do mato dentro";5
+2018;"taua";5
+2018;"rio paranaiba";5
+2018;"baixo guandu";5
+2018;"piracanjuba";5
+2018;"icem";5
+2018;"aracoiaba da serra";5
+2018;"itabaiana";5
+2018;"xinguara";5
+2018;"caconde";5
+2018;"alta floresta";5
+2018;"iguatu";5
+2018;"santa juliana";5
+2018;"serrana";5
+2018;"santo antonio da platina";5
+2018;"tiangua";5
+2018;"guarabira";5
+2018;"pilar do sul";5
+2018;"sao lourenco do sul";5
+2018;"lauro muller";5
+2018;"ibia";5
+2018;"itai";5
+2018;"cabedelo";5
+2018;"sao sebastiao do cai";5
+2018;"macatuba";5
+2018;"vazante";5
+2018;"aracariguama";5
+2018;"regente feijo";5
+2018;"santa helena de goias";5
+2018;"jandaia do sul";5
+2018;"alcinopolis";5
+2018;"santo antonio do jacinto";5
+2018;"campanha";5
+2018;"ubaira";5
+2018;"carai";5
+2018;"itamaraju";5
+2018;"martinopolis";5
+2018;"arapoti";5
+2018;"missal";5
+2018;"guara";5
+2018;"ipira";5
+2018;"brauna";5
+2018;"marilandia";5
+2018;"camaqua";5
+2018;"acopiara";5
+2018;"aimores";5
+2018;"urupes";5
+2018;"santa branca";5
+2018;"bom conselho";5
+2018;"santana";5
+2018;"astorga";5
+2018;"tres coroas";5
+2018;"balsas";5
+2018;"igarata";5
+2018;"pradopolis";5
+2018;"brejo santo";5
+2018;"correia pinto";5
+2018;"anicuns";5
+2018;"ouroeste";5
+2018;"jaguare";5
+2018;"minacu";5
+2018;"campo verde";5
+2018;"guaranta";5
+2018;"lagoa grande";5
+2018;"dores de campos";5
+2018;"alvares machado";5
+2018;"aripuana";5
+2018;"barra de sao francisco";5
+2018;"eldorado";5
+2018;"itabera";5
+2018;"sao domingos do norte";5
+2018;"pinheiral";5
+2018;"lindoia";5
+2018;"pires do rio";5
+2018;"soledade";5
+2018;"arraial d'ajuda";5
+2018;"monte aprazivel";5
+2018;"rio casca";5
+2018;"penedo";5
+2018;"mostardas";5
+2018;"aguai";5
+2018;"alfredo chaves";5
+2018;"igarassu";5
+2018;"nova veneza";5
+2018;"maracai";5
+2018;"conceicao do coite";5
+2018;"afogados da ingazeira";4
+2018;"sao joaquim de bicas";4
+2018;"ibotirama";4
+2018;"santa cruz da conceicao";4
+2018;"oeiras";4
+2018;"bom jesus da lapa";4
+2018;"florida paulista";4
+2018;"guaraniacu";4
+2018;"diamante do norte";4
+2018;"sao marcos";4
+2018;"pojuca";4
+2018;"jordania";4
+2018;"trancoso";4
+2018;"cruz";4
+2018;"agua branca";4
+2018;"tupaciguara";4
+2018;"russas";4
+2018;"madre de deus";4
+2018;"ceres";4
+2018;"quissama";4
+2018;"santo antonio do monte";4
+2018;"camanducaia";4
+2018;"rondon do para";4
+2018;"carandai";4
+2018;"itambe";4
+2018;"bofete";4
+2018;"seara";4
+2018;"maravilhas";4
+2018;"neropolis";4
+2018;"sales";4
+2018;"sao luis de montes belos";4
+2018;"pirangi";4
+2018;"simao dias";4
+2018;"joao neiva";4
+2018;"barcarena";4
+2018;"lajedo";4
+2018;"nova petropolis";4
+2018;"sao sebastiao do passe";4
+2018;"macaubas";4
+2018;"pontal do parana";4
+2018;"cedral";4
+2018;"remanso";4
+2018;"mundo novo";4
+2018;"lagoa dourada";4
+2018;"sao raimundo nonato";4
+2018;"raposos";4
+2018;"ico";4
+2018;"itaguacu";4
+2018;"santa quiteria";4
+2018;"severinia";4
+2018;"acarau";4
+2018;"nossa senhora do socorro";4
+2018;"benedito novo";4
+2018;"seabra";4
+2018;"presidente getulio";4
+2018;"irani";4
+2018;"paraiso do tocantins";4
+2018;"redencao";4
+2018;"cajobi";4
+2018;"rio branco do sul";4
+2018;"cosmorama";4
+2018;"tres barras";4
+2018;"pimenta bueno";4
+2018;"estacao";4
+2018;"cesario lange";4
+2018;"santo augusto";4
+2018;"morada nova";4
+2018;"bernardino de campos";4
+2018;"ipameri";4
+2018;"presidente olegario";4
+2018;"mucuri";4
+2018;"herval d'oeste";4
+2018;"capitolio";4
+2018;"encruzilhada do sul";4
+2018;"andorinha";4
+2018;"estiva gerbi";4
+2018;"maracas";4
+2018;"itauba";4
+2018;"marituba";4
+2018;"santo anastacio";4
+2018;"parobe";4
+2018;"sao jeronimo";4
+2018;"trajano de moraes";4
+2018;"posto da mata";4
+2018;"primeiro de maio";4
+2018;"cacu";4
+2018;"horizonte";4
+2018;"limoeiro";4
+2018;"piratuba";4
+2018;"ibirarema";4
+2018;"merces";4
+2018;"balneario picarras";4
+2018;"luis antonio";4
+2018;"sapezal";4
+2018;"espumoso";4
+2018;"tabatinga";4
+2018;"caetite";4
+2018;"tucano";4
+2018;"sertanopolis";4
+2018;"confresa";4
+2018;"jardim";4
+2018;"paulo frontin";4
+2018;"domingos martins";4
+2018;"novo cruzeiro";4
+2018;"chapada";4
+2018;"itau de minas";4
+2018;"jacare";4
+2018;"cabrobo";4
+2018;"taguai";4
+2018;"pedro de toledo";4
+2018;"barra da estiva";4
+2018;"pacaembu";4
+2018;"cidade ocidental";4
+2018;"campos belos";4
+2018;"sao jose do norte";4
+2018;"belo oriente";4
+2018;"sao roque do canaa";4
+2018;"itamarandiba";4
+2018;"entre rios";4
+2018;"catole do rocha";4
+2018;"vila dos cabanos";4
+2018;"apiuna";4
+2018;"presidente dutra";4
+2018;"colina";4
+2018;"ribeirao bonito";4
+2018;"capinopolis";4
+2018;"sao pedro";4
+2018;"elias fausto";4
+2018;"inacio martins";4
+2018;"santa rita de caldas";4
+2018;"prudentopolis";4
+2018;"tabapua";4
+2018;"sao joao evangelista";4
+2018;"piripiri";4
+2018;"urussanga";4
+2018;"itamonte";4
+2018;"sao jose do calcado";4
+2018;"ibicarai";4
+2018;"bonfim";4
+2018;"ipua";4
+2018;"cocalinho";4
+2018;"cabreuva";4
+2018;"sao goncalo do sapucai";4
+2018;"lambari";4
+2018;"bezerros";4
+2018;"senador pompeu";4
+2018;"tapiratiba";4
+2018;"rolim de moura";4
+2018;"diamantino";4
+2018;"bocaina";4
+2018;"mamanguape";4
+2018;"palmares";4
+2018;"quatro bocas";4
+2018;"reboucas";4
+2018;"nazare paulista";4
+2018;"nova esperanca";4
+2018;"serafina correa";4
+2018;"quixada";4
+2018;"parauna";4
+2018;"garibaldi";4
+2018;"pesqueira";4
+2018;"trombudo central";4
+2018;"nova andradina";4
+2018;"pongai";4
+2018;"lagoa da prata";4
+2018;"nhandeara";4
+2018;"piranhas";4
+2018;"portao";4
+2018;"santa helena";4
+2018;"campinorte";4
+2018;"torrinha";4
+2018;"rio novo";4
+2018;"cristina";4
+2018;"afonso claudio";4
+2018;"nao-me-toque";4
+2018;"itacare";4
+2018;"itaobim";4
+2018;"esperanca";4
+2018;"colorado";4
+2018;"pedra azul";4
+2018;"gravata";4
+2018;"rolante";4
+2018;"mallet";4
+2018;"porto belo";4
+2018;"chapadao do ceu";4
+2018;"mendes pimentel";4
+2018;"realeza";4
+2018;"rio pomba";4
+2018;"ladario";4
+2018;"candelaria";4
+2018;"ruy barbosa";4
+2018;"pirai";4
+2018;"valparaiso";4
+2018;"ampere";4
+2018;"matozinhos";4
+2018;"jaragua";4
+2018;"balsamo";4
+2018;"tupi paulista";4
+2018;"sales oliveira";4
+2018;"santa gertrudes";4
+2018;"sao goncalo do rio abaixo";3
+2018;"guarei";3
+2018;"roseira";3
+2018;"lajinha";3
+2018;"sananduva";3
+2018;"nova ponte";3
+2018;"sao sepe";3
+2018;"arace";3
+2018;"presidente tancredo neves";3
+2018;"palmitinho";3
+2018;"mimoso do sul";3
+2018;"araruna";3
+2018;"conquista";3
+2018;"sao francisco do conde";3
+2018;"tiradentes";3
+2018;"auriflama";3
+2018;"munhoz";3
+2018;"bandeira";3
+2018;"barra do turvo";3
+2018;"belo campo";3
+2018;"catas altas";3
+2018;"palma";3
+2018;"fervedouro";3
+2018;"terra rica";3
+2018;"guapo";3
+2018;"iconha";3
+2018;"nova russas";3
+2018;"itapaje";3
+2018;"espigao do oeste";3
+2018;"mantenopolis";3
+2018;"itabela";3
+2018;"papagaios";3
+2018;"caarapo";3
+2018;"surubim";3
+2018;"sao gabriel do oeste";3
+2018;"pirenopolis";3
+2018;"ilha de itamaraca";3
+2018;"borda da mata";3
+2018;"palmeira d'oeste";3
+2018;"ribeirao claro";3
+2018;"guaraciaba";3
+2018;"tres cachoeiras";3
+2018;"riolandia";3
+2018;"cruzeiro do oeste";3
+2018;"sao jose de uba";3
+2018;"guimarania";3
+2018;"nova fatima";3
+2018;"alto santo";3
+2018;"poco fundo";3
+2018;"itaipulandia";3
+2018;"itapejara d'oeste";3
+2018;"maracacume";3
+2018;"conceicao do castelo";3
+2018;"tarabai";3
+2018;"coronel vivida";3
+2018;"sao goncalo do para";3
+2018;"pedrinhas paulista";3
+2018;"cristalina";3
+2018;"uibai";3
+2018;"barros cassal";3
+2018;"santa cruz cabralia";3
+2018;"mari";3
+2018;"bananeiras";3
+2018;"sao jose do egito";3
+2018;"barra do tarrachil";3
+2018;"varjota";3
+2018;"estreito";3
+2018;"volta grande";3
+2018;"marmeleiro";3
+2018;"quatis";3
+2018;"codo";3
+2018;"rio acima";3
+2018;"corumbaiba";3
+2018;"sao jose da bela vista";3
+2018;"una";3
+2018;"bilac";3
+2018;"imbituva";3
+2018;"itapagipe";3
+2018;"mato verde";3
+2018;"camamu";3
+2018;"pedra preta";3
+2018;"guabiruba";3
+2018;"sao joao do piaui";3
+2018;"campos de julio";3
+2018;"macaiba";3
+2018;"itambacuri";3
+2018;"entre rios do oeste";3
+2018;"colinas do tocantins";3
+2018;"japura";3
+2018;"morungaba";3
+2018;"balneario pinhal";3
+2018;"alexania";3
+2018;"piranga";3
+2018;"carlopolis";3
+2018;"itaiopolis";3
+2018;"pouso alto";3
+2018;"silvianopolis";3
+2018;"jaborandi";3
+2018;"conceicao do araguaia";3
+2018;"areal";3
+2018;"arroio do sal";3
+2018;"toritama";3
+2018;"guaratuba";3
+2018;"uchoa";3
+2018;"divinolandia de minas";3
+2018;"pitanga";3
+2018;"caraubas";3
+2018;"santa maria de itabira";3
+2018;"sertao";3
+2018;"marechal floriano";3
+2018;"sooretama";3
+2018;"peabiru";3
+2018;"granja";3
+2018;"timon";3
+2018;"perdoes";3
+2018;"tres fronteiras";3
+2018;"pindobacu";3
+2018;"novo gama";3
+2018;"catanduvas";3
+2018;"quatigua";3
+2018;"medina";3
+2018;"raposo";3
+2018;"conceicao do para";3
+2018;"rianapolis";3
+2018;"corinto";3
+2018;"joaquim tavora";3
+2018;"canavieiras";3
+2018;"cassia";3
+2018;"bom jesus do galho";3
+2018;"gameleira";3
+2018;"conservatoria";3
+2018;"rio do pires";3
+2018;"sao jose do ouro";3
+2018;"pinhalao";3
+2018;"ubajara";3
+2018;"santa lucia";3
+2018;"quedas do iguacu";3
+2018;"sao bento do sapucai";3
+2018;"tibagi";3
+2018;"guaracai";3
+2018;"agua doce do norte";3
+2018;"barra do bugres";3
+2018;"sao ludgero";3
+2018;"capinzal";3
+2018;"itariri";3
+2018;"forquilha";3
+2018;"quixeramobim";3
+2018;"garuva";3
+2018;"mirai";3
+2018;"areado";3
+2018;"tombos";3
+2018;"rio manso";3
+2018;"bady bassitt";3
+2018;"campos sales";3
+2018;"mutum";3
+2018;"aiuruoca";3
+2018;"piritiba";3
+2018;"botelhos";3
+2018;"xangri-la";3
+2018;"florestopolis";3
+2018;"querencia";3
+2018;"colonia castrolanda";3
+2018;"jacupiranga";3
+2018;"fronteira";3
+2018;"timburi";3
+2018;"monte belo";3
+2018;"rodeio";3
+2018;"herculandia";3
+2018;"urbano santos";3
+2018;"andira";3
+2018;"maristela";3
+2018;"general carneiro";3
+2018;"terra de areia";3
+2018;"rubiataba";3
+2018;"alcobaca";3
+2018;"piumhi";3
+2018;"valenca do piaui";3
+2018;"esperantinopolis";3
+2018;"palotina";3
+2018;"jaguari";3
+2018;"goiatuba";3
+2018;"jijoca de jericoacoara";3
+2018;"gravatal";3
+2018;"rio do oeste";3
+2018;"acailandia";3
+2018;"dianopolis";3
+2018;"piratininga";3
+2018;"dores do rio preto";3
+2018;"pombal";3
+2018;"varzea da palma";3
+2018;"itapipoca";3
+2018;"euclides da cunha";3
+2018;"cruzalia";3
+2018;"sabinopolis";3
+2018;"dom feliciano";3
+2018;"carius";3
+2018;"bituruna";3
+2018;"analandia";3
+2018;"potirendaba";3
+2018;"brazopolis";3
+2018;"jaiba";3
+2018;"arcoverde";3
+2018;"iacanga";3
+2018;"nova aurora";3
+2018;"sao miguel do araguaia";3
+2018;"buri";3
+2018;"florestal";3
+2018;"tanque novo";3
+2018;"ribeirao do sul";3
+2018;"canelinha";3
+2018;"capitao leonidas marques";3
+2018;"orleans";3
+2018;"medeiros neto";3
+2018;"rio novo do sul";3
+2018;"cardoso moreira";3
+2018;"sao tiago";3
+2018;"machadinho d'oeste";3
+2018;"porto xavier";3
+2018;"ipaussu";3
+2018;"itapuranga";3
+2018;"braganca";3
+2018;"faxinal";3
+2018;"aracoiaba";3
+2018;"cidade gaucha";3
+2018;"quinta do sol";3
+2018;"aracuai";3
+2018;"sao cristovao";3
+2018;"goias";3
+2018;"guaranta do norte";3
+2018;"cunha pora";3
+2018;"saltinho";3
+2018;"alpinopolis";3
+2018;"lima duarte";3
+2018;"carmopolis de minas";3
+2018;"engenheiro paulo de frontin";3
+2018;"catigua";3
+2018;"inhambupe";3
+2018;"apiai";3
+2018;"firminopolis";3
+2018;"getulio vargas";3
+2018;"ribeirao";3
+2018;"ariquemes";3
+2018;"coroata";3
+2018;"corupa";3
+2018;"lagarto";3
+2018;"pilar";3
+2018;"pirai do sul";3
+2018;"silvania";3
+2018;"itaberaba";3
+2018;"miracatu";3
+2018;"restinga seca";3
+2018;"guaicara";3
+2018;"sao sebastiao do alto";3
+2018;"colombia";3
+2018;"miguel calmon";3
+2018;"regeneracao";3
+2018;"caldas";3
+2018;"ribeirao do pinhal";3
+2018;"cruzilia";3
+2018;"alto taquari";3
+2018;"carmo da cachoeira";3
+2018;"itaituba";3
+2018;"quadra";3
+2018;"santo estevao";3
+2018;"caiaponia";3
+2018;"arroio grande";3
+2018;"sao goncalo do rio preto";3
+2018;"custodia";3
+2018;"piquete";3
+2018;"iati";3
+2018;"sao miguel do iguacu";3
+2018;"santa maria madalena";3
+2018;"crateus";3
+2018;"aguas formosas";3
+2018;"catende";3
+2018;"apiaca";3
+2018;"maranguape";3
+2018;"palma sola";3
+2018;"paraipaba";3
+2018;"arapora";3
+2018;"conceicao dos ouros";3
+2018;"ribeira do pombal";3
+2018;"terra roxa";3
+2018;"ascurra";3
+2018;"sao joao batista do gloria";3
+2018;"pilao arcado";3
+2018;"laurentino";3
+2018;"castanheira";3
+2018;"espinosa";3
+2018;"ipiau";3
+2018;"propria";3
+2018;"formosa do rio preto";3
+2018;"barreiros";3
+2018;"sao sebastiao da grama";3
+2018;"mandaguacu";3
+2018;"aquidauana";3
+2018;"cachoeira de pajeu";3
+2018;"cruzeiro do sul";3
+2018;"neves paulista";3
+2018;"lavras do sul";3
+2018;"bela vista de goias";3
+2018;"vianopolis";3
+2018;"orizona";3
+2018;"bom sucesso";3
+2018;"vitoria de santo antao";3
+2018;"mario campos";3
+2018;"taruma";3
+2018;"mombuca";2
+2018;"moreira sales";2
+2018;"cristiano otoni";2
+2018;"sao miguel do guapore";2
+2018;"pontalina";2
+2018;"itanhomi";2
+2018;"senador firmino";2
+2018;"ipaporanga";2
+2018;"xavantina";2
+2018;"buriticupu";2
+2018;"colonia vitoria";2
+2018;"santo antonio do grama";2
+2018;"tapirai";2
+2018;"jesuania";2
+2018;"camocim";2
+2018;"grao para";2
+2018;"monte carlo";2
+2018;"cumaru";2
+2018;"sao jose do goiabal";2
+2018;"lagoa formosa";2
+2018;"pindorama do tocantins";2
+2018;"caninde de sao francisco";2
+2018;"nonoai";2
+2018;"capivari de baixo";2
+2018;"dona francisca";2
+2018;"carmo do rio claro";2
+2018;"santa isabel do ivai";2
+2018;"boninal";2
+2018;"chapada gaucha";2
+2018;"ipumirim";2
+2018;"itinga";2
+2018;"ribeira";2
+2018;"montalvania";2
+2018;"rio azul";2
+2018;"arvorezinha";2
+2018;"pedro osorio";2
+2018;"rio piracicaba";2
+2018;"sao jose da coroa grande";2
+2018;"pien";2
+2018;"capetinga";2
+2018;"santa albertina";2
+2018;"baturite";2
+2018;"carinhanha";2
+2018;"ecoporanga";2
+2018;"imbuia";2
+2018;"vereda";2
+2018;"bom jesus do norte";2
+2018;"antonina";2
+2018;"potengi";2
+2018;"visconde de maua";2
+2018;"pacatuba";2
+2018;"santana do manhuacu";2
+2018;"iuna";2
+2018;"sao domingos do maranhao";2
+2018;"goncalves";2
+2018;"pedralva";2
+2018;"campina da lagoa";2
+2018;"avelar";2
+2018;"sao joao do sul";2
+2018;"perpetuo socorro";2
+2018;"trindade do sul";2
+2018;"salto do ceu";2
+2018;"altamira do parana";2
+2018;"sao miguel";2
+2018;"lindoeste";2
+2018;"benevides";2
+2018;"novo progresso";2
+2018;"entre-ijuis";2
+2018;"catuipe";2
+2018;"santa margarida";2
+2018;"apuiares";2
+2018;"irapua";2
+2018;"itororo";2
+2018;"colmeia";2
+2018;"cachoeira de minas";2
+2018;"frei inocencio";2
+2018;"sao bento do una";2
+2018;"arneiroz";2
+2018;"costa marques";2
+2018;"balneario rincao";2
+2018;"pimenteiras";2
+2018;"ibiam";2
+2018;"dom pedro";2
+2018;"vargem bonita";2
+2018;"sapopema";2
+2018;"magda";2
+2018;"inconfidentes";2
+2018;"estancia";2
+2018;"antonio prado de minas";2
+2018;"pouso redondo";2
+2018;"brejo da madre de deus";2
+2018;"marinopolis";2
+2018;"putinga";2
+2018;"rafard";2
+2018;"jambeiro";2
+2018;"gastao vidigal";2
+2018;"miranda";2
+2018;"arealva";2
+2018;"piacabucu";2
+2018;"guarda-mor";2
+2018;"tucunduva";2
+2018;"iacu";2
+2018;"alto alegre do iguacu";2
+2018;"sao miguel do guama";2
+2018;"livramento de nossa senhora";2
+2018;"casa nova";2
+2018;"ventania";2
+2018;"manga";2
+2018;"ipanema";2
+2018;"santana do acarau";2
+2018;"materlandia";2
+2018;"santo antonio do descoberto";2
+2018;"jaguaquara";2
+2018;"jardim do serido";2
+2018;"jeronimo monteiro";2
+2018;"abelardo luz";2
+2018;"rodelas";2
+2018;"aguas de santa barbara";2
+2018;"pindorama";2
+2018;"caninde";2
+2018;"belmonte";2
+2018;"alvarenga";2
+2018;"pocrane";2
+2018;"itaju";2
+2018;"eneas marques";2
+2018;"major vieira";2
+2018;"catarina";2
+2018;"indiara";2
+2018;"bonfinopolis de minas";2
+2018;"serra dos aimores";2
+2018;"maragogi";2
+2018;"chapada dos guimaraes";2
+2018;"ipueiras";2
+2018;"meleiro";2
+2018;"rio pardo de minas";2
+2018;"kalore";2
+2018;"dois irmaos do buriti";2
+2018;"placas";2
+2018;"echapora";2
+2018;"ametista do sul";2
+2018;"cassilandia";2
+2018;"vere";2
+2018;"pote";2
+2018;"itaquirai";2
+2018;"cidreira";2
+2018;"itabatan";2
+2018;"ze doca";2
+2018;"conceicao da aparecida";2
+2018;"jaguaribe";2
+2018;"araujos";2
+2018;"jatauba";2
+2018;"tocos";2
+2018;"rondon";2
+2018;"pirauba";2
+2018;"nova mutum";2
+2018;"pomerode";2
+2018;"vila flores";2
+2018;"eugenopolis";2
+2018;"buenopolis";2
+2018;"florai";2
+2018;"jacinto machado";2
+2018;"araquari";2
+2018;"concordia do para";2
+2018;"glicerio";2
+2018;"tenente portela";2
+2018;"armazem";2
+2018;"governador portela";2
+2018;"juatuba";2
+2018;"candido rodrigues";2
+2018;"barra do choca";2
+2018;"ibiai";2
+2018;"alto rio novo";2
+2018;"sao pedro da uniao";2
+2018;"inaja";2
+2018;"santa fe de goias";2
+2018;"itapecuru mirim";2
+2018;"orindiuva";2
+2018;"antonio prado";2
+2018;"santa rita do araguaia";2
+2018;"coaraci";2
+2018;"santanesia";2
+2018;"aramari";2
+2018;"paripiranga";2
+2018;"cafeara";2
+2018;"miraima";2
+2018;"riachinho";2
+2018;"rio maria";2
+2018;"cristalia";2
+2018;"adolfo";2
+2018;"juruena";2
+2018;"tucuma";2
+2018;"ajuricaba";2
+2018;"iacri";2
+2018;"utinga";2
+2018;"amaraji";2
+2018;"ilhota";2
+2018;"bom jardim de minas";2
+2018;"ouro preto do oeste";2
+2018;"colonia jordaozinho";2
+2018;"fronteiras";2
+2018;"congonhal";2
+2018;"moju";2
+2018;"cambuquira";2
+2018;"campo maior";2
+2018;"bananal";2
+2018;"sao jose do divino";2
+2018;"canhotinho";2
+2018;"tutoia";2
+2018;"barra do ribeiro";2
+2018;"indiapora";2
+2018;"victor graeff";2
+2018;"ortigueira";2
+2018;"chapada do norte";2
+2018;"vitorino freire";2
+2018;"taguatinga";2
+2018;"sao jose da barra";2
+2018;"piedade de caratinga";2
+2018;"rubim";2
+2018;"alto garcas";2
+2018;"durande";2
+2018;"ponte serrada";2
+2018;"santa cruz de salinas";2
+2018;"espigao";2
+2018;"anta";2
+2018;"manoel ribas";2
+2018;"fazenda nova";2
+2018;"itabaianinha";2
+2018;"santana do jacare";2
+2018;"xique-xique";2
+2018;"patu";2
+2018;"tocantins";2
+2018;"sao joao do paraiso";2
+2018;"junqueiro";2
+2018;"nossa senhora do remedio";2
+2018;"barracao";2
+2018;"alta floresta d'oeste";2
+2018;"sao mateus do maranhao";2
+2018;"carajas";2
+2018;"urucurituba";2
+2018;"dormentes";2
+2018;"carnaubais";2
+2018;"novo oriente do piaui";2
+2018;"bocaiuva do sul";2
+2018;"serrania";2
+2018;"iramaia";2
+2018;"wenceslau braz";2
+2018;"colinas";2
+2018;"japuiba";2
+2018;"ribeirao branco";2
+2018;"abadia dos dourados";2
+2018;"juara";2
+2018;"morro reuter";2
+2018;"sao jose de mipibu";2
+2018;"lago da pedra";2
+2018;"pimenta";2
+2018;"tuparendi";2
+2018;"lavinia";2
+2018;"alto rio doce";2
+2018;"igarapava";2
+2018;"nova trento";2
+2018;"eliseu martins";2
+2018;"porangaba";2
+2018;"inaciolandia";2
+2018;"bom principio";2
+2018;"vista alegre do alto";2
+2018;"santana dos montes";2
+2018;"araguatins";2
+2018;"parelhas";2
+2018;"taquarivai";2
+2018;"riachao do jacuipe";2
+2018;"joao lisboa";2
+2018;"barbalha";2
+2018;"capao da porteira";2
+2018;"iaciara";2
+2018;"ubirata";2
+2018;"nova bandeirantes";2
+2018;"salto veloso";2
+2018;"altinopolis";2
+2018;"amapora";2
+2018;"angulo";2
+2018;"manduri";2
+2018;"santana da vargem";2
+2018;"itueta";2
+2018;"sonora";2
+2018;"cachoeira dourada";2
+2018;"pato bragado";2
+2018;"rio das flores";2
+2018;"cotriguacu";2
+2018;"jucurutu";2
+2018;"lagoa do ouro";2
+2018;"pindoba";2
+2018;"nipoa";2
+2018;"alianca do tocantins";2
+2018;"capitao poco";2
+2018;"altos";2
+2018;"sao pedro dos ferros";2
+2018;"luminarias";2
+2018;"carmo de minas";2
+2018;"igreja nova";2
+2018;"portelandia";2
+2018;"indianopolis";2
+2018;"oroco";2
+2018;"ipubi";2
+2018;"santa rosa de lima";2
+2018;"breu branco";2
+2018;"santo amaro de campos";2
+2018;"parai";2
+2018;"guapiacu";2
+2018;"trairi";2
+2018;"cristopolis";2
+2018;"dario meira";2
+2018;"bataguassu";2
+2018;"sao miguel do tapuio";2
+2018;"itagiba";2
+2018;"sao tomas de aquino";2
+2018;"santa cruz de monte castelo";2
+2018;"vera cruz do oeste";2
+2018;"ipe";2
+2018;"setubinha";2
+2018;"mariapolis";2
+2018;"buritizal";2
+2018;"sud mennucci";2
+2018;"quintana";2
+2018;"aragarcas";2
+2018;"comendador levy gasparian";2
+2018;"santo antonio do jardim";2
+2018;"minas novas";2
+2018;"resende costa";2
+2018;"sao domingos";2
+2018;"camacan";2
+2018;"tocantinopolis";2
+2018;"perola";2
+2018;"holambra ii";2
+2018;"ubaitaba";2
+2018;"urucui";2
+2018;"luzilandia";2
+2018;"saude";2
+2018;"mambai";2
+2018;"santa tereza do oeste";2
+2018;"itirucu";2
+2018;"palmares do sul";2
+2018;"cachoeira";2
+2018;"taiuva";2
+2018;"rechan";2
+2018;"conchas";2
+2018;"ariranha";2
+2018;"rio bonito do iguacu";2
+2018;"joviania";2
+2018;"rio real";2
+2018;"sao jose da vitoria";2
+2018;"nova soure";2
+2018;"mae do rio";2
+2018;"santa ernestina";2
+2018;"esplanada";2
+2018;"sericita";2
+2018;"mar vermelho";2
+2018;"cerro grande do sul";2
+2018;"ipiranga";2
+2018;"itaberai";2
+2018;"santana do serido";2
+2018;"formoso do araguaia";2
+2018;"matupa";2
+2018;"santo antonio do sudoeste";2
+2018;"riachao das neves";2
+2018;"jeceaba";2
+2018;"rio largo";2
+2018;"cristal";2
+2018;"rosana";2
+2018;"pinheiro machado";2
+2018;"porto nacional";2
+2018;"itapoa";2
+2018;"sertania";2
+2018;"presidente kubitschek";2
+2018;"chopinzinho";2
+2018;"irara";2
+2018;"santana da boa vista";2
+2018;"xambre";2
+2018;"jacunda";2
+2018;"goianapolis";2
+2018;"teolandia";2
+2018;"abaira";2
+2018;"jucurucu";2
+2018;"perdigao";2
+2018;"mozarlandia";2
+2018;"roca sales";2
+2018;"lagoa do carro";2
+2018;"salgado filho";2
+2018;"barra do mendes";2
+2018;"bela vista do paraiso";2
+2018;"carmo da mata";2
+2018;"boa viagem";2
+2018;"emilianopolis";2
+2018;"maracana";2
+2018;"chale";2
+2018;"fernando prestes";2
+2018;"quarai";2
+2018;"jacaraci";2
+2018;"arapei";2
+2018;"conceicao do jacuipe";2
+2018;"gaviao peixoto";2
+2018;"riacho dos machados";2
+2018;"sao francisco de assis";2
+2018;"rifaina";2
+2018;"joao ramalho";2
+2018;"afranio";2
+2018;"sao jorge do patrocinio";2
+2018;"jussari";2
+2018;"picui";2
+2018;"damianopolis";2
+2018;"capela do alto";2
+2018;"icarai de minas";2
+2018;"americano do brasil";2
+2018;"santa cruz de minas";2
+2018;"itaoca";2
+2018;"esperantina";2
+2018;"anita garibaldi";2
+2018;"sucesso";2
+2018;"coluna";2
+2018;"patrocinio do muriae";2
+2018;"sao francisco do guapore";2
+2018;"tobias barreto";2
+2018;"monte castelo";2
+2018;"rio do campo";2
+2018;"aurora";2
+2018;"sao joao do manteninha";2
+2018;"campos altos";2
+2018;"lagoa nova";2
+2018;"urucuca";2
+2018;"alvaro de carvalho";2
+2018;"poloni";2
+2018;"iguatama";2
+2018;"saudades";2
+2018;"otacilio costa";2
+2018;"presidente bernardes";2
+2018;"santa teresinha";2
+2018;"itirapina";2
+2018;"jaciara";2
+2018;"paraiso";2
+2018;"mendonca";2
+2018;"sao bento";2
+2018;"teixeiras";2
+2018;"montauri";2
+2018;"jose de freitas";2
+2018;"peixoto de azevedo";2
+2018;"campo do meio";2
+2018;"rio preto";2
+2018;"sao jose da lapa";2
+2018;"candido de abreu";2
+2018;"capim grosso";2
+2018;"bayeux";2
+2018;"sao paulo do potengi";2
+2018;"planalto";2
+2018;"anadia";2
+2018;"mar de espanha";2
+2018;"santa rita d'oeste";2
+2018;"papucaia";2
+2018;"formoso";2
+2018;"jauru";2
+2018;"coronel joao sa";2
+2018;"pedras de fogo";2
+2018;"campina do monte alegre";2
+2018;"tomar do geru";2
+2018;"cristais";2
+2018;"sao joao dos patos";2
+2018;"murutinga do sul";2
+2018;"roque gonzales";2
+2018;"currais novos";2
+2018;"lagoinha";2
+2018;"humaita";2
+2018;"alterosa";2
+2018;"nova olinda";2
+2018;"amambai";2
+2018;"porto franco";2
+2018;"inubia paulista";2
+2018;"santa maria da boa vista";2
+2018;"itapissuma";2
+2018;"serrolandia";2
+2018;"marco";2
+2018;"presidente kennedy";2
+2018;"palmeira dos indios";2
+2018;"soledade de minas";2
+2018;"santo antonio do amparo";2
+2018;"parana";2
+2018;"tanhacu";2
+2018;"condor";2
+2018;"pastos bons";2
+2018;"monte azul";2
+2018;"sao joao das missoes";2
+2018;"aguas belas";2
+2018;"sao jose do belmonte";2
+2018;"sao luis do paraitinga";2
+2018;"leandro ferreira";2
+2018;"urai";2
+2018;"poco verde";2
+2018;"anchieta";2
+2018;"itapemirim";2
+2018;"ipu";2
+2018;"itatim";2
+2018;"cocal do sul";2
+2018;"santo amaro";2
+2018;"cabralia paulista";2
+2018;"maximiliano de almeida";2
+2018;"gaurama";2
+2018;"tarumirim";2
+2018;"pedro afonso";2
+2018;"moreno";2
+2018;"alambari";2
+2018;"umbauba";2
+2018;"sao simao";2
+2018;"imbau";2
+2018;"itapura";2
+2018;"fatima do sul";2
+2018;"santana do cariri";2
+2018;"palmitos";2
+2018;"buritirama";2
+2018;"sousa";2
+2018;"quilombo";2
+2018;"fundao";2
+2018;"tapiramuta";2
+2018;"california da barra";2
+2018;"goianorte";2
+2018;"jesuitas";2
+2018;"julio mesquita";2
+2018;"sao jose do hortencio";2
+2018;"barra dos coqueiros";2
+2018;"ibiraci";2
+2018;"carmopolis";2
+2018;"engenheiro passos";2
+2018;"santa isabel do para";2
+2018;"presidente alves";2
+2018;"iracema";2
+2018;"cacequi";2
+2018;"sao benedito";2
+2018;"rio bananal";2
+2018;"travessao";2
+2018;"balneario barra do sul";2
+2018;"tupancireta";2
+2018;"nazare";2
+2018;"delfinopolis";2
+2018;"carire";2
+2018;"nova santa rosa";2
+2018;"imigrante";2
+2018;"potim";2
+2018;"santa rita";2
+2018;"silva jardim";2
+2018;"santana do mundau";2
+2018;"ivaipora";2
+2018;"arceburgo";2
+2018;"campina das missoes";2
+2018;"acegua";2
+2018;"sao joao do triunfo";2
+2018;"curiuva";2
+2018;"salto do jacui";2
+2018;"urupa";2
+2018;"alvorada do norte";2
+2018;"itamira";2
+2018;"novo repartimento";2
+2018;"inimutaba";2
+2018;"itapirapua paulista";2
+2018;"borrazopolis";2
+2018;"witmarsum";2
+2018;"buerarema";2
+2018;"massaranduba";2
+2018;"colniza";2
+2018;"paramirim";2
+2018;"tangua";2
+2018;"conde";2
+2018;"cambira";2
+2018;"grajau";2
+2018;"guaraciaba do norte";2
+2018;"riqueza";2
+2018;"sao jose do barreiro";2
+2018;"sao luis do curu";2
+2018;"ibiapina";2
+2018;"dom silverio";2
+2018;"itaitinga";2
+2018;"prado";2
+2018;"feliz deserto";2
+2018;"cocal";2
+2018;"tabuleiro";2
+2018;"mirandiba";2
+2018;"riacho de santana";2
+2018;"areia";2
+2018;"jequitai";2
+2018;"paulistana";2
+2018;"teresina de goias";1
+2018;"ribeiraozinho";1
+2018;"corrego fundo";1
+2018;"pedrinopolis";1
+2018;"guamiranga";1
+2018;"baianopolis";1
+2018;"juscimeira";1
+2018;"piacatu";1
+2018;"piquerobi";1
+2018;"capela";1
+2018;"iapu";1
+2018;"ulianopolis";1
+2018;"nova brasilandia d'oeste";1
+2018;"divisa alegre";1
+2018;"alto alegre do maranhao";1
+2018;"valao do barro";1
+2018;"itacarambi";1
+2018;"bertolinia";1
+2018;"duas barras";1
+2018;"america dourada";1
+2018;"macedonia";1
+2018;"imaculada";1
+2018;"venturosa";1
+2018;"anhembi";1
+2018;"cedro";1
+2018;"santa maria do suacui";1
+2018;"ouro verde de minas";1
+2018;"fatima";1
+2018;"maria da fe";1
+2018;"irupi";1
+2018;"santana do araguaia";1
+2018;"quijingue";1
+2018;"paranaita";1
+2018;"frutuoso gomes";1
+2018;"remigio";1
+2018;"sao carlos do ivai";1
+2018;"jardim olinda";1
+2018;"california";1
+2018;"pedra";1
+2018;"rio de contas";1
+2018;"abrantes";1
+2018;"sao joao do ivai";1
+2018;"pereiras";1
+2018;"aguas de sao pedro";1
+2018;"salmourao";1
+2018;"alpercata";1
+2018;"liberato salzano";1
+2018;"uruara";1
+2018;"alvares florence";1
+2018;"luz";1
+2018;"iguai";1
+2018;"varre-sai";1
+2018;"boa vista do sul";1
+2018;"satubinha";1
+2018;"porto amazonas";1
+2018;"inga";1
+2018;"vieiras";1
+2018;"serra dos dourados";1
+2018;"maragogipe";1
+2018;"santa salete";1
+2018;"siriji";1
+2018;"martinesia";1
+2018;"quatituba";1
+2018;"coelho neto";1
+2018;"cacapava do sul";1
+2018;"tailandia";1
+2018;"conceicao do tocantins";1
+2018;"japaraiba";1
+2018;"passa tempo";1
+2018;"caiua";1
+2018;"gentio do ouro";1
+2018;"miravania";1
+2018;"coroaci";1
+2018;"corumbatai";1
+2018;"balneario arroio do silva";1
+2018;"ladainha";1
+2018;"guassusse";1
+2018;"barra de santo antonio";1
+2018;"delfim moreira";1
+2018;"alegrete do piaui";1
+2018;"piracuruca";1
+2018;"itaguacu da bahia";1
+2018;"ponto belo";1
+2018;"olindina";1
+2018;"senhora de oliveira";1
+2018;"ipiacu";1
+2018;"santa quiteria do maranhao";1
+2018;"itaquitinga";1
+2018;"fazenda vilanova";1
+2018;"mariental";1
+2018;"cipo";1
+2018;"zortea";1
+2018;"formosa da serra negra";1
+2018;"matoes do norte";1
+2018;"conceicao da feira";1
+2018;"caem";1
+2018;"mineiros do tiete";1
+2018;"jatoba";1
+2018;"tocos do moji";1
+2018;"rio fortuna";1
+2018;"crisopolis";1
+2018;"acari";1
+2018;"guarara";1
+2018;"murici";1
+2018;"sao jose do ribeirao";1
+2018;"canudos";1
+2018;"ubata";1
+2018;"nova alvorada";1
+2018;"barreirinhas";1
+2018;"dionisio cerqueira";1
+2018;"uruoca";1
+2018;"alvorada do gurgueia";1
+2018;"sao sebastiao da boa vista";1
+2018;"macambara";1
+2018;"carolina";1
+2018;"angelo frechiani";1
+2018;"vila langaro";1
+2018;"itapirapua";1
+2018;"presidente janio quadros";1
+2018;"werneck";1
+2018;"buenos aires";1
+2018;"massape";1
+2018;"meruoca";1
+2018;"redencao do gurgueia";1
+2018;"condado";1
+2018;"jaqueira";1
+2018;"glorinha";1
+2018;"moeda";1
+2018;"coronel freitas";1
+2018;"assuncao";1
+2018;"sao joao da parauna";1
+2018;"agua santa";1
+2018;"lagoa d'anta";1
+2018;"candido sales";1
+2018;"tupassi";1
+2018;"deputado irapuan pinheiro";1
+2018;"lavras da mangabeira";1
+2018;"capistrano";1
+2018;"unistalda";1
+2018;"bela vista";1
+2018;"sao pedro do butia";1
+2018;"luiz alves";1
+2018;"igarape-miri";1
+2018;"boa esperanca do iguacu";1
+2018;"anastacio";1
+2018;"orizania";1
+2018;"bom retiro do sul";1
+2018;"santa rita do ibitipoca";1
+2018;"itatiaiucu";1
+2018;"coari";1
+2018;"jaboti";1
+2018;"paracuru";1
+2018;"maua da serra";1
+2018;"aramina";1
+2018;"santo cristo";1
+2018;"riacho das almas";1
+2018;"mojui dos campos";1
+2018;"ribeirao vermelho";1
+2018;"arroio do tigre";1
+2018;"guamare";1
+2018;"toropi";1
+2018;"morada nova de minas";1
+2018;"adustina";1
+2018;"juruti";1
+2018;"curvelandia";1
+2018;"alagoa nova";1
+2018;"pio ix";1
+2018;"capao do leao";1
+2018;"nova boa vista";1
+2018;"salvador do sul";1
+2018;"pitanga de estrada";1
+2018;"caravelas";1
+2018;"amelia rodrigues";1
+2018;"ilopolis";1
+2018;"itanhem";1
+2018;"ocaucu";1
+2018;"anhandui";1
+2018;"senador cortes";1
+2018;"ouro verde";1
+2018;"botuvera";1
+2018;"sertao santana";1
+2018;"chui";1
+2018;"xapuri";1
+2018;"buriti dos lopes";1
+2018;"quevedos";1
+2018;"colonia leopoldina";1
+2018;"paranaiguara";1
+2018;"tapes";1
+2018;"mimoso de goias";1
+2018;"caldeirao grande do piaui";1
+2018;"goianinha";1
+2018;"sao francisco do brejao";1
+2018;"cameta";1
+2018;"grao mogol";1
+2018;"monte bonito";1
+2018;"aurea";1
+2018;"coxilha";1
+2018;"guarani das missoes";1
+2018;"cumari";1
+2018;"hidreletrica tucurui";1
+2018;"uaua";1
+2018;"salinas da margarida";1
+2018;"diamante d'oeste";1
+2018;"leopolis";1
+2018;"uruana";1
+2018;"nova itaberaba";1
+2018;"dona euzebia";1
+2018;"lupionopolis";1
+2018;"boa vista do cadeado";1
+2018;"porto alegre do norte";1
+2018;"pranchita";1
+2018;"santa rosa do sul";1
+2018;"ferreiros";1
+2018;"paraibano";1
+2018;"taiacu";1
+2018;"araponga";1
+2018;"conceicao do rio verde";1
+2018;"tecainda";1
+2018;"ribas do rio pardo";1
+2018;"arenapolis";1
+2018;"terra nova do norte";1
+2018;"monsenhor tabosa";1
+2018;"campo alegre do fidalgo";1
+2018;"baldim";1
+2018;"crucilandia";1
+2018;"piedade dos gerais";1
+2018;"candeal";1
+2018;"rubineia";1
+2018;"barra de santa rosa";1
+2018;"david canabarro";1
+2018;"ibateguara";1
+2018;"nova cruz";1
+2018;"bataypora";1
+2018;"alto jequitiba";1
+2018;"sao nicolau";1
+2018;"caridade";1
+2018;"valentim gentil";1
+2018;"nova roma do sul";1
+2018;"sao valentim";1
+2018;"macuco de minas";1
+2018;"espigao alto do iguacu";1
+2018;"anta gorda";1
+2018;"centro novo do maranhao";1
+2018;"ipiabas";1
+2018;"virgolandia";1
+2018;"brasilandia de minas";1
+2018;"progresso";1
+2018;"panelas";1
+2018;"butia";1
+2018;"araguaia";1
+2018;"santo antonio do leverger";1
+2018;"cacule";1
+2018;"gameleiras";1
+2018;"taquaracu de minas";1
+2018;"reserva do cabacal";1
+2018;"constantina";1
+2018;"sao domingos do araguaia";1
+2018;"campestre do maranhao";1
+2018;"perola independente";1
+2018;"guaraquecaba";1
+2018;"banzae";1
+2018;"aguas vermelhas";1
+2018;"sao jose do piaui";1
+2018;"cantanhede";1
+2018;"ubaporanga";1
+2018;"dionisio";1
+2018;"carambei";1
+2018;"ibirataia";1
+2018;"douradina";1
+2018;"alvorada d'oeste";1
+2018;"sao sebastiao da amoreira";1
+2018;"carneirinho";1
+2018;"ilha comprida";1
+2018;"varzea nova";1
+2018;"novo planalto";1
+2018;"bodoco";1
+2018;"angelica";1
+2018;"manaira";1
+2018;"catu de abrantes";1
+2018;"inhauma";1
+2018;"ourilandia do norte";1
+2018;"serranopolis de minas";1
+2018;"wenceslau guimaraes";1
+2018;"mascote";1
+2018;"cachoeira da prata";1
+2018;"meridiano";1
+2018;"ribeirao cascalheira";1
+2018;"cambara do sul";1
+2018;"abadiania";1
+2018;"sao joao da mata";1
+2018;"penaforte";1
+2018;"guaraci";1
+2018;"cruzeiro da fortaleza";1
+2018;"agua limpa";1
+2018;"lagoa";1
+2018;"guimaraes";1
+2018;"tuparetama";1
+2018;"deodapolis";1
+2018;"capinzal do norte";1
+2018;"uniao do sul";1
+2018;"bela cruz";1
+2018;"pocinhos";1
+2018;"nova ubirata";1
+2018;"elisio medrado";1
+2018;"magalhaes de almeida";1
+2018;"bom retiro";1
+2018;"padre gonzales";1
+2018;"brejo";1
+2018;"felixlandia";1
+2018;"purilandia";1
+2018;"tabira";1
+2018;"quixere";1
+2018;"jamaica";1
+2018;"taquarucu do sul";1
+2018;"corbelia";1
+2018;"sao felix do araguaia";1
+2018;"jequia da praia";1
+2018;"coronel pacheco";1
+2018;"pedreiras";1
+2018;"guaiuba";1
+2018;"camutanga";1
+2018;"mutunopolis";1
+2018;"rosario do ivai";1
+2018;"barbosa ferraz";1
+2018;"cururupu";1
+2018;"sao jose do turvo";1
+2018;"pintadas";1
+2018;"capao do cipo";1
+2018;"nova bassano";1
+2018;"barro preto";1
+2018;"alto alegre";1
+2018;"sao miguel do gostoso";1
+2018;"ibitiuva";1
+2018;"nova palma";1
+2018;"macaubal";1
+2018;"santa cruz";1
+2018;"ocara";1
+2018;"angustura";1
+2018;"manfrinopolis";1
+2018;"porto rico";1
+2018;"itapora";1
+2018;"aracatu";1
+2018;"chorrocho";1
+2018;"iraucuba";1
+2018;"palmeirinha";1
+2018;"buriti alegre";1
+2018;"matelandia";1
+2018;"querencia do norte";1
+2018;"santo antonio do canaa";1
+2018;"taperuaba";1
+2018;"milagres";1
+2018;"jardim alegre";1
+2018;"caldeirao grande";1
+2018;"terenos";1
+2018;"jeriquara";1
+2018;"monte belo do sul";1
+2018;"augusto pestana";1
+2018;"couto de magalhaes";1
+2018;"abatia";1
+2018;"sao joao de pirabas";1
+2018;"rodeiro";1
+2018;"cuite";1
+2018;"lagoa dos gatos";1
+2018;"sao mamede";1
+2018;"ibipitanga";1
+2018;"nova ipixuna";1
+2018;"dona emma";1
+2018;"sao rafael";1
+2018;"lupercio";1
+2018;"varjao de minas";1
+2018;"boa vista da aparecida";1
+2018;"bonfinopolis";1
+2018;"aparecida do rio negro";1
+2018;"serra do salitre";1
+2018;"praia norte";1
+2018;"ipueira";1
+2018;"palhano";1
+2018;"breves";1
+2018;"cocos";1
+2018;"jacareacanga";1
+2018;"arapoema";1
+2018;"santo inacio";1
+2018;"janiopolis";1
+2018;"general maynard";1
+2018;"arembepe";1
+2018;"terra nova";1
+2018;"rinopolis";1
+2018;"pedro ii";1
+2018;"campo alegre de minas";1
+2018;"guapiara";1
+2018;"rio pardo";1
+2018;"balbinos";1
+2018;"agronomica";1
+2018;"juvenilia";1
+2018;"guaruja do sul";1
+2018;"tunas do parana";1
+2018;"natividade da serra";1
+2018;"barra de guabiraba";1
+2018;"datas";1
+2018;"piracema";1
+2018;"capela nova";1
+2018;"nova crixas";1
+2018;"sanharo";1
+2018;"sao miguel dos campos";1
+2018;"ichu";1
+2018;"itagimirim";1
+2018;"nova resende";1
+2018;"americo de campos";1
+2018;"sao tome";1
+2018;"machados";1
+2018;"itapaci";1
+2018;"senges";1
+2018;"centralina";1
+2018;"santa monica";1
+2018;"virginopolis";1
+2018;"pacaja";1
+2018;"brasil novo";1
+2018;"severiano melo";1
+2018;"maribondo";1
+2018;"cidelandia";1
+2018;"itutinga";1
+2018;"buritizeiro";1
+2018;"formigueiro";1
+2018;"matipo";1
+2018;"quipapa";1
+2018;"aragoiania";1
+2018;"santo antonio do leste";1
+2018;"minduri";1
+2018;"reserva";1
+2018;"sao domingos das dores";1
+2018;"jiquirica";1
+2018;"pedra do indaia";1
+2018;"campestre da serra";1
+2018;"guabiju";1
+2018;"monte santo";1
+2018;"cravolandia";1
+2018;"acajutiba";1
+2018;"perola d'oeste";1
+2018;"campos borges";1
+2018;"muqui";1
+2018;"bandeirantes do tocantins";1
+2018;"curaca";1
+2018;"aguas mornas";1
+2018;"lagoa salgada";1
+2018;"salto da divisa";1
+2018;"nova monte verde";1
+2018;"belo vale";1
+2018;"pombos";1
+2018;"itamari";1
+2018;"porto esperidiao";1
+2018;"vila flor";1
+2018;"bora";1
+2018;"eugenio de castro";1
+2018;"apore";1
+2018;"santa terezinha de itaipu";1
+2018;"itiuba";1
+2018;"bueno brandao";1
+2018;"flora rica";1
+2018;"sobradinho";1
+2018;"santo antonio das missoes";1
+2018;"jacinto";1
+2018;"paraiso do sul";1
+2018;"cachoeira alta";1
+2018;"frecheirinha";1
+2018;"araputanga";1
+2018;"glaura";1
+2018;"mocajuba";1
+2018;"coronel domingos soares";1
+2018;"governador mangabeira";1
+2018;"monte alegre de minas";1
+2018;"campo florido";1
+2018;"tres arroios";1
+2018;"rio tinto";1
+2018;"guidoval";1
+2018;"nazario";1
+2018;"saboeiro";1
+2018;"denise";1
+2018;"alexandria";1
+2018;"ibiaca";1
+2018;"uniao do oeste";1
+2018;"nova esperanca do sul";1
+2018;"beberibe";1
+2018;"dom joaquim";1
+2018;"pocao de pedras";1
+2018;"carlinda";1
+2018;"vargem alegre";1
+2018;"itaicaba";1
+2018;"castelo do piaui";1
+2018;"santa fe";1
+2018;"oriente";1
+2018;"antonio pereira";1
+2018;"serio";1
+2018;"mara rosa";1
+2018;"cerro largo";1
+2018;"ipiranga do sul";1
+2018;"santa rita de minas";1
+2018;"padre carvalho";1
+2018;"brejetuba";1
+2018;"felisburgo";1
+2018;"silveiras";1
+2018;"mariluz";1
+2018;"pugmil";1
+2018;"clevelandia";1
+2018;"itabi";1
+2018;"cabixi";1
+2018;"matutina";1
+2018;"santo antonio dos campos";1
+2018;"coracao de jesus";1
+2018;"sao felix de minas";1
+2018;"jequeri";1
+2018;"pauliceia";1
+2018;"coronel martins";1
+2018;"sao goncalo do abaete";1
+2018;"guairaca";1
+2018;"montividiu do norte";1
+2018;"cristalandia";1
+2018;"juruaia";1
+2018;"rosario";1
+2018;"curralinho";1
+2018;"sao jose do serido";1
+2018;"laje do muriae";1
+2018;"barro";1
+2018;"sao miguel do cambui";1
+2018;"ibitioca";1
+2018;"urutai";1
+2018;"nova padua";1
+2018;"berilo";1
+2018;"doverlandia";1
+2018;"sao sebastiao do maranhao";1
+2018;"macau";1
+2018;"carvalhopolis";1
+2018;"santa clara d'oeste";1
+2018;"nuporanga";1
+2018;"selbach";1
+2018;"vila valerio";1
+2018;"extremoz";1
+2018;"presidente medici";1
+2018;"chorozinho";1
+2018;"palmeiras de goias";1
+2018;"santo antonio do aventureiro";1
+2018;"reginopolis";1
+2018;"ararica";1
+2018;"teotonio vilela";1
+2018;"grandes rios";1
+2018;"augusto correa";1
+2018;"abare";1
+2018;"campo magro";1
+2018;"tres forquilhas";1
+2018;"mucuge";1
+2018;"banabuiu";1
+2018;"sao jose do cedro";1
+2018;"turvo";1
+2018;"desterro de entre rios";1
+2018;"ibicoara";1
+2018;"pocoes de paineiras";1
+2018;"santa helena de minas";1
+2018;"itapetim";1
+2018;"estiva";1
+2018;"aparecida de sao manuel";1
+2018;"serra do ramalho";1
+2018;"vitorino";1
+2018;"cocalzinho de goias";1
+2018;"rancho alegre d'oeste";1
+2018;"santo hipolito";1
+2018;"parnarama";1
+2018;"caicara do norte";1
+2018;"mirante do paranapanema";1
+2018;"riachuelo";1
+2018;"areias";1
+2018;"coribe";1
+2018;"mondai";1
+2018;"rincao";1
+2018;"arrozal";1
+2018;"cortes";1
+2018;"joaquim nabuco";1
+2018;"campo alegre de goias";1
+2018;"agrolandia";1
+2018;"juti";1
+2018;"tunapolis";1
+2018;"sao jose dos quatro marcos";1
+2018;"lamim";1
+2018;"capela do alto alegre";1
+2018;"ibarama";1
+2018;"umburatiba";1
+2018;"nova canaa paulista";1
+2018;"sanga puita";1
+2018;"alto do rodrigues";1
+2018;"lontras";1
+2018;"careacu";1
+2018;"nova redencao";1
+2018;"bicas";1
+2018;"imbe de minas";1
+2018;"olhos d'agua";1
+2018;"bom jesus do amparo";1
+2018;"anitapolis";1
+2018;"senador salgado filho";1
+2018;"central de santa helena";1
+2018;"santa mercedes";1
+2018;"virginia";1
+2018;"santana do itarare";1
+2018;"galvao";1
+2018;"tapurah";1
+2018;"aratuba";1
+2018;"jaru";1
+2018;"patrocinio paulista";1
+2018;"pedra branca";1
+2018;"campestre";1
+2018;"aurora do para";1
+2018;"sao joao do oriente";1
+2018;"jundiai do sul";1
+2018;"muquem do sao francisco";1
+2018;"romaria";1
+2018;"bandeirantes d'oeste";1
+2018;"cupira";1
+2018;"lagoa real";1
+2018;"pinhal da serra";1
+2018;"nossa senhora do o";1
+2018;"sao mateus de minas";1
+2018;"caraiba";1
+2018;"nova mamore";1
+2018;"carnaiba do sertao";1
+2018;"novo oriente";1
+2018;"andrequice";1
+2018;"porto de pedras";1
+2018;"inhapi";1
+2018;"ourem";1
+2018;"boqueirao do leao";1
+2018;"chapadinha";1
+2018;"irai de minas";1
+2018;"wagner";1
+2018;"flor da serra do sul";1
+2018;"sitio novo do tocantins";1
+2018;"martins";1
+2018;"quatro pontes";1
+2018;"jacigua";1
+2018;"paraiso das aguas";1
+2018;"mercedes";1
+2018;"arapua";1
+2018;"sao bento abade";1
+2018;"japira";1
+2018;"passo de camaragibe";1
+2018;"tejupa";1
+2018;"missi";1
+2018;"monte alegre";1
+2018;"assare";1
+2018;"coruripe";1
+2018;"pejucara";1
+2018;"morro grande";1
+2018;"balneario gaivota";1
+2018;"agua doce";1
+2018;"candido godoi";1
+2018;"guia lopes da laguna";1
+2018;"tuparece";1
+2018;"nazareno";1
+2018;"barra de sao miguel";1
+2018;"demerval lobao";1
+2018;"alexandra";1
+2018;"uniao de minas";1
+2018;"nova esperanca do piria";1
+2018;"alto piquiri";1
+2018;"lucianopolis";1
+2018;"igaracu do tiete";1
+2018;"vanini";1
+2018;"sapeacu";1
+2018;"ponto novo";1
+2018;"vertentes";1
+2018;"onda verde";1
+2018;"antonio martins";1
+2018;"vista alegre";1
+2018;"pacotuba";1
+2018;"felipe guerra";1
+2018;"silvanopolis";1
+2018;"clementina";1
+2018;"quixelo";1
+2018;"conceicao das pedras";1
+2018;"pardinho";1
+2018;"caetes";1
+2018;"coqueiros do sul";1
+2018;"sao felix";1
+2018;"paula freitas";1
+2018;"governador celso ramos";1
+2018;"arraias";1
+2018;"coronel macedo";1
+2018;"joao dourado";1
+2018;"pedregulho";1
+2018;"tomazina";1
+2018;"bacuri";1
+2018;"juru";1
+2018;"guaratinga";1
+2018;"mutuipe";1
+2018;"curral de cima";1
+2018;"aiuaba";1
+2018;"salto grande";1
+2018;"divino das laranjeiras";1
+2018;"altinho";1
+2018;"lindolfo collor";1
+2018;"nova olinda do maranhao";1
+2018;"bequimao";1
+2018;"doutor ulysses";1
+2018;"amanari";1
+2018;"santa cecilia";1
+2018;"erval grande";1
+2018;"sede alvorada";1
+2018;"mandirituba";1
+2018;"iomere";1
+2018;"santa maria da serra";1
+2018;"vila rica";1
+2018;"botelho";1
+2018;"marcos parente";1
+2018;"itubera";1
+2018;"palmeiras";1
+2018;"mata verde";1
+2018;"queluz";1
+2018;"santo antonio do aracangua";1
+2018;"paranacity";1
+2018;"frei rogerio";1
+2018;"arari";1
+2018;"confins";1
+2018;"jaraguari";1
+2018;"patis";1
+2018;"caldas brandao";1
+2018;"gramado dos loureiros";1
+2018;"rio das antas";1
+2018;"cotipora";1
+2018;"sao joao de iracema";1
+2018;"aguas claras";1
+2018;"pindare mirim";1
+2018;"guzolandia";1
+2018;"tururu";1
+2018;"desembargador otoni";1
+2018;"alfredo wagner";1
+2018;"sao luis do quitunde";1
+2018;"pirapetinga";1
+2018;"urania";1
+2018;"nova guataporanga";1
+2018;"domiciano ribeiro";1
+2018;"altonia";1
+2018;"sao pedro do sul";1
+2018;"luizlandia do oeste";1
+2018;"pocoes";1
+2018;"igrapiuna";1
+2018;"itaja";1
+2018;"novo brasil";1
+2018;"andarai";1
+2018;"mairi";1
+2018;"porteirinha";1
+2018;"indiana";1
+2018;"vicente dutra";1
+2018;"estevao de araujo";1
+2018;"aparecida de monte alto";1
+2018;"serra branca";1
+2018;"prados";1
+2018;"vitoria do mearim";1
+2018;"itau";1
+2018;"paiva";1
+2018;"brejoes";1
+2018;"simolandia";1
+2018;"maripa";1
+2018;"fortuna";1
+2018;"tacuru";1
+2018;"rancho alegre";1
+2018;"santo expedito do sul";1
+2018;"caibate";1
+2018;"miranorte";1
+2018;"areia branca dos assis";1
+2018;"coremas";1
+2018;"terra boa";1
+2018;"moncoes";1
+2018;"arroio trinta";1
+2018;"correntes";1
+2018;"pedro canario";1
+2018;"campo alegre";1
+2018;"trabiju";1
+2018;"morpara";1
+2018;"baixa grande do ribeiro";1
+2018;"cristinapolis";1
+2018;"canapolis";1
+2018;"guariroba";1
+2018;"tumiritinga";1
+2018;"rubiacea";1
+2018;"umburanas";1
+2018;"nova canaa";1
+2018;"sandolandia";1
+2018;"doce grande";1
+2018;"alto caparao";1
+2018;"itacoatiara";1
+2018;"dumont";1
+2018;"ponte alta do norte";1
+2018;"olho d'agua das cunhas";1
+2018;"bom jesus das selvas";1
+2018;"celso ramos";1
+2018;"santa mariana";1
+2018;"virgem da lapa";1
+2018;"ouvidor";1
+2018;"itaara";1
+2018;"santana do ipanema";1
+2018;"xexeu";1
+2018;"palmopolis";1
+2018;"fonseca";1
+2018;"matias olimpio";1
+2018;"jaguarembe";1
+2018;"paranatinga";1
+2018;"gabriel monteiro";1
+2018;"minas do leao";1
+2018;"aratiba";1
+2018;"conselheiro mairinck";1
+2018;"calmon";1
+2018;"pedra bela";1
+2018;"acaiaca";1
+2018;"periquito";1
+2018;"muniz freire";1
+2018;"aguas frias";1
+2018;"sao jose do inhacora";1
+2018;"nossa senhora de caravaggio";1
+2018;"piratini";1
+2018;"ibiraiaras";1
+2018;"nova luzitania";1
+2018;"sao roque de minas";1
+2018;"luziapolis";1
+2018;"varzea alegre";1
+2018;"novo jardim";1
+2018;"andrelandia";1
+2018;"porto calvo";1
+2018;"santa izabel do oeste";1
+2018;"vila bela da santissima trindade";1
+2018;"itapicuru";1
+2018;"bonito de santa fe";1
+2018;"estrela do norte";1
+2018;"maranhaozinho";1
+2018;"sitio novo";1
+2018;"francisco sa";1
+2018;"passira";1
+2018;"cajapio";1
+2018;"assai";1
+2018;"sao joao d'alianca";1
+2018;"travesseiro";1
+2018;"morro do pilar";1
+2018;"agua comprida";1
+2018;"tupandi";1
+2018;"delmiro gouveia";1
+2018;"ibertioga";1
+2018;"dom basilio";1
+2018;"alto parnaiba";1
+2018;"lucena";1
+2018;"caririacu";1
+2018;"iepe";1
+2018;"itaguaru";1
+2018;"biritinga";1
+2018;"sape";1
+2018;"mae d'agua";1
+2018;"ponto dos volantes";1
+2018;"castelandia";1
+2018;"santa cruz do timbo";1
+2018;"vermelho novo";1
+2018;"itape";1
+2018;"oliveira dos brejinhos";1
+2018;"bom jesus do sul";1
+2018;"antonio carlos";1
+2018;"potiragua";1
+2018;"viseu";1
+2018;"itarantim";1
+2018;"pacoti";1
+2018;"felicio dos santos";1
+2018;"protasio alves";1
+2018;"ivate";1
+2018;"cabeceiras";1
+2018;"tabapora";1
+2018;"matrincha";1
+2018;"araguapaz";1
+2018;"conceicao das alagoas";1
+2018;"santo antonio do rio abaixo";1
+2018;"jaguaruna";1
+2018;"taquaritinga do norte";1
+2018;"coqueiro baixo";1
+2018;"sao felipe";1
+2018;"paula candido";1
+2018;"gouveia";1
+2018;"sao geraldo da piedade";1
+2018;"joao camara";1
+2018;"juripiranga";1
+2018;"campos gerais";1
+2018;"barauna";1
+2018;"pinheiro";1
+2018;"salto do lontra";1
+2018;"sao miguel do aleixo";1
+2018;"lindoia do sul";1
+2018;"piripa";1
+2018;"carapebus";1
+2018;"ibitiara";1
+2018;"doutor camargo";1
+2018;"macaparana";1
+2018;"carrancas";1
+2018;"itamogi";1
+2018;"novo sao joaquim";1
+2018;"erere";1
+2018;"angical do piaui";1
+2018;"seberi";1
+2018;"cavalcante";1
+2018;"vila pereira";1
+2018;"bossoroca";1
+2018;"ewbank da camara";1
+2018;"chaveslandia";1
+2018;"iraquara";1
+2018;"xambioa";1
+2018;"ituacu";1
+2018;"buique";1
+2018;"queixada";1
+2018;"jacuizinho";1
+2018;"cachoeira do campo";1
+2018;"frei martinho";1
+2018;"sao bernardo";1
+2018;"timbe do sul";1
+2018;"abaiara";1
+2018;"jucas";1
+2018;"guarai";1
+2018;"motuca";1
+2018;"ritapolis";1
+2018;"barra do jacare";1
+2018;"descoberto";1
+2018;"alfredo marcondes";1
+2018;"capitao andrade";1
+2018;"ibiassuce";1
+2018;"bela vista do maranhao";1
+2018;"dom vicoso";1
+2018;"sao pedro do ivai";1
+2018;"luiziania";1
+2018;"boa ventura";1
+2018;"sapucaia";1
+2018;"maioba";1
+2018;"vicencia";1
+2018;"serra bonita";1
+2018;"chacara";1
+2018;"vitoria do jari";1
+2018;"pains";1
+2018;"fenix";1
+2018;"mariopolis";1
+2018;"jaboticatubas";1
+2018;"fortim";1
+2018;"tabuleiro do norte";1
+2018;"arantina";1
+2018;"conceicao do formoso";1
+2018;"jandaia";1
+2018;"riacho de santo antonio";1
+2018;"areia branca";1
+2018;"coreau";1
+2018;"jequitiba";1
+2018;"paulistania";1
+2018;"moncao";1
+2018;"ribeiro junqueira";1
+2018;"baixa grande";1
+2018;"sao jorge";1
+2018;"jussara";1
+2018;"canapi";1
+2018;"tuiuti";1
+2018;"rubelita";1
+2018;"barra";1
+2018;"sao jose dos cordeiros";1
+2018;"lamarao";1
+2018;"capela de santana";1
+2018;"nova campina";1
+2018;"sanclerlandia";1
+2018;"dobrada";1
+2018;"alto boa vista";1
+2018;"lobato";1
+2018;"cardoso";1
+2018;"vale real";1
+2018;"duere";1
+2018;"pontalinda";1
+2018;"cascalho rico";1
+2018;"vera";1
+2018;"oeiras do para";1
+2018;"bom jesus da serra";1
+2018;"senador modestino goncalves";1
+2018;"mangueirinha";1
+2018;"cedro de sao joao";1
+2018;"braco do rio";1
+2018;"aracitaba";1
+2018;"sete barras";1
+2018;"isaias coelho";1
+2018;"itupiranga";1
+2018;"florinia";1
+2018;"santo antonio do itambe";1
+2018;"reriutaba";1
+2018;"arataca";1
+2018;"sao clemente";1
+2018;"sao francisco do gloria";1
+2018;"campanario";1
+2018;"tiradentes do sul";1
+2018;"aurilandia";1
+2018;"sao joao do manhuacu";1
+2018;"pereiro";1
+2018;"munhoz de melo";1
+2018;"bandeira do sul";1
+2018;"pingo-d'agua";1
+2018;"hidrolina";1
+2018;"ubai";1
+2018;"nossa senhora das gracas";1
+2018;"saloa";1
+2018;"alpestre";1
+2018;"sao martinho";1
+2018;"liberdade";1
+2018;"urucania";1
+2018;"polo petroquimico de triunfo";1
+2018;"varzea";1
+2018;"novo itacolomi";1
+2018;"boca da mata";1
+2018;"andre da rocha";1
+2018;"saudade do iguacu";1
+2018;"ingai";1
+2018;"vigia";1
+2018;"estrela do indaia";1
+2018;"itiquira";1
+2018;"figueira";1
+2018;"sirinhaem";1
+2018;"martinho campos";1
+2018;"santo antonio da alegria";1
+2018;"jaci";1
+2018;"japaratuba";1
+2018;"passa tres";1
+2018;"getulina";1
+2018;"teixeira soares";1
+2018;"mirinzal";1
+2018;"coroados";1
+2018;"corumbatai do sul";1
+2018;"pedro velho";1
+2018;"morro do ferro";1
+2018;"agua clara";1
+2018;"sao jose da laje";1
+2018;"guatapara";1
+2018;"alegria";1
+2018;"capim branco";1
+2018;"ibema";1
+2018;"uniao";1
+2018;"nova erechim";1
+2018;"dom aquino";1
+2018;"alto parana";1
+2018;"sao paulo das missoes";1
+2018;"planaltino";1
+2018;"ielmo marinho";1
+2018;"sao vicente ferrer";1
+2018;"madre de deus de minas";1
+2018;"ponto do marambaia";1
+2018;"vermelho";1
+2018;"itaparica";1
+2018;"bom jesus do querendo";1
+2018;"antonina do norte";1
+2018;"sento se";1
+2018;"maquine";1
+2018;"itarana";1
+2018;"paco do lumiar";1
+2018;"marilac";1
+2018;"claro dos pocoes";1
+2018;"cabeceira grande";1
+2018;"quitandinha";1
+2018;"araguana";1
+2018;"conceicao da ibitipoca";1
+2018;"santo antonio do pinhal";1
+2018;"jaguaruana";1
+2018;"ministro andreazza";1
+2018;"ressaquinha";1
+2018;"contenda";1
+2018;"paudalho";1
+2018;"camapua";1
+2018;"gongogi";1
+2018;"sao geraldo";1
+2018;"joao alfredo";1
+2018;"pedranopolis";1
+2018;"monte verde";1
+2018;"azurita";1
+2018;"crissiumal";1
+2018;"muritiba";1
+2018;"barao de juparana";1
+2018;"aguia branca";1
+2018;"sao jose do rio claro";1
+2018;"lagoao";1
+2018;"hulha negra";1
+2018;"nova alvorada do sul";1
+2018;"diorama";1
+2018;"altaneira";1
+2018;"nova olimpia";1
+2018;"bento de abreu";1
+2018;"ilha dos valadares";1
+2018;"santa barbara do sul";1
+2018;"varzelandia";1
+2018;"angical";1
+2018;"sebastiao leal";1
+2018;"porto firme";1
+2018;"ouro";1
+2018;"serro";1
+2018;"marcelino vieira";1
+2018;"presidente juscelino";1
+2018;"santaluz";1
+2018;"flores de goias";1
+2018;"queiroz";1
+2018;"jacui";1
+2018;"frei lagonegro";1
+2018;"redentora";1
+2018;"sao bernardino";1
+2018;"passos maia";1
+2018;"calcado";1
+2018;"goiabeira";1
+2018;"teofilandia";1
+2018;"moema";1
+2018;"coronel joao pessoa";1
+2018;"timbauba";1
+2018;"sao joao da ponte";1
+2018;"campo grande do piaui";1
+2018;"lagoa da confusao";1
+2018;"pindai";1
+2018;"candoi";1
+2018;"guinda";1
+2018;"capitao";1
+2018;"upanema";1
+2018;"alto sao joao";1
+2018;"sao pedro do iguacu";1
+2018;"luiziana";1
+2018;"poco redondo";1
+2018;"vargem grande";1
+2018;"anaurilandia";1
+2018;"sapucai-mirim";1
+2018;"castro alves";1
+2018;"serra azul";1
+2018;"cezarina";1
+2018;"paineiras";1
+2018;"brejo grande";1
+2018;"simao pereira";1
+2018;"puxinana";1
+2018;"cabo verde";1
+2018;"fortaleza dos valos";1
+2018;"maurilandia";1
+2018;"rainha do mar";1
+2018;"arandu";1
+2018;"santo eduardo";1
+2018;"parisi";1
+2018;"caiana";1
+2018;"gaucha do norte";1

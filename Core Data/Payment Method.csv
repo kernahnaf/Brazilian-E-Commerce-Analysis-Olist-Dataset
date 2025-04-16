@@ -1,0 +1,2277 @@
+order_date,payment_type,order_count,payment_count
+2016-09-04,Credit Card,1,1
+2016-09-05,Credit Card,1,1
+2016-09-13,Credit Card,1,1
+2016-10-02,Credit Card,1,1
+2016-10-03,Boleto,3,3
+2016-10-03,Credit Card,5,5
+2016-10-04,Boleto,11,11
+2016-10-04,Credit Card,50,50
+2016-10-04,Debit Card,1,1
+2016-10-04,Voucher,2,8
+2016-10-05,Boleto,13,13
+2016-10-05,Credit Card,33,34
+2016-10-05,Voucher,2,4
+2016-10-06,Boleto,4,4
+2016-10-06,Credit Card,46,46
+2016-10-06,Debit Card,1,1
+2016-10-07,Boleto,12,12
+2016-10-07,Credit Card,34,34
+2016-10-07,Voucher,1,1
+2016-10-08,Boleto,6,6
+2016-10-08,Credit Card,36,36
+2016-10-08,Voucher,1,1
+2016-10-09,Boleto,2,2
+2016-10-09,Credit Card,23,23
+2016-10-09,Voucher,2,3
+2016-10-10,Boleto,12,12
+2016-10-10,Credit Card,25,25
+2016-10-10,Voucher,2,5
+2016-10-22,Voucher,1,1
+2016-12-23,Credit Card,1,1
+2017-01-05,Boleto,29,29
+2017-01-05,Credit Card,3,3
+2017-01-06,Boleto,1,1
+2017-01-06,Credit Card,3,3
+2017-01-06,Voucher,1,4
+2017-01-07,Credit Card,4,4
+2017-01-08,Boleto,1,1
+2017-01-08,Credit Card,5,5
+2017-01-09,Boleto,2,2
+2017-01-09,Credit Card,3,3
+2017-01-10,Boleto,2,2
+2017-01-10,Credit Card,4,4
+2017-01-11,Boleto,2,2
+2017-01-11,Credit Card,10,10
+2017-01-12,Credit Card,11,11
+2017-01-12,Debit Card,1,1
+2017-01-12,Voucher,1,1
+2017-01-13,Boleto,1,1
+2017-01-13,Credit Card,11,11
+2017-01-14,Credit Card,18,18
+2017-01-15,Boleto,5,5
+2017-01-15,Credit Card,9,9
+2017-01-16,Boleto,2,2
+2017-01-16,Credit Card,17,17
+2017-01-17,Boleto,8,8
+2017-01-17,Credit Card,23,23
+2017-01-17,Debit Card,1,1
+2017-01-17,Voucher,2,14
+2017-01-18,Boleto,7,7
+2017-01-18,Credit Card,23,23
+2017-01-18,Debit Card,1,1
+2017-01-18,Voucher,4,4
+2017-01-19,Boleto,7,7
+2017-01-19,Credit Card,19,19
+2017-01-19,Debit Card,3,3
+2017-01-20,Boleto,6,6
+2017-01-20,Credit Card,21,21
+2017-01-20,Voucher,3,3
+2017-01-21,Boleto,4,4
+2017-01-21,Credit Card,20,20
+2017-01-22,Boleto,6,6
+2017-01-22,Credit Card,25,25
+2017-01-23,Boleto,8,8
+2017-01-23,Credit Card,31,31
+2017-01-23,Voucher,3,3
+2017-01-24,Boleto,8,8
+2017-01-24,Credit Card,32,32
+2017-01-24,Voucher,1,1
+2017-01-25,Boleto,13,13
+2017-01-25,Credit Card,48,48
+2017-01-25,Debit Card,1,1
+2017-01-25,Voucher,4,4
+2017-01-26,Boleto,15,15
+2017-01-26,Credit Card,69,70
+2017-01-26,Debit Card,1,1
+2017-01-26,Voucher,3,4
+2017-01-27,Boleto,21,21
+2017-01-27,Credit Card,40,40
+2017-01-27,Voucher,3,3
+2017-01-28,Boleto,7,7
+2017-01-28,Credit Card,20,20
+2017-01-28,Voucher,3,13
+2017-01-29,Boleto,5,5
+2017-01-29,Credit Card,29,29
+2017-01-29,Debit Card,1,1
+2017-01-30,Boleto,13,13
+2017-01-30,Credit Card,39,39
+2017-01-30,Voucher,2,3
+2017-01-31,Boleto,24,24
+2017-01-31,Credit Card,45,45
+2017-01-31,Voucher,3,4
+2017-02-01,Boleto,17,17
+2017-02-01,Credit Card,56,56
+2017-02-01,Voucher,4,4
+2017-02-02,Boleto,20,20
+2017-02-02,Credit Card,48,48
+2017-02-02,Debit Card,1,1
+2017-02-03,Boleto,16,16
+2017-02-03,Credit Card,43,44
+2017-02-03,Voucher,2,3
+2017-02-04,Boleto,12,12
+2017-02-04,Credit Card,54,55
+2017-02-04,Voucher,1,4
+2017-02-05,Boleto,16,16
+2017-02-05,Credit Card,59,59
+2017-02-05,Voucher,1,1
+2017-02-06,Boleto,23,23
+2017-02-06,Credit Card,61,61
+2017-02-06,Debit Card,1,1
+2017-02-06,Voucher,1,1
+2017-02-07,Boleto,30,30
+2017-02-07,Credit Card,78,78
+2017-02-07,Debit Card,1,1
+2017-02-07,Voucher,6,15
+2017-02-08,Boleto,32,32
+2017-02-08,Credit Card,60,60
+2017-02-08,Debit Card,2,2
+2017-02-08,Voucher,5,6
+2017-02-09,Boleto,12,12
+2017-02-09,Credit Card,63,65
+2017-02-09,Debit Card,1,1
+2017-02-09,Voucher,4,10
+2017-02-10,Boleto,8,8
+2017-02-10,Credit Card,58,58
+2017-02-10,Voucher,2,2
+2017-02-11,Boleto,11,11
+2017-02-11,Credit Card,36,36
+2017-02-11,Voucher,2,2
+2017-02-12,Boleto,16,16
+2017-02-12,Credit Card,47,47
+2017-02-12,Debit Card,1,1
+2017-02-12,Voucher,3,4
+2017-02-13,Boleto,20,20
+2017-02-13,Credit Card,57,57
+2017-02-13,Debit Card,1,1
+2017-02-13,Voucher,2,2
+2017-02-14,Boleto,13,13
+2017-02-14,Credit Card,63,64
+2017-02-14,Voucher,2,3
+2017-02-15,Boleto,13,13
+2017-02-15,Credit Card,48,48
+2017-02-15,Voucher,3,4
+2017-02-16,Boleto,8,8
+2017-02-16,Credit Card,46,47
+2017-02-16,Voucher,1,2
+2017-02-17,Boleto,8,8
+2017-02-17,Credit Card,37,37
+2017-02-17,Voucher,2,4
+2017-02-18,Boleto,10,10
+2017-02-18,Credit Card,43,44
+2017-02-18,Debit Card,1,1
+2017-02-18,Voucher,2,2
+2017-02-19,Boleto,10,10
+2017-02-19,Credit Card,29,29
+2017-02-19,Voucher,4,7
+2017-02-20,Boleto,22,22
+2017-02-20,Credit Card,37,37
+2017-02-20,Voucher,4,5
+2017-02-21,Boleto,11,11
+2017-02-21,Credit Card,28,28
+2017-02-21,Debit Card,1,1
+2017-02-21,Voucher,2,3
+2017-02-22,Boleto,13,13
+2017-02-22,Credit Card,49,49
+2017-02-22,Voucher,3,6
+2017-02-23,Boleto,15,15
+2017-02-23,Credit Card,43,43
+2017-02-23,Debit Card,1,1
+2017-02-23,Voucher,1,2
+2017-02-24,Boleto,13,13
+2017-02-24,Credit Card,50,51
+2017-02-24,Voucher,6,16
+2017-02-25,Boleto,10,10
+2017-02-25,Credit Card,31,31
+2017-02-25,Debit Card,1,1
+2017-02-25,Voucher,4,5
+2017-02-26,Boleto,7,7
+2017-02-26,Credit Card,39,40
+2017-02-27,Boleto,3,3
+2017-02-27,Credit Card,39,39
+2017-02-27,Voucher,2,6
+2017-02-28,Boleto,9,9
+2017-02-28,Credit Card,45,45
+2017-02-28,Debit Card,1,1
+2017-03-01,Boleto,35,35
+2017-03-01,Credit Card,62,62
+2017-03-01,Voucher,5,8
+2017-03-02,Boleto,13,13
+2017-03-02,Credit Card,56,56
+2017-03-02,Debit Card,1,1
+2017-03-02,Voucher,4,4
+2017-03-03,Boleto,15,15
+2017-03-03,Credit Card,59,59
+2017-03-03,Voucher,1,1
+2017-03-04,Boleto,16,16
+2017-03-04,Credit Card,61,61
+2017-03-04,Debit Card,1,1
+2017-03-04,Voucher,3,9
+2017-03-05,Boleto,7,7
+2017-03-05,Credit Card,65,65
+2017-03-05,Voucher,5,11
+2017-03-06,Boleto,24,24
+2017-03-06,Credit Card,80,80
+2017-03-06,Debit Card,1,1
+2017-03-06,Voucher,4,4
+2017-03-07,Boleto,16,16
+2017-03-07,Credit Card,64,64
+2017-03-07,Debit Card,1,1
+2017-03-07,Voucher,2,4
+2017-03-08,Boleto,20,20
+2017-03-08,Credit Card,55,56
+2017-03-08,Debit Card,2,2
+2017-03-08,Voucher,4,4
+2017-03-09,Boleto,25,25
+2017-03-09,Credit Card,67,67
+2017-03-09,Debit Card,1,1
+2017-03-09,Voucher,3,13
+2017-03-10,Boleto,22,22
+2017-03-10,Credit Card,63,63
+2017-03-10,Voucher,4,9
+2017-03-11,Boleto,11,11
+2017-03-11,Credit Card,58,59
+2017-03-11,Voucher,6,15
+2017-03-12,Boleto,13,13
+2017-03-12,Credit Card,50,50
+2017-03-12,Voucher,3,3
+2017-03-13,Boleto,25,25
+2017-03-13,Credit Card,81,82
+2017-03-13,Debit Card,3,3
+2017-03-13,Voucher,7,8
+2017-03-14,Boleto,27,27
+2017-03-14,Credit Card,66,67
+2017-03-14,Voucher,8,11
+2017-03-15,Boleto,21,21
+2017-03-15,Credit Card,81,81
+2017-03-15,Debit Card,2,2
+2017-03-15,Voucher,8,21
+2017-03-16,Boleto,23,23
+2017-03-16,Credit Card,79,79
+2017-03-16,Debit Card,1,1
+2017-03-17,Boleto,14,14
+2017-03-17,Credit Card,47,48
+2017-03-17,Debit Card,3,3
+2017-03-17,Voucher,3,3
+2017-03-18,Boleto,20,20
+2017-03-18,Credit Card,50,50
+2017-03-18,Voucher,3,8
+2017-03-19,Boleto,7,7
+2017-03-19,Credit Card,49,49
+2017-03-19,Voucher,1,1
+2017-03-20,Boleto,30,30
+2017-03-20,Credit Card,89,89
+2017-03-20,Voucher,1,1
+2017-03-21,Boleto,26,26
+2017-03-21,Credit Card,70,70
+2017-03-21,Voucher,5,6
+2017-03-22,Boleto,19,19
+2017-03-22,Credit Card,82,82
+2017-03-22,Debit Card,3,3
+2017-03-22,Voucher,4,7
+2017-03-23,Boleto,26,26
+2017-03-23,Credit Card,80,80
+2017-03-23,Debit Card,1,1
+2017-03-23,Voucher,10,12
+2017-03-24,Boleto,22,22
+2017-03-24,Credit Card,54,54
+2017-03-24,Debit Card,1,1
+2017-03-24,Voucher,2,3
+2017-03-25,Boleto,11,11
+2017-03-25,Credit Card,62,63
+2017-03-25,Debit Card,1,1
+2017-03-25,Voucher,5,5
+2017-03-26,Boleto,12,12
+2017-03-26,Credit Card,47,47
+2017-03-26,Debit Card,2,2
+2017-03-26,Voucher,6,9
+2017-03-27,Boleto,23,23
+2017-03-27,Credit Card,84,85
+2017-03-27,Debit Card,4,4
+2017-03-27,Voucher,3,3
+2017-03-28,Boleto,26,26
+2017-03-28,Credit Card,76,77
+2017-03-28,Voucher,5,5
+2017-03-29,Boleto,16,16
+2017-03-29,Credit Card,56,56
+2017-03-29,Debit Card,1,1
+2017-03-29,Voucher,1,1
+2017-03-30,Boleto,13,13
+2017-03-30,Credit Card,60,60
+2017-03-30,Voucher,5,9
+2017-03-31,Boleto,12,12
+2017-03-31,Credit Card,55,55
+2017-03-31,Debit Card,2,2
+2017-03-31,Voucher,2,2
+2017-04-01,Boleto,17,17
+2017-04-01,Credit Card,51,51
+2017-04-01,Voucher,2,2
+2017-04-02,Boleto,10,10
+2017-04-02,Credit Card,55,55
+2017-04-02,Voucher,2,2
+2017-04-03,Boleto,20,20
+2017-04-03,Credit Card,50,51
+2017-04-03,Debit Card,1,1
+2017-04-03,Voucher,2,9
+2017-04-04,Boleto,23,23
+2017-04-04,Credit Card,73,73
+2017-04-04,Voucher,5,8
+2017-04-05,Boleto,18,18
+2017-04-05,Credit Card,77,77
+2017-04-05,Voucher,5,7
+2017-04-06,Boleto,22,22
+2017-04-06,Credit Card,71,72
+2017-04-06,Debit Card,1,1
+2017-04-06,Voucher,4,5
+2017-04-07,Boleto,18,18
+2017-04-07,Credit Card,66,66
+2017-04-07,Voucher,5,6
+2017-04-08,Boleto,10,10
+2017-04-08,Credit Card,56,56
+2017-04-08,Debit Card,1,1
+2017-04-08,Voucher,9,11
+2017-04-09,Boleto,10,10
+2017-04-09,Credit Card,59,59
+2017-04-09,Debit Card,2,2
+2017-04-09,Voucher,2,2
+2017-04-10,Boleto,18,18
+2017-04-10,Credit Card,67,67
+2017-04-10,Debit Card,1,1
+2017-04-10,Voucher,1,1
+2017-04-11,Boleto,15,15
+2017-04-11,Credit Card,61,61
+2017-04-11,Debit Card,1,1
+2017-04-11,Voucher,3,12
+2017-04-12,Boleto,16,16
+2017-04-12,Credit Card,42,42
+2017-04-12,Debit Card,1,1
+2017-04-12,Voucher,5,5
+2017-04-13,Boleto,5,5
+2017-04-13,Credit Card,53,53
+2017-04-13,Voucher,3,3
+2017-04-14,Boleto,6,6
+2017-04-14,Credit Card,46,46
+2017-04-14,Debit Card,2,2
+2017-04-15,Boleto,7,7
+2017-04-15,Credit Card,43,44
+2017-04-15,Debit Card,1,1
+2017-04-15,Voucher,2,2
+2017-04-16,Boleto,8,8
+2017-04-16,Credit Card,38,38
+2017-04-16,Debit Card,1,1
+2017-04-16,Voucher,3,3
+2017-04-17,Boleto,13,13
+2017-04-17,Credit Card,49,49
+2017-04-17,Debit Card,1,1
+2017-04-17,Voucher,4,5
+2017-04-18,Boleto,13,13
+2017-04-18,Credit Card,55,57
+2017-04-18,Debit Card,3,3
+2017-04-18,Voucher,2,7
+2017-04-19,Boleto,30,30
+2017-04-19,Credit Card,64,64
+2017-04-19,Debit Card,1,1
+2017-04-19,Voucher,5,6
+2017-04-20,Boleto,23,23
+2017-04-20,Credit Card,70,73
+2017-04-20,Voucher,8,39
+2017-04-21,Boleto,12,12
+2017-04-21,Credit Card,50,50
+2017-04-21,Debit Card,2,2
+2017-04-21,Voucher,9,17
+2017-04-22,Boleto,16,16
+2017-04-22,Credit Card,66,68
+2017-04-22,Debit Card,1,1
+2017-04-22,Voucher,3,5
+2017-04-23,Boleto,28,28
+2017-04-23,Credit Card,59,59
+2017-04-23,Voucher,3,3
+2017-04-24,Boleto,27,27
+2017-04-24,Credit Card,85,85
+2017-04-24,Debit Card,1,1
+2017-04-24,Voucher,6,14
+2017-04-25,Boleto,30,30
+2017-04-25,Credit Card,76,76
+2017-04-25,Debit Card,3,3
+2017-04-25,Voucher,2,4
+2017-04-26,Boleto,24,24
+2017-04-26,Credit Card,98,98
+2017-04-26,Voucher,7,8
+2017-04-27,Boleto,18,18
+2017-04-27,Credit Card,60,60
+2017-04-27,Debit Card,1,1
+2017-04-27,Voucher,3,5
+2017-04-28,Boleto,19,19
+2017-04-28,Credit Card,75,76
+2017-04-28,Debit Card,2,2
+2017-04-28,Voucher,5,6
+2017-04-29,Boleto,9,9
+2017-04-29,Credit Card,64,64
+2017-04-29,Voucher,3,3
+2017-04-30,Boleto,11,11
+2017-04-30,Credit Card,56,56
+2017-04-30,Voucher,2,2
+2017-05-01,Boleto,20,20
+2017-05-01,Credit Card,95,95
+2017-05-01,Debit Card,1,1
+2017-05-01,Voucher,2,12
+2017-05-02,Boleto,30,30
+2017-05-02,Credit Card,98,101
+2017-05-02,Voucher,5,5
+2017-05-03,Boleto,24,24
+2017-05-03,Credit Card,76,76
+2017-05-03,Debit Card,1,1
+2017-05-03,Voucher,7,9
+2017-05-04,Boleto,28,28
+2017-05-04,Credit Card,78,78
+2017-05-04,Debit Card,2,2
+2017-05-04,Voucher,1,1
+2017-05-05,Boleto,26,26
+2017-05-05,Credit Card,80,81
+2017-05-05,Voucher,10,14
+2017-05-06,Boleto,12,12
+2017-05-06,Credit Card,95,98
+2017-05-06,Debit Card,1,1
+2017-05-06,Voucher,2,2
+2017-05-07,Boleto,18,18
+2017-05-07,Credit Card,89,89
+2017-05-07,Debit Card,1,1
+2017-05-07,Voucher,6,7
+2017-05-08,Boleto,20,20
+2017-05-08,Credit Card,101,102
+2017-05-08,Voucher,6,6
+2017-05-09,Boleto,38,38
+2017-05-09,Credit Card,86,86
+2017-05-09,Debit Card,4,4
+2017-05-09,Voucher,5,7
+2017-05-10,Boleto,32,32
+2017-05-10,Credit Card,83,84
+2017-05-10,Debit Card,1,1
+2017-05-10,Voucher,3,3
+2017-05-11,Boleto,23,23
+2017-05-11,Credit Card,100,100
+2017-05-11,Voucher,8,11
+2017-05-12,Boleto,29,29
+2017-05-12,Credit Card,84,85
+2017-05-12,Debit Card,2,2
+2017-05-12,Voucher,5,22
+2017-05-13,Boleto,13,13
+2017-05-13,Credit Card,55,55
+2017-05-13,Debit Card,3,3
+2017-05-13,Voucher,2,7
+2017-05-14,Boleto,17,17
+2017-05-14,Credit Card,91,91
+2017-05-14,Debit Card,1,1
+2017-05-14,Voucher,6,7
+2017-05-15,Boleto,51,51
+2017-05-15,Credit Card,101,101
+2017-05-15,Debit Card,1,1
+2017-05-15,Voucher,13,25
+2017-05-16,Boleto,28,28
+2017-05-16,Credit Card,122,123
+2017-05-16,Voucher,8,14
+2017-05-17,Boleto,32,32
+2017-05-17,Credit Card,107,108
+2017-05-17,Debit Card,1,1
+2017-05-17,Voucher,4,17
+2017-05-18,Boleto,25,25
+2017-05-18,Credit Card,96,96
+2017-05-18,Debit Card,1,1
+2017-05-18,Voucher,5,6
+2017-05-19,Boleto,28,28
+2017-05-19,Credit Card,114,115
+2017-05-19,Voucher,10,13
+2017-05-20,Boleto,14,14
+2017-05-20,Credit Card,58,58
+2017-05-20,Voucher,3,4
+2017-05-21,Boleto,30,30
+2017-05-21,Credit Card,113,113
+2017-05-21,Debit Card,1,1
+2017-05-21,Voucher,5,7
+2017-05-22,Boleto,26,26
+2017-05-22,Credit Card,114,114
+2017-05-22,Debit Card,4,4
+2017-05-22,Voucher,6,12
+2017-05-23,Boleto,21,21
+2017-05-23,Credit Card,103,104
+2017-05-23,Voucher,5,5
+2017-05-24,Boleto,37,37
+2017-05-24,Credit Card,97,99
+2017-05-24,Debit Card,1,1
+2017-05-24,Voucher,10,10
+2017-05-25,Boleto,25,25
+2017-05-25,Credit Card,81,82
+2017-05-25,Voucher,7,11
+2017-05-26,Boleto,12,12
+2017-05-26,Credit Card,67,67
+2017-05-26,Debit Card,1,1
+2017-05-26,Voucher,2,3
+2017-05-27,Boleto,14,14
+2017-05-27,Credit Card,67,67
+2017-05-27,Voucher,3,5
+2017-05-28,Boleto,18,18
+2017-05-28,Credit Card,78,79
+2017-05-28,Debit Card,1,1
+2017-05-28,Voucher,5,5
+2017-05-29,Boleto,31,31
+2017-05-29,Credit Card,124,125
+2017-05-29,Debit Card,2,2
+2017-05-29,Voucher,7,22
+2017-05-30,Boleto,25,25
+2017-05-30,Credit Card,79,80
+2017-05-30,Voucher,5,11
+2017-05-31,Boleto,25,25
+2017-05-31,Credit Card,101,101
+2017-05-31,Voucher,5,6
+2017-06-01,Boleto,32,32
+2017-06-01,Credit Card,90,90
+2017-06-01,Voucher,8,14
+2017-06-02,Boleto,23,23
+2017-06-02,Credit Card,102,103
+2017-06-02,Voucher,7,12
+2017-06-03,Boleto,13,13
+2017-06-03,Credit Card,71,71
+2017-06-03,Debit Card,2,2
+2017-06-03,Voucher,6,7
+2017-06-04,Boleto,19,19
+2017-06-04,Credit Card,78,80
+2017-06-04,Debit Card,2,2
+2017-06-04,Voucher,6,6
+2017-06-05,Boleto,31,31
+2017-06-05,Credit Card,111,112
+2017-06-05,Debit Card,1,1
+2017-06-05,Voucher,10,15
+2017-06-06,Boleto,31,31
+2017-06-06,Credit Card,99,100
+2017-06-06,Debit Card,2,2
+2017-06-06,Voucher,3,3
+2017-06-07,Boleto,23,23
+2017-06-07,Credit Card,105,105
+2017-06-07,Debit Card,1,1
+2017-06-07,Voucher,8,37
+2017-06-08,Boleto,35,35
+2017-06-08,Credit Card,99,99
+2017-06-08,Debit Card,1,1
+2017-06-08,Voucher,8,13
+2017-06-09,Boleto,25,25
+2017-06-09,Credit Card,78,78
+2017-06-09,Debit Card,3,3
+2017-06-09,Voucher,3,4
+2017-06-10,Boleto,18,18
+2017-06-10,Credit Card,58,58
+2017-06-10,Voucher,4,4
+2017-06-11,Boleto,23,23
+2017-06-11,Credit Card,89,90
+2017-06-11,Debit Card,1,1
+2017-06-11,Voucher,3,15
+2017-06-12,Boleto,33,33
+2017-06-12,Credit Card,84,85
+2017-06-12,Debit Card,3,3
+2017-06-12,Voucher,9,10
+2017-06-13,Boleto,24,24
+2017-06-13,Credit Card,100,101
+2017-06-13,Debit Card,2,2
+2017-06-13,Voucher,6,7
+2017-06-14,Boleto,35,35
+2017-06-14,Credit Card,93,93
+2017-06-14,Debit Card,2,2
+2017-06-14,Voucher,1,2
+2017-06-15,Boleto,20,20
+2017-06-15,Credit Card,86,86
+2017-06-15,Voucher,4,6
+2017-06-16,Boleto,18,18
+2017-06-16,Credit Card,72,72
+2017-06-16,Debit Card,1,1
+2017-06-16,Voucher,7,14
+2017-06-17,Boleto,10,10
+2017-06-17,Credit Card,64,64
+2017-06-17,Voucher,4,12
+2017-06-18,Boleto,15,15
+2017-06-18,Credit Card,75,75
+2017-06-18,Voucher,2,2
+2017-06-19,Boleto,41,41
+2017-06-19,Credit Card,111,113
+2017-06-19,Voucher,5,9
+2017-06-20,Boleto,21,21
+2017-06-20,Credit Card,72,72
+2017-06-20,Voucher,4,4
+2017-06-21,Boleto,9,9
+2017-06-21,Credit Card,26,26
+2017-06-21,Voucher,1,1
+2017-06-22,Boleto,15,15
+2017-06-22,Credit Card,72,72
+2017-06-22,Voucher,1,1
+2017-06-23,Boleto,31,31
+2017-06-23,Credit Card,75,75
+2017-06-23,Debit Card,1,1
+2017-06-23,Voucher,1,1
+2017-06-24,Boleto,20,20
+2017-06-24,Credit Card,55,55
+2017-06-24,Voucher,2,2
+2017-06-25,Boleto,17,17
+2017-06-25,Credit Card,85,86
+2017-06-25,Voucher,4,6
+2017-06-26,Boleto,14,14
+2017-06-26,Credit Card,57,57
+2017-06-26,Voucher,3,3
+2017-06-27,Boleto,42,42
+2017-06-27,Credit Card,94,94
+2017-06-27,Debit Card,1,1
+2017-06-27,Voucher,7,9
+2017-06-28,Boleto,25,25
+2017-06-28,Credit Card,93,93
+2017-06-28,Debit Card,1,1
+2017-06-28,Voucher,3,5
+2017-06-29,Boleto,24,24
+2017-06-29,Credit Card,85,85
+2017-06-29,Debit Card,2,2
+2017-06-29,Voucher,8,10
+2017-06-30,Boleto,20,20
+2017-06-30,Credit Card,73,73
+2017-06-30,Debit Card,1,1
+2017-06-30,Voucher,4,5
+2017-07-01,Boleto,12,12
+2017-07-01,Credit Card,67,67
+2017-07-01,Voucher,4,5
+2017-07-02,Boleto,22,22
+2017-07-02,Credit Card,80,80
+2017-07-02,Debit Card,1,1
+2017-07-02,Voucher,8,18
+2017-07-03,Boleto,23,23
+2017-07-03,Credit Card,91,91
+2017-07-03,Voucher,8,8
+2017-07-04,Boleto,32,32
+2017-07-04,Credit Card,87,87
+2017-07-04,Voucher,7,12
+2017-07-05,Boleto,31,31
+2017-07-05,Credit Card,112,112
+2017-07-05,Voucher,6,20
+2017-07-06,Boleto,37,37
+2017-07-06,Credit Card,113,115
+2017-07-06,Debit Card,1,1
+2017-07-06,Voucher,11,16
+2017-07-07,Boleto,26,26
+2017-07-07,Credit Card,91,91
+2017-07-07,Debit Card,3,3
+2017-07-07,Voucher,4,17
+2017-07-08,Boleto,17,17
+2017-07-08,Credit Card,66,66
+2017-07-08,Voucher,2,6
+2017-07-09,Boleto,16,16
+2017-07-09,Credit Card,74,74
+2017-07-09,Debit Card,1,1
+2017-07-09,Voucher,5,7
+2017-07-10,Boleto,33,33
+2017-07-10,Credit Card,104,104
+2017-07-10,Debit Card,3,3
+2017-07-10,Voucher,5,6
+2017-07-11,Boleto,36,36
+2017-07-11,Credit Card,126,127
+2017-07-11,Debit Card,1,1
+2017-07-11,Voucher,5,12
+2017-07-12,Boleto,39,39
+2017-07-12,Credit Card,111,111
+2017-07-12,Debit Card,1,1
+2017-07-12,Voucher,6,9
+2017-07-13,Boleto,43,43
+2017-07-13,Credit Card,91,91
+2017-07-13,Voucher,11,33
+2017-07-14,Boleto,33,33
+2017-07-14,Credit Card,113,113
+2017-07-14,Debit Card,2,2
+2017-07-14,Voucher,2,4
+2017-07-15,Boleto,19,19
+2017-07-15,Credit Card,77,77
+2017-07-15,Voucher,4,4
+2017-07-16,Boleto,16,16
+2017-07-16,Credit Card,97,98
+2017-07-16,Voucher,2,2
+2017-07-17,Boleto,27,27
+2017-07-17,Credit Card,137,137
+2017-07-17,Voucher,8,8
+2017-07-18,Boleto,38,38
+2017-07-18,Credit Card,148,148
+2017-07-18,Debit Card,1,1
+2017-07-18,Voucher,15,20
+2017-07-19,Boleto,39,39
+2017-07-19,Credit Card,107,111
+2017-07-19,Debit Card,2,2
+2017-07-19,Voucher,8,11
+2017-07-20,Boleto,32,32
+2017-07-20,Credit Card,104,105
+2017-07-20,Debit Card,1,1
+2017-07-20,Voucher,10,26
+2017-07-21,Boleto,29,29
+2017-07-21,Credit Card,82,82
+2017-07-21,Voucher,8,11
+2017-07-22,Boleto,16,16
+2017-07-22,Credit Card,70,70
+2017-07-22,Voucher,3,4
+2017-07-23,Boleto,25,25
+2017-07-23,Credit Card,76,76
+2017-07-23,Voucher,6,11
+2017-07-24,Boleto,35,35
+2017-07-24,Credit Card,123,123
+2017-07-24,Debit Card,2,2
+2017-07-24,Voucher,5,9
+2017-07-25,Boleto,33,33
+2017-07-25,Credit Card,113,114
+2017-07-25,Debit Card,2,2
+2017-07-25,Voucher,12,12
+2017-07-26,Boleto,27,27
+2017-07-26,Credit Card,93,95
+2017-07-26,Debit Card,1,1
+2017-07-26,Voucher,9,9
+2017-07-27,Boleto,22,22
+2017-07-27,Credit Card,100,101
+2017-07-27,Voucher,2,13
+2017-07-28,Boleto,32,32
+2017-07-28,Credit Card,100,100
+2017-07-28,Voucher,1,1
+2017-07-29,Boleto,13,13
+2017-07-29,Credit Card,101,101
+2017-07-29,Voucher,11,21
+2017-07-30,Boleto,13,13
+2017-07-30,Credit Card,103,103
+2017-07-30,Voucher,6,17
+2017-07-31,Boleto,29,29
+2017-07-31,Credit Card,115,116
+2017-07-31,Voucher,11,12
+2017-08-01,Boleto,37,37
+2017-08-01,Credit Card,128,129
+2017-08-01,Voucher,1,1
+2017-08-02,Boleto,34,34
+2017-08-02,Credit Card,116,117
+2017-08-02,Voucher,11,14
+2017-08-03,Boleto,30,30
+2017-08-03,Credit Card,117,118
+2017-08-03,Voucher,4,4
+2017-08-04,Boleto,36,36
+2017-08-04,Credit Card,102,102
+2017-08-04,Debit Card,1,1
+2017-08-04,Voucher,7,8
+2017-08-05,Boleto,15,15
+2017-08-05,Credit Card,96,96
+2017-08-05,Voucher,9,11
+2017-08-06,Boleto,24,24
+2017-08-06,Credit Card,83,83
+2017-08-06,Debit Card,1,1
+2017-08-06,Voucher,3,3
+2017-08-07,Boleto,38,38
+2017-08-07,Credit Card,113,113
+2017-08-07,Debit Card,2,2
+2017-08-07,Voucher,9,16
+2017-08-08,Boleto,34,34
+2017-08-08,Credit Card,109,109
+2017-08-08,Voucher,6,31
+2017-08-09,Boleto,31,31
+2017-08-09,Credit Card,107,107
+2017-08-09,Debit Card,2,2
+2017-08-09,Voucher,9,11
+2017-08-10,Boleto,40,40
+2017-08-10,Credit Card,114,114
+2017-08-10,Debit Card,1,1
+2017-08-10,Voucher,5,7
+2017-08-11,Boleto,27,27
+2017-08-11,Credit Card,111,112
+2017-08-11,Voucher,9,11
+2017-08-12,Boleto,17,17
+2017-08-12,Credit Card,79,79
+2017-08-12,Voucher,4,6
+2017-08-13,Boleto,16,16
+2017-08-13,Credit Card,78,78
+2017-08-13,Debit Card,1,1
+2017-08-13,Voucher,3,3
+2017-08-14,Boleto,31,31
+2017-08-14,Credit Card,121,122
+2017-08-14,Debit Card,4,4
+2017-08-14,Voucher,7,8
+2017-08-15,Boleto,49,49
+2017-08-15,Credit Card,140,141
+2017-08-15,Debit Card,1,1
+2017-08-15,Voucher,10,13
+2017-08-16,Boleto,34,34
+2017-08-16,Credit Card,132,132
+2017-08-16,Debit Card,5,5
+2017-08-16,Voucher,6,8
+2017-08-17,Boleto,40,40
+2017-08-17,Credit Card,112,112
+2017-08-17,Debit Card,2,2
+2017-08-17,Voucher,6,6
+2017-08-18,Boleto,26,26
+2017-08-18,Credit Card,113,113
+2017-08-18,Debit Card,2,2
+2017-08-18,Voucher,14,14
+2017-08-19,Boleto,21,21
+2017-08-19,Credit Card,83,83
+2017-08-19,Voucher,6,7
+2017-08-20,Boleto,20,20
+2017-08-20,Credit Card,82,83
+2017-08-20,Debit Card,1,1
+2017-08-20,Voucher,4,4
+2017-08-21,Boleto,31,31
+2017-08-21,Credit Card,142,144
+2017-08-21,Debit Card,1,1
+2017-08-21,Voucher,9,10
+2017-08-22,Boleto,28,28
+2017-08-22,Credit Card,105,105
+2017-08-22,Debit Card,2,2
+2017-08-22,Voucher,7,9
+2017-08-23,Boleto,31,31
+2017-08-23,Credit Card,80,80
+2017-08-23,Debit Card,1,1
+2017-08-23,Voucher,4,6
+2017-08-24,Boleto,33,33
+2017-08-24,Credit Card,95,95
+2017-08-24,Voucher,3,4
+2017-08-25,Boleto,33,33
+2017-08-25,Credit Card,88,88
+2017-08-25,Voucher,4,6
+2017-08-26,Boleto,19,19
+2017-08-26,Credit Card,68,68
+2017-08-26,Debit Card,2,2
+2017-08-26,Voucher,6,9
+2017-08-27,Boleto,25,25
+2017-08-27,Credit Card,91,91
+2017-08-27,Debit Card,1,1
+2017-08-27,Voucher,7,7
+2017-08-28,Boleto,29,29
+2017-08-28,Credit Card,124,126
+2017-08-28,Voucher,4,12
+2017-08-29,Boleto,32,32
+2017-08-29,Credit Card,101,101
+2017-08-29,Debit Card,1,1
+2017-08-29,Voucher,5,6
+2017-08-30,Boleto,39,39
+2017-08-30,Credit Card,135,135
+2017-08-30,Debit Card,1,1
+2017-08-30,Voucher,9,27
+2017-08-31,Boleto,38,38
+2017-08-31,Credit Card,107,108
+2017-08-31,Debit Card,2,2
+2017-08-31,Voucher,7,12
+2017-09-01,Boleto,24,24
+2017-09-01,Credit Card,127,128
+2017-09-01,Debit Card,4,4
+2017-09-01,Voucher,12,14
+2017-09-02,Boleto,23,23
+2017-09-02,Credit Card,78,79
+2017-09-02,Debit Card,1,1
+2017-09-02,Voucher,5,9
+2017-09-03,Boleto,21,21
+2017-09-03,Credit Card,102,102
+2017-09-03,Debit Card,1,1
+2017-09-03,Voucher,3,3
+2017-09-04,Boleto,38,38
+2017-09-04,Credit Card,108,108
+2017-09-04,Debit Card,1,1
+2017-09-04,Voucher,7,13
+2017-09-05,Boleto,43,43
+2017-09-05,Credit Card,110,111
+2017-09-05,Debit Card,2,2
+2017-09-05,Voucher,8,22
+2017-09-06,Boleto,31,31
+2017-09-06,Credit Card,105,105
+2017-09-06,Debit Card,2,2
+2017-09-06,Voucher,7,14
+2017-09-07,Boleto,17,17
+2017-09-07,Credit Card,78,78
+2017-09-07,Debit Card,1,1
+2017-09-07,Voucher,6,9
+2017-09-08,Boleto,31,31
+2017-09-08,Credit Card,80,80
+2017-09-08,Debit Card,2,2
+2017-09-08,Voucher,3,3
+2017-09-09,Boleto,22,22
+2017-09-09,Credit Card,83,83
+2017-09-09,Voucher,1,2
+2017-09-10,Boleto,24,24
+2017-09-10,Credit Card,112,112
+2017-09-10,Voucher,5,13
+2017-09-11,Boleto,29,29
+2017-09-11,Credit Card,141,141
+2017-09-11,Debit Card,4,4
+2017-09-11,Voucher,8,16
+2017-09-12,Boleto,44,44
+2017-09-12,Credit Card,159,159
+2017-09-12,Debit Card,1,1
+2017-09-12,Voucher,8,9
+2017-09-13,Boleto,41,41
+2017-09-13,Credit Card,160,162
+2017-09-13,Debit Card,3,3
+2017-09-13,Voucher,7,9
+2017-09-14,Boleto,23,23
+2017-09-14,Credit Card,135,135
+2017-09-14,Debit Card,3,3
+2017-09-14,Voucher,11,11
+2017-09-15,Boleto,31,31
+2017-09-15,Credit Card,114,114
+2017-09-15,Debit Card,2,2
+2017-09-15,Voucher,8,10
+2017-09-16,Boleto,25,25
+2017-09-16,Credit Card,103,103
+2017-09-16,Voucher,6,6
+2017-09-17,Boleto,25,25
+2017-09-17,Credit Card,100,101
+2017-09-17,Debit Card,1,1
+2017-09-17,Voucher,4,4
+2017-09-18,Boleto,47,47
+2017-09-18,Credit Card,128,128
+2017-09-18,Debit Card,2,2
+2017-09-18,Voucher,9,15
+2017-09-19,Boleto,37,37
+2017-09-19,Credit Card,114,114
+2017-09-19,Voucher,8,15
+2017-09-20,Boleto,37,37
+2017-09-20,Credit Card,119,120
+2017-09-20,Debit Card,2,2
+2017-09-20,Voucher,8,11
+2017-09-21,Boleto,32,32
+2017-09-21,Credit Card,117,117
+2017-09-21,Debit Card,1,1
+2017-09-21,Voucher,3,3
+2017-09-22,Boleto,38,38
+2017-09-22,Credit Card,98,98
+2017-09-22,Debit Card,1,1
+2017-09-22,Voucher,6,8
+2017-09-23,Boleto,14,14
+2017-09-23,Credit Card,73,73
+2017-09-23,Voucher,3,21
+2017-09-24,Boleto,24,24
+2017-09-24,Credit Card,94,94
+2017-09-24,Voucher,2,4
+2017-09-25,Boleto,37,37
+2017-09-25,Credit Card,97,97
+2017-09-25,Debit Card,1,1
+2017-09-25,Voucher,2,5
+2017-09-26,Boleto,36,36
+2017-09-26,Credit Card,138,139
+2017-09-26,Debit Card,4,4
+2017-09-26,Voucher,6,6
+2017-09-27,Boleto,32,32
+2017-09-27,Credit Card,112,112
+2017-09-27,Debit Card,1,1
+2017-09-27,Voucher,7,15
+2017-09-28,Boleto,31,31
+2017-09-28,Credit Card,109,109
+2017-09-28,Debit Card,1,1
+2017-09-28,Voucher,7,11
+2017-09-29,Boleto,24,24
+2017-09-29,Credit Card,96,96
+2017-09-29,Voucher,2,2
+2017-09-30,Boleto,22,22
+2017-09-30,Credit Card,84,85
+2017-09-30,Debit Card,2,2
+2017-09-30,Voucher,2,4
+2017-10-01,Boleto,27,27
+2017-10-01,Credit Card,98,98
+2017-10-01,Voucher,7,10
+2017-10-02,Boleto,30,30
+2017-10-02,Credit Card,107,108
+2017-10-02,Debit Card,3,3
+2017-10-02,Voucher,6,16
+2017-10-03,Boleto,47,47
+2017-10-03,Credit Card,145,145
+2017-10-03,Debit Card,5,5
+2017-10-03,Voucher,7,8
+2017-10-04,Boleto,33,33
+2017-10-04,Credit Card,118,118
+2017-10-04,Voucher,13,17
+2017-10-05,Boleto,28,28
+2017-10-05,Credit Card,109,109
+2017-10-05,Debit Card,2,2
+2017-10-05,Voucher,4,5
+2017-10-06,Boleto,27,27
+2017-10-06,Credit Card,103,103
+2017-10-06,Voucher,7,8
+2017-10-07,Boleto,13,13
+2017-10-07,Credit Card,91,91
+2017-10-07,Debit Card,1,1
+2017-10-07,Voucher,3,3
+2017-10-08,Boleto,20,20
+2017-10-08,Credit Card,101,101
+2017-10-08,Debit Card,2,2
+2017-10-08,Voucher,5,11
+2017-10-09,Boleto,54,54
+2017-10-09,Credit Card,132,132
+2017-10-09,Debit Card,3,3
+2017-10-09,Voucher,11,15
+2017-10-10,Boleto,45,45
+2017-10-10,Credit Card,135,135
+2017-10-10,Voucher,13,13
+2017-10-11,Boleto,30,30
+2017-10-11,Credit Card,118,120
+2017-10-11,Debit Card,4,4
+2017-10-11,Voucher,8,11
+2017-10-12,Boleto,22,22
+2017-10-12,Credit Card,116,116
+2017-10-12,Debit Card,3,3
+2017-10-12,Voucher,6,6
+2017-10-13,Boleto,31,31
+2017-10-13,Credit Card,121,121
+2017-10-13,Debit Card,1,1
+2017-10-13,Voucher,7,7
+2017-10-14,Boleto,24,24
+2017-10-14,Credit Card,88,88
+2017-10-14,Debit Card,1,1
+2017-10-14,Voucher,4,12
+2017-10-15,Boleto,18,18
+2017-10-15,Credit Card,98,99
+2017-10-15,Debit Card,3,3
+2017-10-15,Voucher,5,8
+2017-10-16,Boleto,36,36
+2017-10-16,Credit Card,152,153
+2017-10-16,Debit Card,3,3
+2017-10-16,Voucher,9,14
+2017-10-17,Boleto,53,53
+2017-10-17,Credit Card,144,145
+2017-10-17,Debit Card,2,2
+2017-10-17,Voucher,9,13
+2017-10-18,Boleto,38,38
+2017-10-18,Credit Card,135,135
+2017-10-18,Debit Card,3,3
+2017-10-18,Voucher,6,6
+2017-10-19,Boleto,40,40
+2017-10-19,Credit Card,132,132
+2017-10-19,Debit Card,3,3
+2017-10-19,Voucher,4,4
+2017-10-20,Boleto,34,34
+2017-10-20,Credit Card,88,90
+2017-10-20,Voucher,4,6
+2017-10-21,Boleto,21,21
+2017-10-21,Credit Card,87,87
+2017-10-21,Debit Card,2,2
+2017-10-21,Voucher,7,10
+2017-10-22,Boleto,16,16
+2017-10-22,Credit Card,142,143
+2017-10-22,Voucher,4,5
+2017-10-23,Boleto,43,43
+2017-10-23,Credit Card,112,113
+2017-10-23,Debit Card,2,2
+2017-10-23,Voucher,9,16
+2017-10-24,Boleto,54,54
+2017-10-24,Credit Card,110,111
+2017-10-24,Voucher,4,5
+2017-10-25,Boleto,36,36
+2017-10-25,Credit Card,116,116
+2017-10-25,Debit Card,3,3
+2017-10-25,Voucher,3,5
+2017-10-26,Boleto,28,28
+2017-10-26,Credit Card,111,111
+2017-10-26,Debit Card,1,1
+2017-10-26,Voucher,9,12
+2017-10-27,Boleto,29,29
+2017-10-27,Credit Card,100,100
+2017-10-27,Debit Card,2,2
+2017-10-27,Voucher,10,13
+2017-10-28,Boleto,10,10
+2017-10-28,Credit Card,77,78
+2017-10-28,Voucher,7,9
+2017-10-29,Boleto,24,24
+2017-10-29,Credit Card,104,105
+2017-10-29,Debit Card,2,2
+2017-10-29,Voucher,5,7
+2017-10-30,Boleto,41,41
+2017-10-30,Credit Card,105,106
+2017-10-30,Debit Card,1,1
+2017-10-30,Voucher,5,9
+2017-10-31,Boleto,41,41
+2017-10-31,Credit Card,115,115
+2017-10-31,Voucher,7,7
+2017-11-01,Boleto,21,21
+2017-11-01,Credit Card,87,87
+2017-11-01,Debit Card,2,2
+2017-11-01,Voucher,4,5
+2017-11-02,Boleto,21,21
+2017-11-02,Credit Card,102,104
+2017-11-02,Debit Card,1,1
+2017-11-02,Voucher,2,2
+2017-11-03,Boleto,32,32
+2017-11-03,Credit Card,104,105
+2017-11-03,Debit Card,2,2
+2017-11-03,Voucher,9,10
+2017-11-04,Boleto,24,24
+2017-11-04,Credit Card,84,84
+2017-11-04,Debit Card,1,1
+2017-11-04,Voucher,6,7
+2017-11-05,Boleto,28,28
+2017-11-05,Credit Card,108,108
+2017-11-05,Debit Card,4,4
+2017-11-05,Voucher,5,6
+2017-11-06,Boleto,56,56
+2017-11-06,Credit Card,129,129
+2017-11-06,Debit Card,2,2
+2017-11-06,Voucher,9,11
+2017-11-07,Boleto,29,29
+2017-11-07,Credit Card,125,125
+2017-11-07,Debit Card,4,4
+2017-11-07,Voucher,6,7
+2017-11-08,Boleto,42,42
+2017-11-08,Credit Card,127,129
+2017-11-08,Debit Card,2,2
+2017-11-08,Voucher,9,13
+2017-11-09,Boleto,41,41
+2017-11-09,Credit Card,146,147
+2017-11-09,Debit Card,1,1
+2017-11-09,Voucher,10,13
+2017-11-10,Boleto,42,42
+2017-11-10,Credit Card,114,115
+2017-11-10,Debit Card,1,1
+2017-11-10,Voucher,14,23
+2017-11-11,Boleto,30,30
+2017-11-11,Credit Card,125,125
+2017-11-11,Voucher,7,7
+2017-11-12,Boleto,29,29
+2017-11-12,Credit Card,143,143
+2017-11-12,Debit Card,2,2
+2017-11-12,Voucher,3,3
+2017-11-13,Boleto,57,57
+2017-11-13,Credit Card,145,145
+2017-11-13,Debit Card,1,1
+2017-11-13,Voucher,4,4
+2017-11-14,Boleto,46,46
+2017-11-14,Credit Card,139,140
+2017-11-14,Debit Card,2,2
+2017-11-14,Voucher,8,10
+2017-11-15,Boleto,35,35
+2017-11-15,Credit Card,147,148
+2017-11-15,Debit Card,1,1
+2017-11-15,Voucher,7,10
+2017-11-16,Boleto,61,61
+2017-11-16,Credit Card,158,159
+2017-11-16,Debit Card,2,2
+2017-11-16,Voucher,16,25
+2017-11-17,Boleto,43,43
+2017-11-17,Credit Card,147,149
+2017-11-17,Debit Card,5,5
+2017-11-17,Voucher,4,4
+2017-11-18,Boleto,26,26
+2017-11-18,Credit Card,118,118
+2017-11-18,Debit Card,2,2
+2017-11-18,Voucher,6,7
+2017-11-19,Boleto,23,23
+2017-11-19,Credit Card,134,134
+2017-11-19,Debit Card,1,1
+2017-11-19,Voucher,3,3
+2017-11-20,Boleto,38,38
+2017-11-20,Credit Card,190,192
+2017-11-20,Debit Card,1,1
+2017-11-20,Voucher,5,5
+2017-11-21,Boleto,57,57
+2017-11-21,Credit Card,166,167
+2017-11-21,Debit Card,2,2
+2017-11-21,Voucher,5,11
+2017-11-22,Boleto,36,36
+2017-11-22,Credit Card,159,161
+2017-11-22,Debit Card,4,4
+2017-11-22,Voucher,2,2
+2017-11-23,Boleto,61,61
+2017-11-23,Credit Card,218,220
+2017-11-23,Debit Card,2,2
+2017-11-23,Voucher,11,16
+2017-11-24,Boleto,216,216
+2017-11-24,Credit Card,949,953
+2017-11-24,Debit Card,7,7
+2017-11-24,Voucher,29,38
+2017-11-25,Boleto,71,71
+2017-11-25,Credit Card,416,416
+2017-11-25,Debit Card,1,1
+2017-11-25,Voucher,22,50
+2017-11-26,Boleto,52,52
+2017-11-26,Credit Card,331,333
+2017-11-26,Debit Card,6,6
+2017-11-26,Voucher,10,20
+2017-11-27,Boleto,64,64
+2017-11-27,Credit Card,329,331
+2017-11-27,Debit Card,5,5
+2017-11-27,Voucher,17,20
+2017-11-28,Boleto,89,89
+2017-11-28,Credit Card,287,288
+2017-11-28,Debit Card,3,3
+2017-11-28,Voucher,10,13
+2017-11-29,Boleto,76,76
+2017-11-29,Credit Card,241,242
+2017-11-29,Debit Card,2,2
+2017-11-29,Voucher,12,18
+2017-11-30,Boleto,63,63
+2017-11-30,Credit Card,199,200
+2017-11-30,Debit Card,1,1
+2017-11-30,Voucher,12,24
+2017-12-01,Boleto,58,58
+2017-12-01,Credit Card,215,215
+2017-12-01,Voucher,5,15
+2017-12-02,Boleto,39,39
+2017-12-02,Credit Card,172,173
+2017-12-02,Debit Card,3,3
+2017-12-02,Voucher,5,5
+2017-12-03,Boleto,41,41
+2017-12-03,Credit Card,183,184
+2017-12-03,Debit Card,7,7
+2017-12-03,Voucher,5,5
+2017-12-04,Boleto,84,84
+2017-12-04,Credit Card,250,251
+2017-12-04,Debit Card,1,1
+2017-12-04,Voucher,5,5
+2017-12-05,Boleto,60,60
+2017-12-05,Credit Card,212,212
+2017-12-05,Debit Card,5,5
+2017-12-05,Voucher,11,12
+2017-12-06,Boleto,63,63
+2017-12-06,Credit Card,211,213
+2017-12-06,Debit Card,4,4
+2017-12-06,Voucher,6,17
+2017-12-07,Boleto,53,53
+2017-12-07,Credit Card,169,169
+2017-12-07,Debit Card,4,4
+2017-12-07,Voucher,7,12
+2017-12-08,Boleto,45,45
+2017-12-08,Credit Card,168,168
+2017-12-08,Debit Card,4,4
+2017-12-08,Voucher,8,28
+2017-12-09,Boleto,21,21
+2017-12-09,Credit Card,131,131
+2017-12-09,Debit Card,2,2
+2017-12-09,Voucher,5,6
+2017-12-10,Boleto,31,31
+2017-12-10,Credit Card,155,157
+2017-12-10,Debit Card,1,1
+2017-12-10,Voucher,8,13
+2017-12-11,Boleto,57,57
+2017-12-11,Credit Card,204,204
+2017-12-11,Debit Card,1,1
+2017-12-11,Voucher,7,7
+2017-12-12,Boleto,45,45
+2017-12-12,Credit Card,211,211
+2017-12-12,Voucher,11,15
+2017-12-13,Boleto,43,43
+2017-12-13,Credit Card,170,170
+2017-12-13,Debit Card,2,2
+2017-12-13,Voucher,11,11
+2017-12-14,Boleto,49,49
+2017-12-14,Credit Card,147,148
+2017-12-14,Voucher,5,5
+2017-12-15,Boleto,39,39
+2017-12-15,Credit Card,146,147
+2017-12-15,Debit Card,3,3
+2017-12-15,Voucher,8,9
+2017-12-16,Boleto,17,17
+2017-12-16,Credit Card,108,108
+2017-12-16,Debit Card,3,3
+2017-12-16,Voucher,9,11
+2017-12-17,Boleto,21,21
+2017-12-17,Credit Card,106,106
+2017-12-17,Debit Card,1,1
+2017-12-17,Voucher,12,17
+2017-12-18,Boleto,52,52
+2017-12-18,Credit Card,155,155
+2017-12-18,Debit Card,1,1
+2017-12-18,Voucher,5,5
+2017-12-19,Boleto,46,46
+2017-12-19,Credit Card,122,123
+2017-12-19,Debit Card,3,3
+2017-12-19,Voucher,11,12
+2017-12-20,Boleto,41,41
+2017-12-20,Credit Card,126,126
+2017-12-20,Debit Card,2,2
+2017-12-20,Voucher,8,8
+2017-12-21,Boleto,40,40
+2017-12-21,Credit Card,99,99
+2017-12-21,Debit Card,3,3
+2017-12-21,Voucher,5,5
+2017-12-22,Boleto,19,19
+2017-12-22,Credit Card,88,88
+2017-12-22,Debit Card,2,2
+2017-12-22,Voucher,3,3
+2017-12-23,Boleto,21,21
+2017-12-23,Credit Card,87,87
+2017-12-23,Voucher,4,4
+2017-12-24,Boleto,11,11
+2017-12-24,Credit Card,47,47
+2017-12-24,Debit Card,1,1
+2017-12-24,Voucher,3,3
+2017-12-25,Boleto,15,15
+2017-12-25,Credit Card,71,71
+2017-12-25,Debit Card,1,1
+2017-12-25,Voucher,5,5
+2017-12-26,Boleto,44,44
+2017-12-26,Credit Card,121,122
+2017-12-26,Voucher,12,15
+2017-12-27,Boleto,36,36
+2017-12-27,Credit Card,123,123
+2017-12-27,Debit Card,4,4
+2017-12-27,Voucher,8,8
+2017-12-28,Boleto,19,19
+2017-12-28,Credit Card,117,117
+2017-12-28,Debit Card,3,3
+2017-12-28,Voucher,10,10
+2017-12-29,Boleto,23,23
+2017-12-29,Credit Card,110,113
+2017-12-29,Voucher,10,15
+2017-12-30,Boleto,14,14
+2017-12-30,Credit Card,80,80
+2017-12-30,Debit Card,3,3
+2017-12-30,Voucher,2,2
+2017-12-31,Boleto,13,13
+2017-12-31,Credit Card,59,59
+2017-12-31,Voucher,6,6
+2018-01-01,Boleto,16,16
+2018-01-01,Credit Card,55,55
+2018-01-01,Debit Card,2,2
+2018-01-01,Voucher,1,5
+2018-01-02,Boleto,41,41
+2018-01-02,Credit Card,157,157
+2018-01-02,Debit Card,2,2
+2018-01-02,Voucher,10,18
+2018-01-03,Boleto,52,52
+2018-01-03,Credit Card,163,164
+2018-01-03,Debit Card,6,6
+2018-01-03,Voucher,10,13
+2018-01-04,Boleto,67,67
+2018-01-04,Credit Card,183,183
+2018-01-04,Debit Card,1,1
+2018-01-04,Voucher,12,18
+2018-01-05,Boleto,45,45
+2018-01-05,Credit Card,161,161
+2018-01-05,Debit Card,2,2
+2018-01-05,Voucher,8,8
+2018-01-06,Boleto,48,48
+2018-01-06,Credit Card,161,161
+2018-01-06,Debit Card,3,3
+2018-01-06,Voucher,10,17
+2018-01-07,Boleto,27,27
+2018-01-07,Credit Card,161,161
+2018-01-07,Debit Card,6,6
+2018-01-07,Voucher,8,8
+2018-01-08,Boleto,70,70
+2018-01-08,Credit Card,214,214
+2018-01-08,Debit Card,5,5
+2018-01-08,Voucher,7,9
+2018-01-09,Boleto,55,55
+2018-01-09,Credit Card,193,193
+2018-01-09,Debit Card,2,2
+2018-01-09,Voucher,5,8
+2018-01-10,Boleto,70,70
+2018-01-10,Credit Card,199,199
+2018-01-10,Debit Card,5,5
+2018-01-10,Voucher,10,11
+2018-01-11,Boleto,77,77
+2018-01-11,Credit Card,182,183
+2018-01-11,Debit Card,2,2
+2018-01-11,Voucher,16,26
+2018-01-12,Boleto,55,55
+2018-01-12,Credit Card,182,182
+2018-01-12,Debit Card,1,1
+2018-01-12,Voucher,12,15
+2018-01-13,Boleto,39,39
+2018-01-13,Credit Card,174,174
+2018-01-13,Debit Card,3,3
+2018-01-13,Voucher,12,16
+2018-01-14,Boleto,39,39
+2018-01-14,Credit Card,187,187
+2018-01-14,Debit Card,4,4
+2018-01-14,Voucher,9,11
+2018-01-15,Boleto,71,71
+2018-01-15,Credit Card,221,221
+2018-01-15,Debit Card,8,8
+2018-01-15,Voucher,15,26
+2018-01-16,Boleto,70,70
+2018-01-16,Credit Card,222,223
+2018-01-16,Debit Card,3,3
+2018-01-16,Voucher,17,17
+2018-01-17,Boleto,50,50
+2018-01-17,Credit Card,222,224
+2018-01-17,Debit Card,7,7
+2018-01-17,Voucher,7,9
+2018-01-18,Boleto,55,55
+2018-01-18,Credit Card,178,178
+2018-01-18,Debit Card,4,4
+2018-01-18,Voucher,10,14
+2018-01-19,Boleto,51,51
+2018-01-19,Credit Card,176,176
+2018-01-19,Debit Card,5,5
+2018-01-19,Voucher,8,8
+2018-01-20,Boleto,22,22
+2018-01-20,Credit Card,154,154
+2018-01-20,Debit Card,2,2
+2018-01-20,Voucher,6,6
+2018-01-21,Boleto,37,37
+2018-01-21,Credit Card,156,158
+2018-01-21,Debit Card,3,3
+2018-01-21,Voucher,9,12
+2018-01-22,Boleto,63,63
+2018-01-22,Credit Card,233,234
+2018-01-22,Debit Card,11,11
+2018-01-22,Voucher,15,24
+2018-01-23,Boleto,54,54
+2018-01-23,Credit Card,196,197
+2018-01-23,Debit Card,6,6
+2018-01-23,Voucher,13,25
+2018-01-24,Boleto,48,48
+2018-01-24,Credit Card,189,189
+2018-01-24,Debit Card,1,1
+2018-01-24,Voucher,14,20
+2018-01-25,Boleto,52,52
+2018-01-25,Credit Card,176,176
+2018-01-25,Voucher,11,11
+2018-01-26,Boleto,34,34
+2018-01-26,Credit Card,191,191
+2018-01-26,Voucher,9,12
+2018-01-27,Boleto,22,22
+2018-01-27,Credit Card,127,127
+2018-01-27,Debit Card,1,1
+2018-01-27,Voucher,7,10
+2018-01-28,Boleto,24,24
+2018-01-28,Credit Card,130,130
+2018-01-28,Debit Card,2,2
+2018-01-28,Voucher,3,3
+2018-01-29,Boleto,50,50
+2018-01-29,Credit Card,186,186
+2018-01-29,Debit Card,6,6
+2018-01-29,Voucher,10,15
+2018-01-30,Boleto,65,65
+2018-01-30,Credit Card,186,186
+2018-01-30,Debit Card,2,2
+2018-01-30,Voucher,7,7
+2018-01-31,Boleto,49,49
+2018-01-31,Credit Card,196,196
+2018-01-31,Debit Card,4,4
+2018-01-31,Voucher,13,14
+2018-02-01,Boleto,50,50
+2018-02-01,Credit Card,175,176
+2018-02-01,Debit Card,4,4
+2018-02-01,Voucher,11,13
+2018-02-02,Boleto,49,49
+2018-02-02,Credit Card,153,153
+2018-02-02,Debit Card,5,5
+2018-02-02,Voucher,10,16
+2018-02-03,Boleto,31,31
+2018-02-03,Credit Card,160,160
+2018-02-03,Voucher,7,11
+2018-02-04,Boleto,27,27
+2018-02-04,Credit Card,173,173
+2018-02-04,Voucher,5,9
+2018-02-05,Boleto,55,55
+2018-02-05,Credit Card,207,209
+2018-02-05,Debit Card,3,3
+2018-02-05,Voucher,12,16
+2018-02-06,Boleto,59,59
+2018-02-06,Credit Card,204,205
+2018-02-06,Debit Card,4,4
+2018-02-06,Voucher,5,10
+2018-02-07,Boleto,41,41
+2018-02-07,Credit Card,196,197
+2018-02-07,Debit Card,3,3
+2018-02-07,Voucher,16,20
+2018-02-08,Boleto,38,38
+2018-02-08,Credit Card,187,187
+2018-02-08,Debit Card,3,3
+2018-02-08,Voucher,8,9
+2018-02-09,Boleto,52,52
+2018-02-09,Credit Card,160,160
+2018-02-09,Debit Card,2,2
+2018-02-09,Voucher,8,9
+2018-02-10,Boleto,21,21
+2018-02-10,Credit Card,155,156
+2018-02-10,Debit Card,3,3
+2018-02-10,Voucher,2,2
+2018-02-11,Boleto,26,26
+2018-02-11,Credit Card,144,144
+2018-02-11,Debit Card,1,1
+2018-02-11,Voucher,5,8
+2018-02-12,Boleto,30,30
+2018-02-12,Credit Card,181,182
+2018-02-12,Debit Card,1,1
+2018-02-12,Voucher,11,20
+2018-02-13,Boleto,35,35
+2018-02-13,Credit Card,184,185
+2018-02-13,Debit Card,3,3
+2018-02-13,Voucher,3,3
+2018-02-14,Boleto,61,61
+2018-02-14,Credit Card,225,225
+2018-02-14,Debit Card,4,4
+2018-02-14,Voucher,13,24
+2018-02-15,Boleto,64,64
+2018-02-15,Credit Card,212,212
+2018-02-15,Debit Card,3,3
+2018-02-15,Voucher,8,9
+2018-02-16,Boleto,36,36
+2018-02-16,Credit Card,173,174
+2018-02-16,Debit Card,1,1
+2018-02-16,Voucher,6,13
+2018-02-17,Boleto,30,30
+2018-02-17,Credit Card,170,170
+2018-02-17,Debit Card,2,2
+2018-02-17,Voucher,2,2
+2018-02-18,Boleto,21,21
+2018-02-18,Credit Card,176,178
+2018-02-18,Debit Card,1,1
+2018-02-18,Voucher,8,12
+2018-02-19,Boleto,66,66
+2018-02-19,Credit Card,188,190
+2018-02-19,Debit Card,2,2
+2018-02-19,Voucher,7,7
+2018-02-20,Boleto,65,65
+2018-02-20,Credit Card,215,216
+2018-02-20,Debit Card,6,6
+2018-02-20,Voucher,9,11
+2018-02-21,Boleto,61,61
+2018-02-21,Credit Card,196,197
+2018-02-21,Debit Card,1,1
+2018-02-21,Voucher,16,16
+2018-02-22,Boleto,56,56
+2018-02-22,Credit Card,216,217
+2018-02-22,Debit Card,5,5
+2018-02-22,Voucher,7,10
+2018-02-23,Boleto,48,48
+2018-02-23,Credit Card,184,184
+2018-02-23,Voucher,7,8
+2018-02-24,Boleto,34,34
+2018-02-24,Credit Card,153,154
+2018-02-24,Debit Card,3,3
+2018-02-24,Voucher,4,10
+2018-02-25,Boleto,50,50
+2018-02-25,Credit Card,180,180
+2018-02-25,Voucher,7,8
+2018-02-26,Boleto,72,72
+2018-02-26,Credit Card,215,216
+2018-02-26,Debit Card,3,3
+2018-02-26,Voucher,9,11
+2018-02-27,Boleto,63,63
+2018-02-27,Credit Card,230,230
+2018-02-27,Debit Card,3,3
+2018-02-27,Voucher,5,9
+2018-02-28,Boleto,84,84
+2018-02-28,Credit Card,223,223
+2018-02-28,Debit Card,3,3
+2018-02-28,Voucher,8,9
+2018-03-01,Boleto,69,69
+2018-03-01,Credit Card,200,202
+2018-03-01,Debit Card,5,5
+2018-03-01,Voucher,10,11
+2018-03-02,Boleto,45,45
+2018-03-02,Credit Card,211,211
+2018-03-02,Debit Card,6,6
+2018-03-02,Voucher,11,17
+2018-03-03,Boleto,39,39
+2018-03-03,Credit Card,171,171
+2018-03-03,Voucher,5,8
+2018-03-04,Boleto,32,32
+2018-03-04,Credit Card,197,198
+2018-03-04,Debit Card,3,3
+2018-03-04,Voucher,6,6
+2018-03-05,Boleto,56,56
+2018-03-05,Credit Card,204,204
+2018-03-05,Debit Card,1,1
+2018-03-05,Voucher,8,22
+2018-03-06,Boleto,65,65
+2018-03-06,Credit Card,199,200
+2018-03-06,Debit Card,3,3
+2018-03-06,Voucher,8,12
+2018-03-07,Boleto,51,51
+2018-03-07,Credit Card,202,203
+2018-03-07,Debit Card,3,3
+2018-03-07,Voucher,9,12
+2018-03-08,Boleto,56,56
+2018-03-08,Credit Card,175,176
+2018-03-08,Debit Card,1,1
+2018-03-08,Voucher,7,12
+2018-03-09,Boleto,42,42
+2018-03-09,Credit Card,158,160
+2018-03-09,Debit Card,2,2
+2018-03-09,Voucher,10,12
+2018-03-10,Boleto,19,19
+2018-03-10,Credit Card,170,170
+2018-03-10,Debit Card,2,2
+2018-03-10,Voucher,6,7
+2018-03-11,Boleto,25,25
+2018-03-11,Credit Card,190,190
+2018-03-11,Debit Card,2,2
+2018-03-11,Voucher,5,6
+2018-03-12,Boleto,49,49
+2018-03-12,Credit Card,180,180
+2018-03-12,Debit Card,1,1
+2018-03-12,Voucher,7,8
+2018-03-13,Boleto,55,55
+2018-03-13,Credit Card,166,168
+2018-03-13,Debit Card,5,5
+2018-03-13,Voucher,7,7
+2018-03-14,Boleto,45,45
+2018-03-14,Credit Card,151,152
+2018-03-14,Debit Card,1,1
+2018-03-14,Voucher,6,6
+2018-03-15,Boleto,60,60
+2018-03-15,Credit Card,220,221
+2018-03-15,Debit Card,5,5
+2018-03-15,Voucher,9,13
+2018-03-16,Boleto,52,52
+2018-03-16,Credit Card,195,196
+2018-03-16,Voucher,13,30
+2018-03-17,Boleto,17,17
+2018-03-17,Credit Card,158,158
+2018-03-17,Debit Card,2,2
+2018-03-17,Voucher,6,9
+2018-03-18,Boleto,26,26
+2018-03-18,Credit Card,184,184
+2018-03-18,Debit Card,1,1
+2018-03-18,Voucher,9,18
+2018-03-19,Boleto,65,65
+2018-03-19,Credit Card,233,233
+2018-03-19,Debit Card,2,2
+2018-03-19,Voucher,9,10
+2018-03-20,Boleto,68,68
+2018-03-20,Credit Card,215,215
+2018-03-20,Debit Card,7,7
+2018-03-20,Voucher,16,26
+2018-03-21,Boleto,50,50
+2018-03-21,Credit Card,224,224
+2018-03-21,Debit Card,4,4
+2018-03-21,Voucher,19,23
+2018-03-22,Boleto,44,44
+2018-03-22,Credit Card,198,199
+2018-03-22,Debit Card,4,4
+2018-03-22,Voucher,14,15
+2018-03-23,Boleto,34,34
+2018-03-23,Credit Card,180,180
+2018-03-23,Debit Card,3,3
+2018-03-23,Voucher,7,8
+2018-03-24,Boleto,22,22
+2018-03-24,Credit Card,142,142
+2018-03-24,Voucher,4,5
+2018-03-25,Boleto,33,33
+2018-03-25,Credit Card,155,158
+2018-03-25,Debit Card,1,1
+2018-03-25,Voucher,6,10
+2018-03-26,Boleto,58,58
+2018-03-26,Credit Card,206,206
+2018-03-26,Debit Card,3,3
+2018-03-26,Voucher,8,15
+2018-03-27,Boleto,51,51
+2018-03-27,Credit Card,186,186
+2018-03-27,Debit Card,3,3
+2018-03-27,Voucher,13,19
+2018-03-28,Boleto,51,51
+2018-03-28,Credit Card,163,163
+2018-03-28,Debit Card,4,4
+2018-03-28,Voucher,8,11
+2018-03-29,Boleto,26,26
+2018-03-29,Credit Card,161,161
+2018-03-29,Debit Card,4,4
+2018-03-29,Voucher,12,14
+2018-03-30,Boleto,24,24
+2018-03-30,Credit Card,138,138
+2018-03-30,Voucher,8,12
+2018-03-31,Boleto,23,23
+2018-03-31,Credit Card,142,142
+2018-03-31,Voucher,6,7
+2018-04-01,Boleto,31,31
+2018-04-01,Credit Card,169,169
+2018-04-01,Debit Card,5,5
+2018-04-01,Voucher,7,8
+2018-04-02,Boleto,57,57
+2018-04-02,Credit Card,218,218
+2018-04-02,Debit Card,3,3
+2018-04-02,Voucher,9,23
+2018-04-03,Boleto,60,60
+2018-04-03,Credit Card,179,179
+2018-04-03,Debit Card,3,3
+2018-04-03,Voucher,8,11
+2018-04-04,Boleto,56,56
+2018-04-04,Credit Card,192,192
+2018-04-04,Debit Card,4,4
+2018-04-04,Voucher,7,16
+2018-04-05,Boleto,55,55
+2018-04-05,Credit Card,205,206
+2018-04-05,Debit Card,1,1
+2018-04-05,Voucher,10,21
+2018-04-06,Boleto,42,42
+2018-04-06,Credit Card,143,143
+2018-04-06,Debit Card,1,1
+2018-04-06,Voucher,8,8
+2018-04-07,Boleto,26,26
+2018-04-07,Credit Card,135,135
+2018-04-07,Debit Card,2,2
+2018-04-07,Voucher,3,3
+2018-04-08,Boleto,29,29
+2018-04-08,Credit Card,149,150
+2018-04-08,Debit Card,3,3
+2018-04-08,Voucher,5,12
+2018-04-09,Boleto,44,44
+2018-04-09,Credit Card,205,205
+2018-04-09,Debit Card,1,1
+2018-04-09,Voucher,7,8
+2018-04-10,Boleto,34,34
+2018-04-10,Credit Card,163,163
+2018-04-10,Debit Card,1,1
+2018-04-10,Voucher,6,6
+2018-04-11,Boleto,63,63
+2018-04-11,Credit Card,205,206
+2018-04-11,Debit Card,4,4
+2018-04-11,Voucher,9,9
+2018-04-12,Boleto,52,52
+2018-04-12,Credit Card,190,190
+2018-04-12,Debit Card,5,5
+2018-04-12,Voucher,10,13
+2018-04-13,Boleto,39,39
+2018-04-13,Credit Card,154,154
+2018-04-13,Debit Card,5,5
+2018-04-13,Voucher,5,6
+2018-04-14,Boleto,25,25
+2018-04-14,Credit Card,118,118
+2018-04-14,Voucher,5,7
+2018-04-15,Boleto,33,33
+2018-04-15,Credit Card,185,187
+2018-04-15,Debit Card,2,2
+2018-04-15,Voucher,5,5
+2018-04-16,Boleto,58,58
+2018-04-16,Credit Card,212,212
+2018-04-16,Debit Card,3,3
+2018-04-16,Voucher,18,28
+2018-04-17,Boleto,48,48
+2018-04-17,Credit Card,210,210
+2018-04-17,Debit Card,3,3
+2018-04-17,Voucher,14,22
+2018-04-18,Boleto,61,61
+2018-04-18,Credit Card,212,214
+2018-04-18,Debit Card,4,4
+2018-04-18,Voucher,8,15
+2018-04-19,Boleto,52,52
+2018-04-19,Credit Card,224,225
+2018-04-19,Debit Card,9,9
+2018-04-19,Voucher,13,21
+2018-04-20,Boleto,34,34
+2018-04-20,Credit Card,150,151
+2018-04-20,Debit Card,11,11
+2018-04-20,Voucher,4,9
+2018-04-21,Boleto,14,14
+2018-04-21,Credit Card,138,138
+2018-04-21,Debit Card,3,3
+2018-04-21,Voucher,6,7
+2018-04-22,Boleto,27,27
+2018-04-22,Credit Card,168,168
+2018-04-22,Debit Card,1,1
+2018-04-22,Voucher,10,11
+2018-04-23,Boleto,49,49
+2018-04-23,Credit Card,225,226
+2018-04-23,Debit Card,5,5
+2018-04-23,Voucher,14,18
+2018-04-24,Boleto,44,44
+2018-04-24,Credit Card,219,220
+2018-04-24,Debit Card,6,6
+2018-04-24,Voucher,6,13
+2018-04-25,Boleto,37,37
+2018-04-25,Credit Card,240,241
+2018-04-25,Debit Card,3,3
+2018-04-25,Voucher,6,9
+2018-04-26,Boleto,57,57
+2018-04-26,Credit Card,189,190
+2018-04-26,Debit Card,5,5
+2018-04-26,Voucher,9,13
+2018-04-27,Boleto,42,42
+2018-04-27,Credit Card,197,198
+2018-04-27,Debit Card,1,1
+2018-04-27,Voucher,5,6
+2018-04-28,Boleto,39,39
+2018-04-28,Credit Card,124,124
+2018-04-28,Debit Card,1,1
+2018-04-28,Voucher,9,19
+2018-04-29,Boleto,28,28
+2018-04-29,Credit Card,139,139
+2018-04-29,Voucher,5,14
+2018-04-30,Boleto,51,51
+2018-04-30,Credit Card,184,184
+2018-04-30,Debit Card,2,2
+2018-04-30,Voucher,7,9
+2018-05-01,Boleto,41,41
+2018-05-01,Credit Card,214,215
+2018-05-01,Debit Card,1,1
+2018-05-01,Voucher,4,17
+2018-05-02,Boleto,56,56
+2018-05-02,Credit Card,236,236
+2018-05-02,Debit Card,1,1
+2018-05-02,Voucher,12,25
+2018-05-03,Boleto,64,64
+2018-05-03,Credit Card,230,231
+2018-05-03,Debit Card,3,3
+2018-05-03,Voucher,12,21
+2018-05-04,Boleto,62,62
+2018-05-04,Credit Card,200,200
+2018-05-04,Voucher,8,8
+2018-05-05,Boleto,36,36
+2018-05-05,Credit Card,157,157
+2018-05-05,Debit Card,2,2
+2018-05-05,Voucher,6,7
+2018-05-06,Boleto,27,27
+2018-05-06,Credit Card,184,185
+2018-05-07,Boleto,75,75
+2018-05-07,Credit Card,291,291
+2018-05-07,Debit Card,4,4
+2018-05-07,Voucher,7,9
+2018-05-08,Boleto,65,65
+2018-05-08,Credit Card,260,260
+2018-05-08,Debit Card,1,1
+2018-05-08,Voucher,9,10
+2018-05-09,Boleto,63,63
+2018-05-09,Credit Card,275,278
+2018-05-09,Debit Card,2,2
+2018-05-09,Voucher,8,12
+2018-05-10,Boleto,51,51
+2018-05-10,Credit Card,226,227
+2018-05-10,Debit Card,1,1
+2018-05-10,Voucher,6,11
+2018-05-11,Boleto,37,37
+2018-05-11,Credit Card,201,202
+2018-05-11,Debit Card,1,1
+2018-05-11,Voucher,14,22
+2018-05-12,Boleto,25,25
+2018-05-12,Credit Card,176,178
+2018-05-12,Debit Card,2,2
+2018-05-12,Voucher,7,20
+2018-05-13,Boleto,33,33
+2018-05-13,Credit Card,172,172
+2018-05-13,Debit Card,1,1
+2018-05-13,Voucher,2,5
+2018-05-14,Boleto,69,69
+2018-05-14,Credit Card,289,291
+2018-05-14,Debit Card,1,1
+2018-05-14,Voucher,11,14
+2018-05-15,Boleto,66,66
+2018-05-15,Credit Card,273,273
+2018-05-15,Debit Card,3,3
+2018-05-15,Voucher,16,26
+2018-05-16,Boleto,65,65
+2018-05-16,Credit Card,290,293
+2018-05-16,Debit Card,1,1
+2018-05-16,Voucher,8,10
+2018-05-17,Boleto,44,44
+2018-05-17,Credit Card,180,180
+2018-05-17,Debit Card,2,2
+2018-05-17,Voucher,5,6
+2018-05-18,Boleto,49,49
+2018-05-18,Credit Card,184,184
+2018-05-18,Voucher,6,9
+2018-05-19,Boleto,21,21
+2018-05-19,Credit Card,114,115
+2018-05-19,Debit Card,1,1
+2018-05-19,Voucher,4,10
+2018-05-20,Boleto,21,21
+2018-05-20,Credit Card,138,139
+2018-05-20,Debit Card,2,2
+2018-05-20,Voucher,5,5
+2018-05-21,Boleto,46,46
+2018-05-21,Credit Card,156,156
+2018-05-21,Debit Card,4,4
+2018-05-21,Voucher,3,3
+2018-05-22,Boleto,46,46
+2018-05-22,Credit Card,152,152
+2018-05-22,Debit Card,1,1
+2018-05-22,Voucher,7,9
+2018-05-23,Boleto,22,22
+2018-05-23,Credit Card,106,106
+2018-05-23,Debit Card,3,3
+2018-05-23,Voucher,7,12
+2018-05-24,Boleto,28,28
+2018-05-24,Credit Card,82,84
+2018-05-24,Debit Card,2,2
+2018-05-24,Voucher,4,5
+2018-05-25,Boleto,23,23
+2018-05-25,Credit Card,77,77
+2018-05-25,Debit Card,2,2
+2018-05-25,Voucher,3,4
+2018-05-26,Boleto,10,10
+2018-05-26,Credit Card,87,87
+2018-05-26,Voucher,2,2
+2018-05-27,Boleto,11,11
+2018-05-27,Credit Card,88,89
+2018-05-27,Debit Card,1,1
+2018-05-27,Voucher,3,7
+2018-05-28,Boleto,29,29
+2018-05-28,Credit Card,112,112
+2018-05-28,Voucher,5,8
+2018-05-29,Boleto,36,36
+2018-05-29,Credit Card,106,107
+2018-05-29,Debit Card,3,3
+2018-05-29,Voucher,8,10
+2018-05-30,Boleto,27,27
+2018-05-30,Credit Card,107,107
+2018-05-30,Debit Card,2,2
+2018-05-30,Voucher,7,11
+2018-05-31,Boleto,15,15
+2018-05-31,Credit Card,112,113
+2018-05-31,Debit Card,4,4
+2018-05-31,Voucher,4,6
+2018-06-01,Boleto,39,39
+2018-06-01,Credit Card,140,141
+2018-06-01,Debit Card,4,4
+2018-06-01,Voucher,4,5
+2018-06-02,Boleto,25,25
+2018-06-02,Credit Card,116,116
+2018-06-02,Debit Card,1,1
+2018-06-02,Voucher,4,5
+2018-06-03,Boleto,27,27
+2018-06-03,Credit Card,158,158
+2018-06-03,Debit Card,5,5
+2018-06-03,Voucher,7,12
+2018-06-04,Boleto,48,48
+2018-06-04,Credit Card,169,170
+2018-06-04,Debit Card,5,5
+2018-06-04,Voucher,7,8
+2018-06-05,Boleto,37,37
+2018-06-05,Credit Card,157,159
+2018-06-05,Debit Card,5,5
+2018-06-05,Voucher,5,5
+2018-06-06,Boleto,43,43
+2018-06-06,Credit Card,177,177
+2018-06-06,Debit Card,2,2
+2018-06-06,Voucher,12,12
+2018-06-07,Boleto,37,37
+2018-06-07,Credit Card,182,182
+2018-06-07,Debit Card,3,3
+2018-06-07,Voucher,8,14
+2018-06-08,Boleto,31,31
+2018-06-08,Credit Card,158,160
+2018-06-08,Debit Card,5,5
+2018-06-08,Voucher,6,9
+2018-06-09,Boleto,21,21
+2018-06-09,Credit Card,144,144
+2018-06-09,Debit Card,7,7
+2018-06-09,Voucher,1,1
+2018-06-10,Boleto,26,26
+2018-06-10,Credit Card,160,161
+2018-06-10,Debit Card,6,6
+2018-06-10,Voucher,3,7
+2018-06-11,Boleto,49,49
+2018-06-11,Credit Card,231,231
+2018-06-11,Debit Card,7,7
+2018-06-11,Voucher,11,17
+2018-06-12,Boleto,42,42
+2018-06-12,Credit Card,189,190
+2018-06-12,Debit Card,13,13
+2018-06-12,Voucher,8,14
+2018-06-13,Boleto,53,53
+2018-06-13,Credit Card,199,200
+2018-06-13,Debit Card,5,5
+2018-06-13,Voucher,9,13
+2018-06-14,Boleto,25,25
+2018-06-14,Credit Card,173,173
+2018-06-14,Debit Card,10,10
+2018-06-14,Voucher,7,7
+2018-06-15,Boleto,43,43
+2018-06-15,Credit Card,131,133
+2018-06-15,Debit Card,8,8
+2018-06-15,Voucher,10,12
+2018-06-16,Boleto,23,23
+2018-06-16,Credit Card,138,139
+2018-06-16,Debit Card,4,4
+2018-06-16,Voucher,3,5
+2018-06-17,Boleto,19,19
+2018-06-17,Credit Card,128,128
+2018-06-17,Debit Card,1,1
+2018-06-17,Voucher,10,13
+2018-06-18,Boleto,53,53
+2018-06-18,Credit Card,177,178
+2018-06-18,Debit Card,4,4
+2018-06-18,Voucher,19,24
+2018-06-19,Boleto,39,39
+2018-06-19,Credit Card,174,174
+2018-06-19,Debit Card,13,14
+2018-06-19,Voucher,14,17
+2018-06-20,Boleto,37,37
+2018-06-20,Credit Card,161,161
+2018-06-20,Debit Card,12,12
+2018-06-20,Voucher,12,21
+2018-06-21,Boleto,58,58
+2018-06-21,Credit Card,167,167
+2018-06-21,Debit Card,7,7
+2018-06-21,Voucher,10,14
+2018-06-22,Boleto,37,37
+2018-06-22,Credit Card,127,127
+2018-06-22,Debit Card,11,11
+2018-06-22,Voucher,8,11
+2018-06-23,Boleto,26,26
+2018-06-23,Credit Card,115,117
+2018-06-23,Debit Card,6,6
+2018-06-23,Voucher,8,8
+2018-06-24,Boleto,24,24
+2018-06-24,Credit Card,166,166
+2018-06-24,Debit Card,9,9
+2018-06-24,Voucher,4,4
+2018-06-25,Boleto,44,44
+2018-06-25,Credit Card,191,192
+2018-06-25,Debit Card,5,5
+2018-06-25,Voucher,6,10
+2018-06-26,Boleto,53,53
+2018-06-26,Credit Card,180,180
+2018-06-26,Debit Card,7,7
+2018-06-26,Voucher,12,26
+2018-06-27,Boleto,39,39
+2018-06-27,Credit Card,168,168
+2018-06-27,Debit Card,5,5
+2018-06-27,Voucher,9,12
+2018-06-28,Boleto,48,48
+2018-06-28,Credit Card,184,185
+2018-06-28,Debit Card,7,7
+2018-06-28,Voucher,9,12
+2018-06-29,Boleto,32,32
+2018-06-29,Credit Card,135,135
+2018-06-29,Debit Card,4,4
+2018-06-29,Voucher,3,4
+2018-06-30,Boleto,22,22
+2018-06-30,Credit Card,101,101
+2018-06-30,Voucher,2,2
+2018-07-01,Boleto,26,26
+2018-07-01,Credit Card,127,127
+2018-07-01,Debit Card,7,7
+2018-07-01,Voucher,4,4
+2018-07-02,Boleto,39,39
+2018-07-02,Credit Card,151,151
+2018-07-02,Debit Card,5,5
+2018-07-02,Voucher,7,7
+2018-07-03,Boleto,39,39
+2018-07-03,Credit Card,164,164
+2018-07-03,Debit Card,11,11
+2018-07-03,Voucher,8,8
+2018-07-04,Boleto,48,48
+2018-07-04,Credit Card,197,197
+2018-07-04,Debit Card,9,9
+2018-07-04,Voucher,8,10
+2018-07-05,Boleto,47,47
+2018-07-05,Credit Card,139,139
+2018-07-05,Debit Card,7,7
+2018-07-05,Voucher,3,3
+2018-07-06,Boleto,20,20
+2018-07-06,Credit Card,88,88
+2018-07-06,Debit Card,8,8
+2018-07-06,Voucher,6,8
+2018-07-07,Boleto,16,16
+2018-07-07,Credit Card,73,73
+2018-07-07,Debit Card,2,2
+2018-07-07,Voucher,1,2
+2018-07-08,Boleto,18,18
+2018-07-08,Credit Card,99,100
+2018-07-08,Debit Card,4,4
+2018-07-08,Voucher,1,1
+2018-07-09,Boleto,21,21
+2018-07-09,Credit Card,120,121
+2018-07-09,Debit Card,5,5
+2018-07-09,Voucher,6,7
+2018-07-10,Boleto,26,26
+2018-07-10,Credit Card,102,103
+2018-07-10,Debit Card,5,5
+2018-07-10,Voucher,6,8
+2018-07-11,Boleto,23,23
+2018-07-11,Credit Card,98,98
+2018-07-11,Debit Card,4,4
+2018-07-11,Voucher,4,4
+2018-07-12,Boleto,19,19
+2018-07-12,Credit Card,93,94
+2018-07-12,Debit Card,8,8
+2018-07-12,Voucher,7,17
+2018-07-13,Boleto,35,35
+2018-07-13,Credit Card,125,126
+2018-07-13,Debit Card,5,5
+2018-07-13,Voucher,6,9
+2018-07-14,Boleto,28,28
+2018-07-14,Credit Card,114,114
+2018-07-14,Debit Card,5,5
+2018-07-14,Voucher,5,7
+2018-07-15,Boleto,28,28
+2018-07-15,Credit Card,119,121
+2018-07-15,Debit Card,5,5
+2018-07-15,Voucher,4,4
+2018-07-16,Boleto,62,62
+2018-07-16,Credit Card,171,171
+2018-07-16,Debit Card,10,10
+2018-07-16,Voucher,7,8
+2018-07-17,Boleto,43,43
+2018-07-17,Credit Card,170,171
+2018-07-17,Debit Card,5,5
+2018-07-17,Voucher,9,13
+2018-07-18,Boleto,55,55
+2018-07-18,Credit Card,231,232
+2018-07-18,Debit Card,15,15
+2018-07-18,Voucher,15,21
+2018-07-19,Boleto,66,66
+2018-07-19,Credit Card,173,174
+2018-07-19,Debit Card,11,11
+2018-07-19,Voucher,5,8
+2018-07-20,Boleto,46,46
+2018-07-20,Credit Card,189,189
+2018-07-20,Debit Card,12,12
+2018-07-20,Voucher,8,9
+2018-07-21,Boleto,29,29
+2018-07-21,Credit Card,148,149
+2018-07-21,Debit Card,9,9
+2018-07-21,Voucher,6,7
+2018-07-22,Boleto,33,33
+2018-07-22,Credit Card,173,173
+2018-07-22,Debit Card,8,8
+2018-07-22,Voucher,3,3
+2018-07-23,Boleto,69,69
+2018-07-23,Credit Card,227,227
+2018-07-23,Debit Card,6,6
+2018-07-23,Voucher,8,11
+2018-07-24,Boleto,63,63
+2018-07-24,Credit Card,189,190
+2018-07-24,Debit Card,13,13
+2018-07-24,Voucher,11,11
+2018-07-25,Boleto,51,51
+2018-07-25,Credit Card,200,202
+2018-07-25,Debit Card,11,11
+2018-07-25,Voucher,8,8
+2018-07-26,Boleto,58,58
+2018-07-26,Credit Card,174,175
+2018-07-26,Debit Card,9,9
+2018-07-26,Voucher,16,28
+2018-07-27,Boleto,31,31
+2018-07-27,Credit Card,147,147
+2018-07-27,Debit Card,10,10
+2018-07-27,Voucher,6,8
+2018-07-28,Boleto,31,31
+2018-07-28,Credit Card,136,137
+2018-07-28,Debit Card,6,6
+2018-07-28,Voucher,5,5
+2018-07-29,Boleto,31,31
+2018-07-29,Credit Card,147,147
+2018-07-29,Debit Card,8,8
+2018-07-29,Voucher,6,10
+2018-07-30,Boleto,54,54
+2018-07-30,Credit Card,220,221
+2018-07-30,Debit Card,8,8
+2018-07-30,Voucher,13,20
+2018-07-31,Boleto,74,74
+2018-07-31,Credit Card,234,234
+2018-07-31,Debit Card,11,11
+2018-07-31,Voucher,10,12
+2018-08-01,Boleto,64,64
+2018-08-01,Credit Card,231,234
+2018-08-01,Debit Card,12,12
+2018-08-01,Voucher,11,21
+2018-08-02,Boleto,47,47
+2018-08-02,Credit Card,237,238
+2018-08-02,Debit Card,12,12
+2018-08-02,Voucher,9,9
+2018-08-03,Boleto,77,77
+2018-08-03,Credit Card,227,228
+2018-08-03,Debit Card,7,7
+2018-08-03,Voucher,12,14
+2018-08-04,Boleto,43,43
+2018-08-04,Credit Card,192,193
+2018-08-04,Debit Card,6,6
+2018-08-04,Voucher,8,9
+2018-08-05,Boleto,46,46
+2018-08-05,Credit Card,212,212
+2018-08-05,Debit Card,16,16
+2018-08-05,Voucher,6,6
+2018-08-06,Boleto,68,68
+2018-08-06,Credit Card,292,294
+2018-08-06,Debit Card,7,7
+2018-08-06,Voucher,15,17
+2018-08-07,Boleto,80,80
+2018-08-07,Credit Card,264,264
+2018-08-07,Debit Card,17,17
+2018-08-07,Voucher,13,18
+2018-08-08,Boleto,50,50
+2018-08-08,Credit Card,246,247
+2018-08-08,Debit Card,18,18
+2018-08-08,Voucher,5,6
+2018-08-09,Boleto,48,48
+2018-08-09,Credit Card,215,216
+2018-08-09,Debit Card,17,17
+2018-08-09,Voucher,16,20
+2018-08-10,Boleto,51,51
+2018-08-10,Credit Card,188,189
+2018-08-10,Debit Card,8,8
+2018-08-10,Voucher,14,22
+2018-08-11,Boleto,24,24
+2018-08-11,Credit Card,153,153
+2018-08-11,Debit Card,6,6
+2018-08-11,Voucher,8,9
+2018-08-12,Boleto,23,23
+2018-08-12,Credit Card,159,159
+2018-08-12,Debit Card,12,12
+2018-08-12,Voucher,7,9
+2018-08-13,Boleto,42,42
+2018-08-13,Credit Card,229,230
+2018-08-13,Debit Card,12,12
+2018-08-13,Voucher,12,15
+2018-08-14,Boleto,62,62
+2018-08-14,Credit Card,242,244
+2018-08-14,Debit Card,9,9
+2018-08-14,Voucher,7,7
+2018-08-15,Boleto,58,58
+2018-08-15,Credit Card,213,214
+2018-08-15,Debit Card,12,12
+2018-08-15,Voucher,9,11
+2018-08-16,Boleto,74,74
+2018-08-16,Credit Card,225,226
+2018-08-16,Debit Card,17,17
+2018-08-16,Voucher,8,13
+2018-08-17,Boleto,41,41
+2018-08-17,Credit Card,191,194
+2018-08-17,Debit Card,19,19
+2018-08-17,Voucher,13,14
+2018-08-18,Boleto,22,22
+2018-08-18,Credit Card,163,163
+2018-08-18,Debit Card,8,8
+2018-08-18,Voucher,9,12
+2018-08-19,Boleto,28,28
+2018-08-19,Credit Card,167,168
+2018-08-19,Debit Card,8,8
+2018-08-19,Voucher,4,7
+2018-08-20,Boleto,42,42
+2018-08-20,Credit Card,193,194
+2018-08-20,Debit Card,13,13
+2018-08-20,Voucher,10,13
+2018-08-21,Boleto,38,38
+2018-08-21,Credit Card,186,187
+2018-08-21,Debit Card,13,13
+2018-08-21,Voucher,7,7
+2018-08-22,Boleto,43,43
+2018-08-22,Credit Card,138,138
+2018-08-22,Debit Card,4,4
+2018-08-22,Voucher,2,2
+2018-08-23,Boleto,32,32
+2018-08-23,Credit Card,103,103
+2018-08-23,Debit Card,7,7
+2018-08-23,Voucher,2,2
+2018-08-24,Boleto,14,14
+2018-08-24,Credit Card,80,80
+2018-08-24,Debit Card,3,3
+2018-08-24,Voucher,4,6
+2018-08-25,Boleto,8,8
+2018-08-25,Credit Card,57,57
+2018-08-25,Debit Card,3,3
+2018-08-25,Voucher,3,3
+2018-08-26,Boleto,3,3
+2018-08-26,Credit Card,63,63
+2018-08-26,Debit Card,6,6
+2018-08-26,Voucher,2,4
+2018-08-27,Boleto,9,9
+2018-08-27,Credit Card,52,52
+2018-08-27,Debit Card,4,4
+2018-08-27,Voucher,3,4
+2018-08-28,Boleto,2,2
+2018-08-28,Credit Card,35,35
+2018-08-28,Debit Card,1,1
+2018-08-28,Not Defined,2,2
+2018-08-28,Voucher,4,6
+2018-08-29,Credit Card,10,10
+2018-08-29,Voucher,4,4
+2018-08-30,Voucher,4,4
+2018-08-31,Voucher,1,1
+2018-09-03,Not Defined,1,1
+2018-09-03,Voucher,3,3
+2018-09-06,Voucher,3,3
+2018-09-10,Voucher,1,1
+2018-09-11,Voucher,1,1
+2018-09-12,Voucher,1,1
+2018-09-13,Voucher,1,1
+2018-09-17,Voucher,1,1
+2018-09-20,Voucher,1,1
+2018-09-25,Voucher,1,1
+2018-09-26,Voucher,1,1
+2018-09-29,Voucher,1,1
+2018-10-01,Voucher,1,1
+2018-10-03,Voucher,1,1
+2018-10-16,Voucher,1,1
+2018-10-17,Voucher,1,1

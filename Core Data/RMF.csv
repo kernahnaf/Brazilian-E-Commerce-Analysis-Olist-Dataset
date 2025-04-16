@@ -1,0 +1,9 @@
+"Customer_Segment";"total_customers";"avg_recency";"avg_frequency";"avg_monetary"
+"Champions";816;2895.9;1.0;24.67
+"Loyal Customers";5593;2805.67;1.0;41.19
+"Potential Loyalists";9472;2816.07;1.0;39.18
+"Recent Customers";22709;2814.89;1.0;207.52
+"Frequent Buyers";23068;2553.96;1.0;137.14
+"Big Spenders";13759;2553.71;1.0;38.27
+"Lost Customers";6376;2511.13;1.0;258.46
+"Others";14685;2573.2;1.0;173.59
